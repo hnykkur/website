@@ -1,0 +1,11 @@
+# Project images
+
+Place case study covers and gallery assets here.
+
+Suggested naming: `hanzi-puzzle.jpg`, `aurorago.jpg`, etc.
+
+Reference from MDX frontmatter:
+
+```yaml
+cover: /images/projects/hanzi-puzzle.jpg
+```
