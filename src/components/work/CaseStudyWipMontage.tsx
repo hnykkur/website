@@ -3,9 +3,13 @@ import type { ProjectImage } from "@/types/project";
 
 type CaseStudyWipMontageProps = {
   images: ProjectImage[];
+  title?: string;
 };
 
-export function CaseStudyWipMontage({ images }: CaseStudyWipMontageProps) {
+export function CaseStudyWipMontage({
+  images,
+  title = "Work in progress",
+}: CaseStudyWipMontageProps) {
   if (images.length === 0) {
     return null;
   }
@@ -16,7 +20,7 @@ export function CaseStudyWipMontage({ images }: CaseStudyWipMontageProps) {
         id="wip-heading"
         className="mb-5 text-[1.375rem] font-semibold tracking-tight text-foreground"
       >
-        Work in progress
+        {title}
       </h2>
       <ul className="grid grid-cols-1 gap-4 sm:grid-cols-3 sm:gap-5">
         {images.map((image) => {
@@ -27,8 +31,10 @@ export function CaseStudyWipMontage({ images }: CaseStudyWipMontageProps) {
               <figure>
                 <div
                   className={[
-                    "relative aspect-[4/3] w-full overflow-hidden bg-surface-muted ring-1 ring-border",
-                    isPlaceholder ? "border border-dashed border-border" : "",
+                    "relative aspect-[3/4] w-full overflow-hidden ring-1 ring-border",
+                    isPlaceholder
+                      ? "border border-dashed border-border bg-surface-muted"
+                      : "bg-black",
                   ].join(" ")}
                 >
                   <Image
@@ -38,7 +44,7 @@ export function CaseStudyWipMontage({ images }: CaseStudyWipMontageProps) {
                     className={
                       isPlaceholder
                         ? "object-contain p-6 sm:p-8"
-                        : "object-cover"
+                        : "object-contain"
                     }
                     sizes="(max-width: 640px) 100vw, 20rem"
                   />

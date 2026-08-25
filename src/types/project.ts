@@ -23,6 +23,8 @@ export type ProjectMeta = {
   productImage?: ProjectImage;
   /** Small WIP montage frames (typically 2–3). */
   wipImages?: ProjectImage[];
+  /** Heading above the WIP / gallery montage. Default: Work in progress */
+  wipTitle?: string;
   order: number;
 };
 

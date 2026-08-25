@@ -35,7 +35,10 @@ export function CaseStudyArticle({
         <div className="mt-12 sm:mt-16">
           <CaseStudyBody source={beforeOutcome} />
           {meta.wipImages ? (
-            <CaseStudyWipMontage images={meta.wipImages} />
+            <CaseStudyWipMontage
+              images={meta.wipImages}
+              title={meta.wipTitle}
+            />
           ) : null}
           {outcome ? <CaseStudyBody source={outcome} /> : null}
         </div>

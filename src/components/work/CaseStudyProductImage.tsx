@@ -12,8 +12,10 @@ export function CaseStudyProductImage({ image }: CaseStudyProductImageProps) {
     <figure className="mt-10 sm:mt-12">
       <div
         className={[
-          "relative aspect-[16/10] w-full overflow-hidden bg-surface-muted ring-1 ring-border",
-          isPlaceholder ? "border border-dashed border-border" : "",
+          "relative mx-auto w-full overflow-hidden ring-1 ring-border",
+          isPlaceholder
+            ? "aspect-[16/10] border border-dashed border-border bg-surface-muted"
+            : "aspect-[3/4] max-w-md bg-black sm:max-w-lg",
         ].join(" ")}
       >
         <Image
@@ -21,9 +23,9 @@ export function CaseStudyProductImage({ image }: CaseStudyProductImageProps) {
           alt={image.alt}
           fill
           className={
-            isPlaceholder ? "object-contain p-10 sm:p-16" : "object-cover"
+            isPlaceholder ? "object-contain p-10 sm:p-16" : "object-contain"
           }
-          sizes="(max-width: 1024px) 100vw, 64rem"
+          sizes="(max-width: 640px) 100vw, 32rem"
           priority
         />
         {isPlaceholder ? (

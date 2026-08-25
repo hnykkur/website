@@ -92,6 +92,7 @@ function parseMeta(slug: string, data: Record<string, unknown>): ProjectMeta {
         : undefined,
     productImage: parseImage(data.productImage),
     wipImages: parseWipImages(data.wipImages),
+    wipTitle: typeof data.wipTitle === "string" ? data.wipTitle : undefined,
     order: data.order,
   };
 }
@@ -110,6 +111,7 @@ function toMeta(project: Project): ProjectMeta {
     coverZoom: project.coverZoom,
     productImage: project.productImage,
     wipImages: project.wipImages,
+    wipTitle: project.wipTitle,
     order: project.order,
   };
 }
