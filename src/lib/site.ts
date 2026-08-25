@@ -5,7 +5,7 @@ export const site = {
   description:
     "Icelandic engineering for embedded systems, electronics, software, and product development.",
   url: "https://hnykkur.com",
-  email: "hello@hnykkur.com",
+  email: "contact@hnykkur.com",
   location: "Iceland",
 } as const;
 

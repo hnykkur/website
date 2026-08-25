@@ -1,29 +1,45 @@
 ---
-title: Robot Soccer
-summary: Autonomous robot soccer systems combining embedded control, sensing, and real-time decision making on the field.
+title: Róbó-Fóbó
+summary: A four-robot soccer fleet built from open Robot Soccer Kit hardware, driven phone-to-robot over Bluetooth Low Energy for classroom and outdoor play.
 tags:
   - Embedded
   - Robotics
-  - Control
+  - BLE
 status: ongoing
 year: 2025
 featured: true
 order: 3
 cover: /images/projects/robot-soccer.png
+productImage:
+  src: /images/placeholders/product.svg
+  alt: Placeholder for four Róbó-Fóbó robots
+  caption: Four robots on the field, LED collars visible
+wipImages:
+  - src: /images/placeholders/wip.svg
+    alt: Placeholder for laser-cut or printed parts
+    caption: Laser-cut and printed parts before assembly
+  - src: /images/placeholders/wip.svg
+    alt: Placeholder for PCB populate and bring-up
+    caption: PCB populate and first bring-up
+  - src: /images/placeholders/wip.svg
+    alt: Placeholder for BLE teleop test
+    caption: Early BLE teleop drive test
 ---
 
 ## Context
 
-Robot soccer is a demanding proving ground for autonomous systems — tight timing, noisy sensing, physical contact, and decisions that must happen on the field, not in a lab after the fact.
+The open Robot Soccer Kit supports vision-based matches with a PC controller, camera tracking, and robots on a shared network. That stack suits competitions; day-to-day play often needs something lighter — one phone per robot, ready for a classroom or outdoor pitch.
+
+Róbó-Fóbó keeps the published mechanics and electronics, and redesigns the control path for four independent BLE links.
 
 ## Role & scope
 
-Embedded systems and control work across sensing, actuation, on-robot software, and the integration needed for coordinated play.
+Building four physical robots from the kit blueprints; custom ESP32 firmware with a single image and NVS identity; a Flutter companion app for joystick drive, kick, and LED colour; and the fabrication and bring-up work that turns DXFs, STLs, and Gerbers into a repeatable fleet.
 
 ## Approach
 
-The engineering focus is reliable loops: perception that holds under motion, control that stays stable under disturbance, and software architecture that can be iterated between matches without becoming fragile.
+Control runs over BLE GATT (Nordic UART–style), retaining the kit’s binary framing on a point-to-point link. One firmware serves all robots via `robotid` in NVS; collar colour persists the same way. Real hardware forced hardening — flash layout for the BLE stack, reliable kick timing from BLE callbacks, and a connect UX that stays cancelable when switching robots. Upstream CAD, PCB lineage, and kinematics remain the foundation; day-to-day use is phone teleop on the fleet.
 
 ## Outcome
 
-An ongoing robotics programme advancing autonomous play through embedded systems and field-tested iteration.
+A four-robot fleet with phone teleop over BLE, published Android builds, and firmware adapted for field use. Mechanics and electronics still credit the Robot Soccer Kit; ongoing work is play, reliability, and the gap between open blueprints and four identical builds.

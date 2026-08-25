@@ -2,10 +2,16 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { CaseStudyBody } from "@/components/work/CaseStudyBody";
 import { CaseStudyHeader } from "@/components/work/CaseStudyHeader";
+import { CaseStudyProductImage } from "@/components/work/CaseStudyProductImage";
+import { CaseStudyWipMontage } from "@/components/work/CaseStudyWipMontage";
 import { Button } from "@/components/ui/Button";
 import { Container } from "@/components/ui/Container";
 import { TextLink } from "@/components/ui/TextLink";
-import { getProject, getProjectSlugs } from "@/lib/projects";
+import {
+  getProject,
+  getProjectSlugs,
+  splitCaseStudyContent,
+} from "@/lib/projects";
 
 type PageProps = {
   params: Promise<{ slug: string }>;
@@ -24,13 +30,15 @@ export async function generateMetadata({
     return { title: "Project" };
   }
 
+  const ogImage = project.productImage?.src ?? project.cover;
+
   return {
     title: project.title,
     description: project.summary,
     openGraph: {
       title: project.title,
       description: project.summary,
-      ...(project.cover ? { images: [{ url: project.cover }] } : {}),
+      ...(ogImage ? { images: [{ url: ogImage }] } : {}),
     },
   };
 }
@@ -44,6 +52,7 @@ export default async function ProjectPage({ params }: PageProps) {
   }
 
   const { content, ...meta } = project;
+  const { beforeOutcome, outcome } = splitCaseStudyContent(content);
 
   return (
     <article className="py-16 sm:py-24">
@@ -52,8 +61,15 @@ export default async function ProjectPage({ params }: PageProps) {
           <TextLink href="/work">← Work</TextLink>
         </p>
         <CaseStudyHeader project={meta} />
+        {meta.productImage ? (
+          <CaseStudyProductImage image={meta.productImage} />
+        ) : null}
         <div className="mt-12 sm:mt-16">
-          <CaseStudyBody source={content} />
+          <CaseStudyBody source={beforeOutcome} />
+          {meta.wipImages ? (
+            <CaseStudyWipMontage images={meta.wipImages} />
+          ) : null}
+          {outcome ? <CaseStudyBody source={outcome} /> : null}
         </div>
         <div className="mt-16 border-t border-border pt-10 sm:mt-20">
           <h2 className="text-xl font-semibold tracking-tight text-foreground">

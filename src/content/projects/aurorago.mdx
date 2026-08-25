@@ -1,30 +1,46 @@
 ---
 title: AuroraGo
-summary: A mobile experience connecting people with aurora forecasts and the conditions that make northern lights worth chasing.
+summary: An aurora companion that combines local sky sensing, space-weather forecasts, and phone alerts — so travelers know when conditions are worth going outside.
 tags:
-  - Software
+  - Embedded
+  - Hardware
   - Mobile
-  - Iceland
-status: shipped
+status: ongoing
 year: 2024
 featured: true
 order: 2
 cover: /images/projects/aurorago.png
 coverFit: contain
+productImage:
+  src: /images/placeholders/product.svg
+  alt: Placeholder for AuroraGo device and companion app
+  caption: Outdoor sky sensor with companion app — forecasts, space weather, and local alerts
+wipImages:
+  - src: /images/placeholders/wip.svg
+    alt: Placeholder for camera and MCU bench setup
+    caption: ESP32-S3 and camera bench bring-up
+  - src: /images/placeholders/wip.svg
+    alt: Placeholder for detection debug frame
+    caption: Movement mask and detection debug
+  - src: /images/placeholders/wip.svg
+    alt: Placeholder for enclosure or power work
+    caption: Enclosure, PCB, or cold-power work
 ---
 
 ## Context
 
-Seeing the aurora depends on space weather, cloud cover, darkness, and location. AuroraGo brings those signals together so people in Iceland — and visitors — can decide when conditions are worth going out for.
+Aurora can appear suddenly, last minutes, then fade. Travelers need both a sense of the night ahead — forecasts and space weather — and confirmation that light is showing in the sky where they are.
+
+AuroraGo is built as an all-around companion: an outdoor camera device watches a dark patch of sky and scores visible aurora at the user’s location, while the phone app brings forecasts, space-weather context, and alerts together so people can rest indoors and step out when it counts.
 
 ## Role & scope
 
-Product and software development spanning forecast presentation, location-aware guidance, and a focused mobile experience designed for cold, dark nights outdoors.
+Embedded and product work end to end — ESP32-S3 capture with a GC2145 camera, on-device scoring, BLE confidence broadcast, enclosure and power design for cold overnight use, and a companion app for forecasts, status, and alerts.
 
 ## Approach
 
-The product emphasizes signal over noise: clear forecasts, practical timing, and an interface that works when you are away from a desk. Engineering choices favor reliability and readability over feature sprawl.
+The device senses and scores local sky conditions; the phone receives confidence over BLE and layers forecast and space-weather signals for planning. A low-resolution capture loop pauses BLE around DMA, runs frame differencing and a green-hue filter with a noise gate, then resumes advertising. High-res snapshots and Wi-Fi tooling support development; cold nights, condensation, and ambient light shape the hardware constraints.
 
 ## Outcome
 
-A shipped mobile experience used to plan aurora outings under real Icelandic conditions.
+A working capture pipeline, on-device aurora scoring, and BLE confidence broadcast, with PCB and enclosure exploration underway. Still productizing the polished companion UX, sleep budget, cold-battery strategy, and field-tuned detection thresholds.

@@ -1,5 +1,11 @@
 export type ProjectStatus = "active" | "shipped" | "ongoing" | "consulting";
 
+export type ProjectImage = {
+  src: string;
+  alt: string;
+  caption?: string;
+};
+
 export type ProjectMeta = {
   slug: string;
   title: string;
@@ -13,6 +19,10 @@ export type ProjectMeta = {
   coverFit?: "cover" | "contain";
   /** Scale inside the squircle to tighten padding on smaller icons. */
   coverZoom?: number;
+  /** Large final-product figure on the case study page. */
+  productImage?: ProjectImage;
+  /** Small WIP montage frames (typically 2–3). */
+  wipImages?: ProjectImage[];
   order: number;
 };
 
