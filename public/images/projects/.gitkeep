@@ -2,10 +2,10 @@
 
 Place case study covers and gallery assets here.
 
-Suggested naming: `hanzi-puzzle.jpg`, `aurorago.jpg`, etc.
+Suggested naming: `hanzi-tree.jpg`, `aurorago.jpg`, etc.
 
 Reference from MDX frontmatter:
 
 ```yaml
-cover: /images/projects/hanzi-puzzle.jpg
+cover: /images/projects/hanzi-tree.jpg
 ```

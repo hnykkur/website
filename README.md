@@ -104,6 +104,7 @@ No CMS — git is the content store. Adding a project is one MDX file (and optio
 | `/work/[slug]` | Case study |
 | `/about` | Bio and competencies |
 | `/contact` | Contact form |
+| `/hanzitree` | Hanzi Tree (same case study as `/work/hanzi-tree` for now) |
 | `/hanzitree/privacy` | Hanzi Tree privacy policy |
 
 ## Scripts
