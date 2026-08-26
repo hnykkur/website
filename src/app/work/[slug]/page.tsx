@@ -20,7 +20,17 @@ export async function generateMetadata({
     return { title: "Project" };
   }
 
-  const ogImage = project.productImage?.src ?? project.cover;
+  const ogImage = project.ogImage ?? project.cover;
+  const ogImages = ogImage
+    ? [
+        {
+          url: ogImage,
+          width: 1200,
+          height: 630,
+          alt: `${project.title} logo`,
+        },
+      ]
+    : undefined;
 
   return {
     title: project.title,
@@ -28,7 +38,13 @@ export async function generateMetadata({
     openGraph: {
       title: project.title,
       description: project.summary,
-      ...(ogImage ? { images: [{ url: ogImage }] } : {}),
+      images: ogImages,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: project.title,
+      description: project.summary,
+      images: ogImage ? [ogImage] : undefined,
     },
   };
 }

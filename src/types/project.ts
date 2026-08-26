@@ -34,6 +34,8 @@ export type ProjectMeta = {
   coverFit?: "cover" | "contain";
   /** Scale inside the squircle to tighten padding on smaller icons. */
   coverZoom?: number;
+  /** Social / Open Graph preview image. Falls back to cover. */
+  ogImage?: string;
   /** Large final-product figure on the case study page. */
   productImage?: ProjectImage;
   /** Small WIP montage frames (typically 2–3). */

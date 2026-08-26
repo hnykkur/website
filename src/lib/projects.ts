@@ -127,6 +127,7 @@ function parseMeta(slug: string, data: Record<string, unknown>): ProjectMeta {
       typeof data.coverZoom === "number" && data.coverZoom > 0
         ? data.coverZoom
         : undefined,
+    ogImage: typeof data.ogImage === "string" ? data.ogImage : undefined,
     productImage: parseImage(data.productImage),
     wipImages: parseWipImages(data.wipImages),
     wipTitle: typeof data.wipTitle === "string" ? data.wipTitle : undefined,
@@ -148,6 +149,7 @@ function toMeta(project: Project): ProjectMeta {
     cover: project.cover,
     coverFit: project.coverFit,
     coverZoom: project.coverZoom,
+    ogImage: project.ogImage,
     productImage: project.productImage,
     wipImages: project.wipImages,
     wipTitle: project.wipTitle,

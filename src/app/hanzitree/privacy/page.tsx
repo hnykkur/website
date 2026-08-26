@@ -7,6 +7,25 @@ export const metadata: Metadata = {
   title: "Privacy Policy — Hanzi Tree",
   description:
     "Privacy policy for the Hanzi Tree Chinese language learning app by Hnykkur.",
+  openGraph: {
+    title: "Privacy Policy — Hanzi Tree",
+    description:
+      "Privacy policy for the Hanzi Tree Chinese language learning app by Hnykkur.",
+    url: `${site.url}/hanzitree/privacy`,
+    images: [
+      {
+        url: "/images/projects/hanzi-tree/og.png",
+        width: 1200,
+        height: 630,
+        alt: "Hanzi Tree logo",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Privacy Policy — Hanzi Tree",
+    images: ["/images/projects/hanzi-tree/og.png"],
+  },
 };
 
 export default function HanziTreePrivacyPage() {
