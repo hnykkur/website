@@ -25,6 +25,29 @@ wipImages:
   - src: /images/projects/hanzi-tree/character-progress.png
     alt: Hanzi Tree character progress grid with mastery bars
     caption: Character progress and mastery
+toolsImages:
+  - src: /images/projects/hanzi-tree/etymology-editor.png
+    alt: Hanzi Tree Etymology editor on Windows
+    caption: Etymology editor — meanings, components, and teaching notes
+  - src: /images/projects/hanzi-tree/layout-editor.png
+    alt: Hanzi Tree Component layout editor on Windows
+    caption: Layout editor — slot geometry for puzzle assembly
+platforms:
+  - id: ios
+    label: iOS
+    status: testing
+  - id: macos
+    label: macOS
+    status: testing
+  - id: android
+    label: Android
+    status: testing
+  - id: windows
+    label: Windows
+    status: testing
+  - id: web
+    label: Web
+    status: planned
 ---
 
 ## Context
@@ -39,8 +62,14 @@ Product concept through software implementation in Flutter: skill tree, puzzle m
 
 ## Approach
 
-The curriculum moves from early pictographs and radicals toward real vocabulary, with gated practice and competency and mastery rings. Content stays in versioned course data; modes keep assembly and recognition focused. The near-term path is Android and web builds, with store publishing still ahead.
+The curriculum moves from early pictographs and radicals toward real vocabulary, with gated practice and competency and mastery rings. Content stays in versioned course data; modes keep assembly and recognition focused. Store publishing is still ahead; web access is planned once user accounts are in place.
+
+## Authoring tools
+
+For classroom and curriculum work, companion editors let teachers and others add custom glyphs and explanations to the Hanzi Tree database without hand-editing course files. They run on Windows today, with web authoring planned later. They are separate from the basic learner app.
+
+The Etymology editor keeps meanings, IDS components, and teaching notes in one place. The Layout editor lets you tune how those parts sit in puzzle slots — including an SVG round-trip for precise vector work — then preview how a character will play in-game.
 
 ## Outcome
 
-A working Flutter app with foundations through early IDS and radical drills, local progress, and tutorial support. More course material exists than is wired into the tree; the product is iterating toward a shippable learner loop.
+A working Flutter app with foundations through early IDS and radical drills, local progress, and tutorial support. More course material exists than is wired into the tree; the product is iterating toward a shippable learner loop across the platforms under test, with classroom authoring as a separate track.

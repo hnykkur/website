@@ -6,6 +6,21 @@ export type ProjectImage = {
   caption?: string;
 };
 
+export type ProjectPlatformId =
+  | "ios"
+  | "macos"
+  | "android"
+  | "windows"
+  | "web";
+
+export type ProjectPlatformStatus = "testing" | "planned";
+
+export type ProjectPlatform = {
+  id: ProjectPlatformId;
+  label: string;
+  status: ProjectPlatformStatus;
+};
+
 export type ProjectMeta = {
   slug: string;
   title: string;
@@ -25,6 +40,10 @@ export type ProjectMeta = {
   wipImages?: ProjectImage[];
   /** Heading above the WIP / gallery montage. Default: Work in progress */
   wipTitle?: string;
+  /** Optional secondary gallery (e.g. authoring tools). */
+  toolsImages?: ProjectImage[];
+  /** Optional supported / planned platforms. */
+  platforms?: ProjectPlatform[];
   order: number;
 };
 

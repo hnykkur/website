@@ -1,5 +1,6 @@
 import { CaseStudyBody } from "@/components/work/CaseStudyBody";
 import { CaseStudyHeader } from "@/components/work/CaseStudyHeader";
+import { CaseStudyPlatforms } from "@/components/work/CaseStudyPlatforms";
 import { CaseStudyProductImage } from "@/components/work/CaseStudyProductImage";
 import { CaseStudyWipMontage } from "@/components/work/CaseStudyWipMontage";
 import { Button } from "@/components/ui/Button";
@@ -20,7 +21,7 @@ export function CaseStudyArticle({
   backLabel = "← Work",
 }: CaseStudyArticleProps) {
   const { content, ...meta } = project;
-  const { beforeOutcome, outcome } = splitCaseStudyContent(content);
+  const { main, tools, outcome } = splitCaseStudyContent(content);
 
   return (
     <article className="py-16 sm:py-24">
@@ -32,13 +33,20 @@ export function CaseStudyArticle({
         {meta.productImage ? (
           <CaseStudyProductImage image={meta.productImage} />
         ) : null}
+        {meta.platforms ? (
+          <CaseStudyPlatforms platforms={meta.platforms} />
+        ) : null}
         <div className="mt-12 sm:mt-16">
-          <CaseStudyBody source={beforeOutcome} />
+          <CaseStudyBody source={main} />
           {meta.wipImages ? (
             <CaseStudyWipMontage
               images={meta.wipImages}
               title={meta.wipTitle}
             />
+          ) : null}
+          {tools ? <CaseStudyBody source={tools} /> : null}
+          {meta.toolsImages ? (
+            <CaseStudyWipMontage images={meta.toolsImages} layout="wide" />
           ) : null}
           {outcome ? <CaseStudyBody source={outcome} /> : null}
         </div>

@@ -5,6 +5,9 @@ import type {
   Project,
   ProjectImage,
   ProjectMeta,
+  ProjectPlatform,
+  ProjectPlatformId,
+  ProjectPlatformStatus,
   ProjectStatus,
 } from "@/types/project";
 
@@ -47,6 +50,40 @@ function parseWipImages(value: unknown): ProjectImage[] | undefined {
     .slice(0, 3);
 
   return images.length > 0 ? images : undefined;
+}
+
+function isPlatformId(value: unknown): value is ProjectPlatformId {
+  return (
+    value === "ios" ||
+    value === "macos" ||
+    value === "android" ||
+    value === "windows" ||
+    value === "web"
+  );
+}
+
+function isPlatformStatus(value: unknown): value is ProjectPlatformStatus {
+  return value === "testing" || value === "planned";
+}
+
+function parsePlatforms(value: unknown): ProjectPlatform[] | undefined {
+  if (!Array.isArray(value)) {
+    return undefined;
+  }
+
+  const platforms = value.flatMap((item): ProjectPlatform[] => {
+    if (!item || typeof item !== "object") {
+      return [];
+    }
+    const record = item as Record<string, unknown>;
+    if (!isPlatformId(record.id) || typeof record.label !== "string") {
+      return [];
+    }
+    const status = isPlatformStatus(record.status) ? record.status : "testing";
+    return [{ id: record.id, label: record.label, status }];
+  });
+
+  return platforms.length > 0 ? platforms : undefined;
 }
 
 function parseMeta(slug: string, data: Record<string, unknown>): ProjectMeta {
@@ -93,6 +130,8 @@ function parseMeta(slug: string, data: Record<string, unknown>): ProjectMeta {
     productImage: parseImage(data.productImage),
     wipImages: parseWipImages(data.wipImages),
     wipTitle: typeof data.wipTitle === "string" ? data.wipTitle : undefined,
+    toolsImages: parseWipImages(data.toolsImages),
+    platforms: parsePlatforms(data.platforms),
     order: data.order,
   };
 }
@@ -112,6 +151,8 @@ function toMeta(project: Project): ProjectMeta {
     productImage: project.productImage,
     wipImages: project.wipImages,
     wipTitle: project.wipTitle,
+    toolsImages: project.toolsImages,
+    platforms: project.platforms,
     order: project.order,
   };
 }
@@ -156,18 +197,33 @@ export function getProjectSlugs(): string[] {
   return getProjects().map((project) => project.slug);
 }
 
-/** Split case-study MDX so a WIP montage can sit before Outcome. */
+/** Split case-study MDX around optional Authoring tools and Outcome. */
 export function splitCaseStudyContent(content: string): {
-  beforeOutcome: string;
+  main: string;
+  tools: string;
   outcome: string;
 } {
-  const match = content.match(/^## Outcome\s*$/m);
-  if (!match || match.index === undefined) {
-    return { beforeOutcome: content, outcome: "" };
+  const outcomeMatch = content.match(/^## Outcome\s*$/m);
+  const toolsMatch = content.match(/^## Authoring tools\s*$/m);
+
+  const outcomeIndex = outcomeMatch?.index;
+  const toolsIndex = toolsMatch?.index;
+
+  if (toolsIndex !== undefined && outcomeIndex !== undefined) {
+    return {
+      main: content.slice(0, toolsIndex).trim(),
+      tools: content.slice(toolsIndex, outcomeIndex).trim(),
+      outcome: content.slice(outcomeIndex).trim(),
+    };
   }
 
-  return {
-    beforeOutcome: content.slice(0, match.index).trim(),
-    outcome: content.slice(match.index).trim(),
-  };
+  if (outcomeIndex !== undefined) {
+    return {
+      main: content.slice(0, outcomeIndex).trim(),
+      tools: "",
+      outcome: content.slice(outcomeIndex).trim(),
+    };
+  }
+
+  return { main: content, tools: "", outcome: "" };
 }
