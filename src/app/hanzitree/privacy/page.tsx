@@ -40,7 +40,7 @@ export default function HanziTreePrivacyPage() {
             Privacy Policy
           </h1>
           <p className="mt-5 text-base leading-relaxed text-muted">
-            Effective date: August 25, 2026
+            Effective date: September 26, 2026
           </p>
         </header>
 
@@ -50,87 +50,73 @@ export default function HanziTreePrivacyPage() {
               Hanzi Tree is a Chinese language learning application developed by{" "}
               <strong>Hnykkur</strong>.
             </p>
+            <p>
+              Using the app means you agree that a release build may send an
+              anonymous study log. That log is untraceable to you.
+            </p>
 
             <h2>Information collection</h2>
             <p>
-              Hanzi Tree does not collect, transmit, or share personal
-              information or usage data.
+              Hanzi Tree does not create an account. It does not collect your
+              name, email, contacts, photos, microphone, camera, or location. It
+              does not use advertising or an advertising ID. It does not use
+              crash reporting.
             </p>
             <p>
-              The app does not require an account or sign-in and does not use
-              analytics, advertising, crash-reporting, or tracking services.
+              A release build sends an anonymous study log: the lessons you
+              ran, how each puzzle turned out, and how long each puzzle was on
+              screen. A random id on the device groups those days together. The
+              log has no name, and it is untraceable to you. It is sent on the
+              first open of a new day, or when you tap{" "}
+              <strong>Send study log now</strong> in Settings.
+            </p>
+            <p>
+              A problem report is sent only when you tap Send. It includes the
+              lesson, the puzzle line, the course file name, and the note you
+              write (up to 300 characters), under the same anonymous id.
+            </p>
+            <p>
+              These uploads are stored in Google Cloud Firestore for the
+              developer of Hanzi Tree. They are encrypted in transit.
             </p>
 
             <h2>Information stored on your device</h2>
             <p>
-              Hanzi Tree stores learning information locally on your device so
-              that the app can remember your progress and preferences. This may
-              include:
-            </p>
-            <ul>
-              <li>learning progress and scores</li>
-              <li>mistakes and mastery information</li>
-              <li>practice activity</li>
-              <li>app preferences</li>
-              <li>tutorial progress</li>
-              <li>reminder settings</li>
-            </ul>
-            <p>
-              This information remains on your device and is not transmitted to
-              Hnykkur or any third party.
+              Hanzi Tree stores learning information locally so the app can
+              remember your progress and preferences. This may include learning
+              progress and scores, mistakes and mastery, practice activity, app
+              preferences, tutorial progress, reminder settings, and an optional
+              Chinese given name. That name stays on the device.
             </p>
             <p>
-              You can delete this information using{" "}
+              You can erase learning progress with{" "}
               <strong>Settings → Reset all progress</strong>. Uninstalling the
-              app also removes its locally stored application data.
+              app removes its locally stored data.
             </p>
 
             <h2>Notifications</h2>
             <p>
-              Hanzi Tree can optionally provide local practice reminders.
-              Notifications are disabled by default and require your permission
-              before they are enabled.
-            </p>
-            <p>
-              Reminder scheduling and related information are processed locally
-              on your device and are not sent to Hnykkur.
-            </p>
-
-            <h2>Internet services and third parties</h2>
-            <p>
-              Hanzi Tree does not use a server or cloud service to store user
-              information.
-            </p>
-            <p>
-              Learning content, fonts, graphics, and speech audio used by the
-              app are included with the application and do not require user
-              information to be sent to an external service.
-            </p>
-            <p>
-              Hanzi Tree does not contain advertising or advertising tracking.
+              Practice reminders are off until you turn them on. The app asks
+              for notification permission and schedules local notifications on
+              the device. Reminder settings are not uploaded.
             </p>
 
             <h2>Children&apos;s privacy</h2>
             <p>
-              Hanzi Tree does not knowingly collect personal information from
-              children or adults. Because user information is not collected or
-              transmitted, Hnykkur does not maintain personal profiles of
-              learners.
+              The study log is anonymous and untraceable. Hanzi Tree does not
+              collect a learner&apos;s name.
             </p>
 
-            <h2>Changes to this privacy policy</h2>
+            <h2>Changes</h2>
             <p>
-              This policy may be updated if Hanzi Tree&apos;s features or data
-              practices change. Any updated policy will be published on this
-              page with a revised effective date.
+              This policy may be updated if Hanzi Tree&apos;s data practices
+              change. Any update will be published on this page with a revised
+              effective date.
             </p>
 
             <h2>Contact</h2>
             <p>
-              If you have questions about this privacy policy or Hanzi
-              Tree&apos;s privacy practices, please contact Hnykkur through the
-              contact information provided at{" "}
-              <a href={site.url}>hnykkur.com</a>.
+              <a href={`mailto:${site.email}`}>{site.email}</a>
             </p>
           </Prose>
         </div>
