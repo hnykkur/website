@@ -88,7 +88,7 @@ export default function HanziTreePage() {
                 <img
                   src={install.pair}
                   alt=""
-                  className="h-12 w-full rounded-sm bg-black object-contain"
+                  className="h-12 w-full rounded-sm bg-white object-contain"
                 />
                 <img
                   src={install.qr}
