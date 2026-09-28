@@ -4,7 +4,7 @@ import { Container } from "@/components/ui/Container";
 import { site } from "@/lib/site";
 
 /** Same release on the web, iPhone, Android, and Windows. */
-const appVersion = "1.0.0";
+const appVersion = "1.0.0 (5)";
 
 const installs = [
   {
@@ -90,9 +90,14 @@ export default function HanziTreePage() {
         >
           Play in browser
         </a>
-        <p className="mt-8 max-w-xl text-base text-foreground">
-          Or install version {appVersion} for these platforms. It is the same
-          release on the web, iPhone, Android, and Windows.
+        <p className="mt-6 max-w-xl text-base leading-relaxed text-foreground">
+          The browser can only take a limited number of people. Please install
+          the app and play there. Use the browser for a quick test, or if you
+          cannot use any of the other platforms.
+        </p>
+        <p className="mt-4 max-w-xl text-base text-foreground">
+          Install version {appVersion}. It is the same release on the web,
+          iPhone, Android, and Windows.
         </p>
         <ul className="mt-6 grid max-w-3xl grid-cols-2 gap-4 sm:grid-cols-4">
           {installs.map((install) => (
