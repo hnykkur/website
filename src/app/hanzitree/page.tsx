@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { PlayLaunch } from "@/components/hanzitree/PlayLaunch";
 import { Container } from "@/components/ui/Container";
 import { site } from "@/lib/site";
+
+/** Same release on the web, iPhone, Android, and Windows. */
+const appVersion = "1.0.0";
 
 const installs = [
   {
@@ -64,8 +66,15 @@ export default function HanziTreePage() {
     <section className="relative overflow-hidden hero-atmosphere">
       <div className="absolute inset-0 hero-grain" aria-hidden="true" />
       <Container className="relative flex min-h-[calc(100svh-8rem)] flex-col justify-center py-16 sm:py-24">
+        <img
+          src="/images/hanzitree/banner.png"
+          alt="Hanzi Tree. Understand, connect, build, remember."
+          width={1795}
+          height={876}
+          className="mb-10 w-full rounded-md"
+        />
         <p className="font-mono text-xs tracking-wide text-muted uppercase">
-          Hanzi Tree
+          Hanzi Tree · Version {appVersion}
         </p>
         <h1 className="mt-4 max-w-3xl text-5xl font-semibold tracking-tight text-foreground sm:text-6xl md:text-7xl">
           Characters, built from parts
@@ -75,8 +84,17 @@ export default function HanziTreePage() {
           when you see it. Progress stays in this browser, so the button below
           brings you back to the same place in the tree.
         </p>
-        <PlayLaunch />
-        <ul className="mt-10 grid max-w-3xl grid-cols-2 gap-4 sm:grid-cols-4">
+        <a
+          href="/hanzitree/play/"
+          className="mt-10 inline-flex min-h-20 w-full max-w-xl items-center justify-center rounded-md bg-foreground px-10 py-6 text-2xl font-semibold tracking-tight text-background transition-colors hover:bg-foreground/85 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-foreground sm:w-auto sm:min-w-80 sm:text-3xl"
+        >
+          Play in browser
+        </a>
+        <p className="mt-8 max-w-xl text-base text-foreground">
+          Or install version {appVersion} for these platforms. It is the same
+          release on the web, iPhone, Android, and Windows.
+        </p>
+        <ul className="mt-6 grid max-w-3xl grid-cols-2 gap-4 sm:grid-cols-4">
           {installs.map((install) => (
             <li key={install.label}>
               <a
@@ -102,12 +120,12 @@ export default function HanziTreePage() {
             </li>
           ))}
         </ul>
-        <p className="mt-10 text-sm text-muted">
+        <p className="mt-10">
           <Link
             href="/hanzitree/privacy"
-            className="underline decoration-border underline-offset-4 transition-colors hover:text-foreground"
+            className="text-base font-medium text-foreground underline decoration-foreground/40 underline-offset-4 transition-colors hover:decoration-foreground"
           >
-            Privacy
+            Read privacy statement
           </Link>
         </p>
       </Container>
