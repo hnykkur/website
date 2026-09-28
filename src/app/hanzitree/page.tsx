@@ -63,9 +63,8 @@ export const metadata: Metadata = {
 
 export default function HanziTreePage() {
   return (
-    <section className="relative overflow-hidden hero-atmosphere">
-      <div className="absolute inset-0 hero-grain" aria-hidden="true" />
-      <Container className="relative flex min-h-[calc(100svh-8rem)] flex-col justify-center py-16 sm:py-24">
+    <div className="py-16 sm:py-24">
+      <Container>
         <img
           src="/images/hanzitree/banner.png"
           alt="Hanzi Tree. Understand, connect, build, remember."
@@ -134,6 +133,6 @@ export default function HanziTreePage() {
           </Link>
         </p>
       </Container>
-    </section>
+    </div>
   );
 }

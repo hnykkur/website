@@ -10,6 +10,7 @@ export const site = {
 } as const;
 
 export const navItems = [
+  { href: "/hanzitree", label: "Hanzi Tree" },
   { href: "/work", label: "Work" },
   { href: "/about", label: "About" },
   { href: "/contact", label: "Contact" },
