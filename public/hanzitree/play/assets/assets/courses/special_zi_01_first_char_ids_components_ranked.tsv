@@ -1,0 +1,43 @@
+# IDS leaf glyphs from the first character of each hanzi in special_zi_01.tsv that are
+# NOT in the curriculum union (pictographs_01 ∪ pictographs_02 ∪ radicals_01
+# ∪ radicals_02 via load_foundations_allowed_glyphs). Placeholder leaves excluded.
+# Decompositions: merged dictionary.txt + dictionary.Txt (ids_leaves as pick_foundations_allowlist).
+#
+# leaf_occurrences: multiplicity across first-character IDS parses (special_zi lemmas only).
+# distinct_special_zi_words: lemmas whose first char IDS includes this glyph at least once.
+# in_kangxi_radicals_sorted_by_theme: 1 if glyph appears among forms in
+#   kangxi_radicals_sorted_by_theme.tsv (radical_forms + simplified_or_note).
+#
+# Sorted by leaf_occurrences (desc), distinct_special_zi_words (desc), component.
+component	leaf_occurrences	distinct_special_zi_words	in_kangxi_radicals_sorted_by_theme
+衤	4	4	0
+合	2	2	0
+㐬	1	1	0
+不	1	1	0
+交	1	1	0
+亥	1	1	0
+代	1	1	0
+侯	1	1	0
+冒	1	1	0
+凶	1	1	0
+列	1	1	0
+化	1	1	0
+卑	1	1	0
+卓	1	1	0
+占	1	1	0
+去	1	1	0
+君	1	1	0
+奇	1	1	0
+孛	1	1	0
+完	1	1	0
+师	1	1	0
+库	1	1	0
+快	1	1	0
+末	1	1	0
+炎	1	1	0
+畀	1	1	0
+登	1	1	0
+相	1	1	0
+竟	1	1	0
+阝	1	1	0
+饣	1	1	0

@@ -1,0 +1,22 @@
+# Class Tree Weather: common words for talking about the weather.
+hanzi	pinyin	english	example_word	etymology	uncle_hanzi	uncle_decomp	dictionary_entries
+天气	tiānqì	weather	天气	The heavens 一 above a man 大			[{"character":"天","dictionary":{"character":"天","definition":"sky, heaven; god, celestial","pinyin":["tiān"],"decomposition":"⿱一大","etymology":{"type":"ideographic","hint":"The heavens 一 above a man 大"},"radical":"大","matches":[[0],[1],[1],[1]]}},{"character":"气","dictionary":{"character":"气","definition":"air, gas; steam, vapor; anger","pinyin":["qì"],"decomposition":"⿱亻？","etymology":{"type":"ideographic","hint":"A person 亻 breathing air"},"radical":"气","matches":[[0],[0],null,null]}}]
+气温	qìwēn	air temperature	气温				
+热	rè	hot	热闹	fire		Compound 熱 | from fire-dots 灬火 huǒ and | phonetic plant-tree 埶 yì | see (执)執𡘺 zhí | A212 热[熱] new-char 热.	[{"character":"热","dictionary":{"character":"热","definition":"heat, fever, zeal","pinyin":["rè"],"decomposition":"⿱执灬","etymology":{"type":"pictophonetic","phonetic":"执","semantic":"灬","hint":"fire"},"radical":"灬","matches":[[0],[0],[0],[0],[0],[0],[1],[1],[1],[1]]}}]
+冷	lěng	cold	冷	ice		Compound 冷 | from two-dot-ice 冫 bīng and | phonetic give-orders 令 lìng.	[{"character":"冷","dictionary":{"character":"冷","definition":"cold, cool; lonely","pinyin":["lěng"],"decomposition":"⿰冫令","etymology":{"type":"pictophonetic","phonetic":"令","semantic":"冫","hint":"ice"},"radical":"冫","matches":[[0],[0],[1],[1],[1],[1],[1]]}}]
+暖和	nuǎnhuo	warm	暖和				
+凉快	liángkuai	cool (pleasant)	凉快				
+晴天	qíngtiān	sunny day	晴天				
+阴天	yīntiān	overcast day	阴天				
+多云	duōyún	cloudy	多云				
+下雨	xiàyǔ	to rain	下雨		short mark below indicating down		[{"character":"下","dictionary":{"character":"下","definition":"below, underneath; inferior; to bring down; next","pinyin":["xià"],"decomposition":"⿱一卜","etymology":{"type":"ideographic","hint":"One stroke under another; compare 上 (above)"},"radical":"一","matches":[[0],[1],[1]]}},{"character":"雨","dictionary":{"character":"雨","definition":"rain","pinyin":["yǔ"],"decomposition":"⿻帀？","etymology":{"type":"pictographic","hint":"Rain drops falling from a cloud 帀"},"radical":"雨","matches":[[0],[0],[0],[0],null,null,null,null]}}]
+下雪	xiàxuě	to snow	下雪				
+刮风	guāfēng	to be windy	刮风				
+雾	wù	fog	雾				
+暴风雨	bàofēngyǔ	storm	暴风雨				
+太阳	tàiyáng	sun	太阳				
+台风	táifēng	typhoon	台风				
+潮湿	cháoshī	humid	潮湿				
+干燥	gānzào	dry	干燥				
+度	dù	degree	态度		probably a chime | hand measuring the gradations of a petraphone		[{"character":"度","dictionary":{"character":"度","definition":"degree, system; manner; to consider","pinyin":["dù"],"decomposition":"⿸广⿱廿又","etymology":{"type":"ideographic","hint":"Twenty 廿 people 又 meeting inside a building 广 to deliberate"},"radical":"广","matches":[[0],[0],[0],[1,0],[1,0],[1,0],[1,0],[1,1],[1,1]]}}]
+零下	língxià	below zero	零下				

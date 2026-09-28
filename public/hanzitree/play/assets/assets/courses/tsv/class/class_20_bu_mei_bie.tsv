@@ -1,0 +1,18 @@
+# Class Tree 不 / 没 / 别 cloze. English is the prompt; □ hides 不, 没, or 别.
+# Five sentences per missing word. File order is shuffled.
+hanzi	pinyin	english	blank	dictionary_entries
+别喝水！	bié hē shuǐ	Don't drink water!	别	
+他没去学校。	tā méi qù xuéxiào	He didn't go to school.	没	
+她不是学生。	tā bú shì xuéshēng	She is not a student.	不	
+我没看书。	wǒ méi kàn shū	I didn't read.	没	
+别看书。	bié kàn shū	Don't read.	别	
+我没买气球。	wǒ méi mǎi qìqiú	I didn't buy balloons.	没	
+我不跑步。	wǒ bù pǎobù	I don't run.	不	
+别玩手机！	bié wán shǒujī	Don't play with your phone!	别	
+我没做蛋糕。	wǒ méi zuò dàngāo	I didn't make a cake.	没	
+别去！	bié qù	Don't go!	别	
+今天不热。	jīntiān bù rè	Today is not hot.	不	
+别说话！	bié shuōhuà	Don't talk!	别	
+她没吃饭。	tā méi chī fàn	She didn't eat.	没	
+他不是老师。	tā bú shì lǎoshī	He is not a teacher.	不	
+我不喝茶。	wǒ bù hē chá	I don't drink tea.	不	

@@ -1,0 +1,28 @@
+# Class Tree 往 + direction cloze. English is the prompt; □ hides the direction after 往.
+# Pattern: 往 + direction + verb. Counts: 2 each of 左/右/前/后/里/外/上/下/东/南/西/北. File order is shuffled.
+# Do not blank 往. Not Directionals 前面/里面 (location after a noun).
+hanzi	pinyin	english	blank	dictionary_entries
+往上走。	wǎng shàng zǒu	Go up.	上	
+往南看。	wǎng nán kàn	Look south.	南	
+往后走。	wǎng hòu zǒu	Go back.	后	
+往右走。	wǎng yòu zǒu	Go right.	右	
+往前看。	wǎng qián kàn	Look ahead.	前	
+往南走。	wǎng nán zǒu	Go south.	南	
+往外走。	wǎng wài zǒu	Go outside.	外	
+往东走。	wǎng dōng zǒu	Go east.	东	
+往前走。	wǎng qián zǒu	Go forward.	前	
+往左走。	wǎng zuǒ zǒu	Go left.	左	
+往里走！	wǎng lǐ zǒu	Go inside!	里	
+往后看。	wǎng hòu kàn	Look back.	后	
+往外看。	wǎng wài kàn	Look outside.	外	
+往左转。	wǎng zuǒ zhuǎn	Turn left.	左	
+往下看。	wǎng xià kàn	Look down.	下	
+往北看。	wǎng běi kàn	Look north.	北	
+往里看。	wǎng lǐ kàn	Look inside.	里	
+往北走。	wǎng běi zǒu	Go north.	北	
+往上看。	wǎng shàng kàn	Look up.	上	
+往西看。	wǎng xī kàn	Look west.	西	
+往右转。	wǎng yòu zhuǎn	Turn right.	右	
+往下走。	wǎng xià zǒu	Go down.	下	
+往西走。	wǎng xī zǒu	Go west.	西	
+往东看。	wǎng dōng kàn	Look east.	东	

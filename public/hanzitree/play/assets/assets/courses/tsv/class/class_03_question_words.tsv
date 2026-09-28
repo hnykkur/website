@@ -1,0 +1,36 @@
+# Class Tree question-word cloze. English is the prompt; □ hides [blank].
+# At least two patterns per word; three for 谁/什么/几/多少/哪/哪里/哪儿/哪些/呢.
+hanzi	pinyin	english	blank	dictionary_entries
+你去哪？	nǐ qù nǎ	Where are you going?	哪	
+你呢？	nǐ ne	And you?	呢	
+你想去哪些地方？	nǐ xiǎng qù nǎxiē dìfang	Which places do you want to go?	哪些	
+衣服多少钱？	yīfu duōshao qián	How much are the clothes?	多少	
+你要做什么？	nǐ yào zuò shénme	What do you want to do?	什么	
+你有哪些朋友？	nǐ yǒu nǎxiē péngyou	Which friends do you have?	哪些	
+你的包在哪儿？	nǐ de bāo zài nǎr	Where is your bag?	哪儿	
+这是什么？	zhè shì shénme	What is this?	什么	
+你喜欢哪些书？	nǐ xǐhuan nǎxiē shū	Which books do you like?	哪些	
+你要去哪儿？	nǐ yào qù nǎr	Where do you want to go?	哪儿	
+那是谁？	nà shì shéi	Who is that?	谁	
+你在哪儿？	nǐ zài nǎr	Where are you?	哪儿	
+你想去哪里？	nǐ xiǎng qù nǎlǐ	Where do you want to go?	哪里	
+医院在哪儿？	yīyuàn zài nǎr	Where is the hospital?	哪儿	
+他是谁？	tā shì shéi	Who is he?	谁	
+我是美国人，你呢？	wǒ shì měiguó rén, nǐ ne	I'm American. And you?	呢	
+你去哪些城市？	nǐ qù nǎxiē chéngshì	Which cities are you going to?	哪些	
+你是哪里人？	nǐ shì nǎlǐ rén	Where are you from?	哪里	
+你叫什么名字？	nǐ jiào shénme míngzi	What's your name?	什么	
+银行在哪里？	yínháng zài nǎlǐ	Where is the bank?	哪里	
+你喜欢哪个？	nǐ xǐhuan nǎ ge	Which one do you like?	哪	
+你几岁了？	nǐ jǐ suì le	How old are you?	几	
+商店在哪里？	shāngdiàn zài nǎlǐ	Where is the shop?	哪里	
+我们班有多少人？	wǒmen bān yǒu duōshao rén	How many people in our class?	多少	
+今天几月几号？	jīntiān jǐ yuè jǐ hào	What's the date today?	几	
+今天有哪些课？	jīntiān yǒu nǎxiē kè	Which classes are there today?	哪些	
+我很好，你呢？	wǒ hěn hǎo, nǐ ne	I'm fine. And you?	呢	
+今天多少度？	jīntiān duōshao dù	What's the temperature today?	多少	
+你家有几口人？	nǐ jiā yǒu jǐ kǒu rén	How many people in your family?	几	
+学校在哪儿？	xuéxiào zài nǎr	Where is the school?	哪儿	
+洗手间在哪里？	xǐshǒujiān zài nǎlǐ	Where is the restroom?	哪里	
+这是谁？	zhè shì shéi	Who is this?	谁	
+你是哪国人？	nǐ shì nǎ guó rén	Which country are you from?	哪	

@@ -1,0 +1,68 @@
+# Skill tree node catalog (flat). Join to SimpleMind via sm_label = topic text.
+#
+# game_mode: pictographic | guess_radical | foundations | compounds | opposites | numbers_context | (empty = display-only gate)
+# unlocked: 1 = eligible once graph unlock rules pass; 0 = not yet available in catalog
+# content_tsv: bundled course file for the puzzle (optional for gate / placeholder nodes)
+# icon: key from TopicCategoryIcon.byKey (food, palette, radical, …). Blank = match title.
+#
+sm_label	id	title	icon	unlocked	progress_source	game_mode	exercise_id	content_tsv
+Tutorial	tutorial_00	Tutorial	park	1	none	foundations	tutorial_00	assets/courses/tsv/tutorial/Tutorial_00.tsv
+Pictograms 1	people_anim	People pictographs	pictograph	1	people_01	pictographic	people_01	assets/courses/tsv/pictographs/pictographs_01.tsv
+Radicals 1	radicals	Radicals	radical	1	radicals_01	guess_radical	radicals_01	assets/courses/tsv/radicals/radicals_01.tsv
+Foundations 1	foundations	Foundations	school	1	none	foundations	foundations_01	assets/courses/tsv/foundations/foundations_words_01.tsv
+Pictograms 2	nature_picto	Nature pictographs	pictograph	1	nature_pictographs_02	pictographic	nature_pictographs_02	assets/courses/tsv/pictographs/pictographs_02.tsv
+Radicals 2	radicals_02	Radicals II	radical	1	radicals_02	guess_radical	radicals_02	assets/courses/tsv/radicals/radicals_02.tsv
+Foundations 2	lesson2_mid	Foundations II	school	1	none	foundations	foundations_02	assets/courses/tsv/foundations/foundations_words_02.tsv
+Pictograms 3	body_picto	Body pictographs	pictograph	1	pictographs_03	pictographic	pictographs_03	assets/courses/tsv/pictographs/pictographs_03.tsv
+Radicals 3	radicals_iii	Radicals III	radical	1	radicals_03	guess_radical	radicals_03	assets/courses/tsv/radicals/radicals_03.tsv
+Foundations 3	lesson3_mid	Foundations III	school	1	none	foundations	foundations_03	assets/courses/tsv/foundations/foundations_words_03.tsv
+Pictograms 4	more_picto	More pictographs	pictograph	1	pictographs_04	pictographic	pictographs_04	assets/courses/tsv/pictographs/pictographs_04.tsv
+Radicals 4	radicals_iv	Radicals IV	radical	1	radicals_04	guess_radical	radicals_04	assets/courses/tsv/radicals/radicals_04.tsv
+Foundations 4	lesson4_mid	Foundations IV	school	1	none	foundations	foundations_04	assets/courses/tsv/foundations/foundations_words_04.tsv
+Pictograms 5	pictographs_05	Pictographs V	pictograph	1	pictographs_05	pictographic	pictographs_05	assets/courses/tsv/pictographs/pictographs_05.tsv
+Radicals 5	radicals_05	Radicals V	radical	1	radicals_05	guess_radical	radicals_05	assets/courses/tsv/radicals/radicals_05.tsv
+Foundations 5	foundations_05	Foundations V	school	1	none	foundations	foundations_05	assets/courses/tsv/foundations/foundations_words_05.tsv
+Pictographs 6	pictographs_06	Component pictographs	pictograph	1	pictographs_06	pictographic	pictographs_06	assets/courses/tsv/pictographs/pictographs_06.tsv
+Colors 1	colors	Colors	palette	1	colors_01	foundations	colors_01	assets/courses/tsv/colors/colors_01.tsv
+Colors 2	colors_ii	Colors II	palette	1	colors_02	foundations	colors_02	assets/courses/tsv/colors/colors_02.tsv
+Colors 3	colors_03	Colors III	palette	1	colors_03	foundations	colors_03	assets/courses/tsv/colors/colors_03.tsv
+Family 1	family_friends	Family & friends	family	1	family_friends_01	foundations	family_friends_01	assets/courses/tsv/family/family_friends_01.tsv
+Family 2	family_friends_02	Family II	family	1	family_friends_02	foundations	family_friends_02	assets/courses/tsv/family/family_friends_02.tsv
+Places	places_general	Places	travel	1	places_general_01	foundations	places_general_01	assets/courses/tsv/places/places_general_01.tsv
+Home	places_home	Home	home	1	places_home_01	foundations	places_home_01	assets/courses/tsv/places/places_home_01.tsv
+Town	places_town	Town	city	1	places_town_01	foundations	places_town_01	assets/courses/tsv/places/places_town_01.tsv
+Travel	places_travel	Travel	travel	1	places_travel_01	foundations	places_travel_01	assets/courses/tsv/places/places_travel_01.tsv
+Map	places_map	Map	map	1	places_map_01	foundations	places_map_01	assets/courses/tsv/places/places_map_01.tsv
+Countries	places_countries	Countries	map	1	places_countries_01	foundations	places_countries_01	assets/courses/tsv/places/places_countries_01.tsv
+Cities	places_cities	Cities	city	1	places_cities_01	foundations	places_cities_01	assets/courses/tsv/places/places_cities_01.tsv
+Landmarks	places_landmarks	Landmarks	city	1	places_landmarks_01	foundations	places_landmarks_01	assets/courses/tsv/places/places_landmarks_01.tsv
+Compounds 1	compound_builder_01	Compounds	compounds	1	compound_builder_01	compounds	compound_builder_01	assets/courses/tsv/compounds/compound_builder_01.tsv
+Compounds 2	compound_builder_02	Compounds II	compounds	1	compound_builder_02	compounds	compound_builder_02	assets/courses/tsv/compounds/compound_builder_02.tsv
+Opposites 1	opposites_01	Opposites	opposites	1	opposites_01	opposites	opposites_01	assets/courses/tsv/opposites/opposites_01.tsv
+Opposites 2	opposites_02	Opposites II	opposites	1	opposites_02	opposites	opposites_02	assets/courses/tsv/opposites/opposites_02.tsv
+Opposites 3	opposites_03	Opposites III	opposites	1	opposites_03	opposites	opposites_03	assets/courses/tsv/opposites/opposites_03.tsv
+Numbers 1	numbers_counting_01	Numbers	numbers	1	numbers_counting_01	foundations	numbers_counting_01	assets/courses/tsv/numbers/numbers_counting_01.tsv
+Numbers 2	numbers_counting_02	Numbers II	numbers	1	numbers_counting_02	numbers_context	numbers_counting_02	assets/courses/tsv/numbers/numbers_counting_02.tsv
+Numbers 3	numbers_counting_03	Numbers III	numbers	0	numbers_counting_03			numbers_counting_03
+Units 1	units_01	Units	units	1	units_01	foundations	units_01	assets/courses/tsv/numbers/Units_01.tsv
+Units 2	units_02	Units II	units	0	units_02			units_02
+Measure Words 1	measure_words_01	Measure words	units	1	measure_words_01	foundations	measure_words_01	assets/courses/tsv/numbers/Measure_Words_01.tsv
+Measure Words 2	measure_words_02	Measure words II	units	0	measure_words_02			measure_words_02
+Verbs 1	verbs_01	Verbs	verbs	1	verbs_01	foundations	verbs_01	assets/courses/tsv/verbs/verbs_01.tsv
+Verbs 2	verbs_02	Verbs II	verbs	1	verbs_02	foundations	verbs_02	assets/courses/tsv/verbs/verbs_02.tsv
+Verbs 3	verbs_03	Verbs III	verbs	1	verbs_03	foundations	verbs_03	assets/courses/tsv/verbs/verbs_03.tsv
+Time 1	time_dates_01	Time	time	1	time_dates_01	compounds	time_dates_01	assets/courses/tsv/time/time_dates_01.tsv
+Time 2	time_dates_02	Time II	time	1	time_dates_02	compounds	time_dates_02	assets/courses/tsv/time/time_dates_02.tsv
+Time 3	time_dates_03	Time III	time	1	time_dates_03	compounds	time_dates_03	assets/courses/tsv/time/time_dates_03.tsv
+Food 1	food_drink_01	Food & drink	food	1	food_drink_01	foundations	food_drink_01	assets/courses/tsv/food/food_drink_01.tsv
+Food 2	food_drink_02	Food II	food	1	food_drink_02	foundations	food_drink_02	assets/courses/tsv/food/food_drink_02.tsv
+Food 3	food_drink_03	Food III	food	1	food_drink_03	foundations	food_drink_03	assets/courses/tsv/food/food_drink_03.tsv
+Emotions 1	emotions	Emotions	feeling	1	emotions_01	foundations	emotions_01	assets/courses/tsv/emotions/emotions_01.tsv
+Emotions 2	emotions_02	Emotions II	feeling	1	emotions_02	foundations	emotions_02	assets/courses/tsv/emotions/emotions_02.tsv
+Adjectives	adjectives_general	Adjectives	adjectives	1	adjectives_general_01	foundations	adjectives_general_01	assets/courses/tsv/adjectives/adjectives_general_01.tsv
+Size	adjectives_size	Size	adjectives	1	adjectives_size_01	foundations	adjectives_size_01	assets/courses/tsv/adjectives/adjectives_size_01.tsv
+Look	adjectives_look	Look	look	1	adjectives_look_01	foundations	adjectives_look_01	assets/courses/tsv/adjectives/adjectives_look_01.tsv
+Senses	adjectives_senses	Senses	adjectives	1	adjectives_senses_01	foundations	adjectives_senses_01	assets/courses/tsv/adjectives/adjectives_senses_01.tsv
+Mood 1	adjectives_mood_01	Mood 1	feeling	1	adjectives_mood_01	foundations	adjectives_mood_01	assets/courses/tsv/adjectives/adjectives_mood_01.tsv
+Mood 2	adjectives_mood_02	Mood 2	feeling	1	adjectives_mood_02	foundations	adjectives_mood_02	assets/courses/tsv/adjectives/adjectives_mood_02.tsv
+Ad Phrases	adjectives_phrases	Ad Phrases	adjectives	1	adjectives_phrases_01	foundations	adjectives_phrases_01	assets/courses/tsv/adjectives/adjectives_phrases_01.tsv

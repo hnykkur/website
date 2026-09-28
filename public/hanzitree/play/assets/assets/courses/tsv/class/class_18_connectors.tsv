@@ -1,0 +1,20 @@
+# Class Tree connector cloze. English is the prompt; □ hides [blank]
+# (和 / 还是 / 比 / 没有 / 跟). At least three sentences per missing word.
+hanzi	pinyin	english	blank	dictionary_entries
+你喜欢面包还是米饭？	nǐ xǐhuan miànbāo háishì mǐfàn	Do you like bread or rice?	还是	
+今天没有昨天热。	jīntiān méiyǒu zuótiān rè	Today is not as hot as yesterday.	没有	
+书房比卧室大。	shūfáng bǐ wòshì dà	The study is bigger than the bedroom.	比	
+咖啡没有茶好喝。	kāfēi méiyǒu chá hǎohē	Coffee is not as tasty as tea.	没有	
+我跟妈妈去商店。	wǒ gēn māma qù shāngdiàn	I go to the store with mom.	跟	
+卧室没有书房大。	wòshì méiyǒu shūfáng dà	The bedroom is not as big as the study.	没有	
+她喜欢电影和音乐。	tā xǐhuan diànyǐng hé yīnyuè	She likes movies and music.	和	
+你喝茶还是喝水？	nǐ hē chá háishì hē shuǐ	Do you drink tea or water?	还是	
+她跟他去公园。	tā gēn tā qù gōngyuán	She goes to the park with him.	跟	
+他比我高。	tā bǐ wǒ gāo	He is taller than me.	比	
+你喜欢游泳还是跑步？	nǐ xǐhuan yóuyǒng háishì pǎobù	Do you like swimming or running?	还是	
+我喜欢咖啡和茶。	wǒ xǐhuan kāfēi hé chá	I like coffee and tea.	和	
+我跟你去医院。	wǒ gēn nǐ qù yīyuàn	I'll go to the hospital with you.	跟	
+牛肉比鸡肉贵吗？	niúròu bǐ jīròu guì ma	Is beef more expensive than chicken?	比	
+他和她都是老师。	tā hé tā dōu shì lǎoshī	He and she are both teachers.	和	
+他打篮球还是打排球？	tā dǎ lánqiú háishì dǎ páiqiú	Does he play basketball or volleyball?	还是	
+这个没有那个贵。	zhè ge méiyǒu nà ge guì	This is not as expensive as that.	没有	

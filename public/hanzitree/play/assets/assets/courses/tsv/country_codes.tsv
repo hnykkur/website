@@ -1,0 +1,163 @@
+code	english	chinese	pinyin	person_chinese	person_pinyin	region
+CN	China	中国	Zhōngguó	中国人	Zhōngguó rén	Asia
+JP	Japan	日本	Rìběn	日本人	Rìběn rén	Asia
+KR	South Korea	韩国	Hánguó	韩国人	Hánguó rén	Asia
+KP	North Korea	朝鲜	Cháoxiǎn	朝鲜人	Cháoxiǎn rén	Asia
+MN	Mongolia	蒙古	Měnggǔ	蒙古人	Měnggǔ rén	Asia
+IN	India	印度	Yìndù	印度人	Yìndù rén	Asia
+PK	Pakistan	巴基斯坦	Bājīsītǎn	巴基斯坦人	Bājīsītǎn rén	Asia
+BD	Bangladesh	孟加拉国	Mèngjiālāguó	孟加拉国人	Mèngjiālāguó rén	Asia
+NP	Nepal	尼泊尔	Níbó'ěr	尼泊尔人	Níbó'ěr rén	Asia
+BT	Bhutan	不丹	Bùdān	不丹人	Bùdān rén	Asia
+LK	Sri Lanka	斯里兰卡	Sīlǐlánkǎ	斯里兰卡人	Sīlǐlánkǎ rén	Asia
+MV	Maldives	马尔代夫	Mǎ'ěrdàifū	马尔代夫人	Mǎ'ěrdàifū rén	Asia
+AF	Afghanistan	阿富汗	Āfùhàn	阿富汗人	Āfùhàn rén	Asia
+MM	Myanmar	缅甸	Miǎndiàn	缅甸人	Miǎndiàn rén	Asia
+TH	Thailand	泰国	Tàiguó	泰国人	Tàiguó rén	Asia
+VN	Vietnam	越南	Yuènán	越南人	Yuènán rén	Asia
+LA	Laos	老挝	Lǎowō	老挝人	Lǎowō rén	Asia
+KH	Cambodia	柬埔寨	Jiǎnpǔzhài	柬埔寨人	Jiǎnpǔzhài rén	Asia
+MY	Malaysia	马来西亚	Mǎláixīyà	马来西亚人	Mǎláixīyà rén	Asia
+SG	Singapore	新加坡	Xīnjiāpō	新加坡人	Xīnjiāpō rén	Asia
+ID	Indonesia	印度尼西亚	Yìndùníxīyà	印度尼西亚人	Yìndùníxīyà rén	Asia
+PH	Philippines	菲律宾	Fēilǜbīn	菲律宾人	Fēilǜbīn rén	Asia
+BN	Brunei	文莱	Wénlái	文莱人	Wénlái rén	Asia
+TL	Timor-Leste	东帝汶	Dōngdìwèn	东帝汶人	Dōngdìwèn rén	Asia
+
+IS	Iceland	冰岛	Bīngdǎo	冰岛人	Bīngdǎo rén	Europe
+DK	Denmark	丹麦	Dānmài	丹麦人	Dānmài rén	Europe
+NO	Norway	挪威	Nuówēi	挪威人	Nuówēi rén	Europe
+SE	Sweden	瑞典	Ruìdiǎn	瑞典人	Ruìdiǎn rén	Europe
+FI	Finland	芬兰	Fēnlán	芬兰人	Fēnlán rén	Europe
+EE	Estonia	爱沙尼亚	Àishāníyà	爱沙尼亚人	Àishāníyà rén	Europe
+LV	Latvia	拉脱维亚	Lātuōwéiyà	拉脱维亚人	Lātuōwéiyà rén	Europe
+LT	Lithuania	立陶宛	Lìtáowǎn	立陶宛人	Lìtáowǎn rén	Europe
+GB	United Kingdom	英国	Yīngguó	英国人	Yīngguó rén	Europe
+IE	Ireland	爱尔兰	Ài'ěrlán	爱尔兰人	Ài'ěrlán rén	Europe
+FR	France	法国	Fǎguó	法国人	Fǎguó rén	Europe
+DE	Germany	德国	Déguó	德国人	Déguó rén	Europe
+NL	Netherlands	荷兰	Hélán	荷兰人	Hélán rén	Europe
+BE	Belgium	比利时	Bǐlìshí	比利时人	Bǐlìshí rén	Europe
+LU	Luxembourg	卢森堡	Lúsēnbǎo	卢森堡人	Lúsēnbǎo rén	Europe
+CH	Switzerland	瑞士	Ruìshì	瑞士人	Ruìshì rén	Europe
+AT	Austria	奥地利	Àodìlì	奥地利人	Àodìlì rén	Europe
+LI	Liechtenstein	列支敦士登	Lièzhīdūnshìdēng	列支敦士登人	Lièzhīdūnshìdēng rén	Europe
+PL	Poland	波兰	Bōlán	波兰人	Bōlán rén	Europe
+CZ	Czechia	捷克	Jiékè	捷克人	Jiékè rén	Europe
+SK	Slovakia	斯洛伐克	Sīluòfákè	斯洛伐克人	Sīluòfákè rén	Europe
+HU	Hungary	匈牙利	Xiōngyálì	匈牙利人	Xiōngyálì rén	Europe
+RO	Romania	罗马尼亚	Luómǎníyà	罗马尼亚人	Luómǎníyà rén	Europe
+BG	Bulgaria	保加利亚	Bǎojiālìyà	保加利亚人	Bǎojiālìyà rén	Europe
+GR	Greece	希腊	Xīlà	希腊人	Xīlà rén	Europe
+IT	Italy	意大利	Yìdàlì	意大利人	Yìdàlì rén	Europe
+ES	Spain	西班牙	Xībānyá	西班牙人	Xībānyá rén	Europe
+PT	Portugal	葡萄牙	Pútáoyá	葡萄牙人	Pútáoyá rén	Europe
+MT	Malta	马耳他	Mǎ'ěrtā	马耳他人	Mǎ'ěrtā rén	Europe
+CY	Cyprus	塞浦路斯	Sàipǔlùsī	塞浦路斯人	Sàipǔlùsī rén	Europe
+SI	Slovenia	斯洛文尼亚	Sīluòwénníyà	斯洛文尼亚人	Sīluòwénníyà rén	Europe
+HR	Croatia	克罗地亚	Kèluódìyà	克罗地亚人	Kèluódìyà rén	Europe
+BA	Bosnia and Herzegovina	波斯尼亚和黑塞哥维那	Bōsīníyà hé Hēisāigēwéinà	波斯尼亚和黑塞哥维那人	Bōsīníyà hé Hēisāigēwéinà rén	Europe
+RS	Serbia	塞尔维亚	Sài'ěrwéiyà	塞尔维亚人	Sài'ěrwéiyà rén	Europe
+ME	Montenegro	黑山	Hēishān	黑山人	Hēishān rén	Europe
+MK	North Macedonia	北马其顿	Běi Mǎqídùn	北马其顿人	Běi Mǎqídùn rén	Europe
+AL	Albania	阿尔巴尼亚	Ā'ěrbāníyà	阿尔巴尼亚人	Ā'ěrbāníyà rén	Europe
+MD	Moldova	摩尔多瓦	Mó'ěrduōwǎ	摩尔多瓦人	Mó'ěrduōwǎ rén	Europe
+UA	Ukraine	乌克兰	Wūkèlán	乌克兰人	Wūkèlán rén	Europe
+BY	Belarus	白俄罗斯	Bái'éluósī	白俄罗斯人	Bái'éluósī rén	Europe
+RU	Russia	俄罗斯	Éluósī	俄罗斯人	Éluósī rén	Europe
+
+US	United States	美国	Měiguó	美国人	Měiguó rén	North America
+CA	Canada	加拿大	Jiānádà	加拿大人	Jiānádà rén	North America
+MX	Mexico	墨西哥	Mòxīgē	墨西哥人	Mòxīgē rén	North America
+GT	Guatemala	危地马拉	Wēidìmǎlā	危地马拉人	Wēidìmǎlā rén	North America
+BZ	Belize	伯利兹	Bólìzī	伯利兹人	Bólìzī rén	North America
+HN	Honduras	洪都拉斯	Hóngdūlāsī	洪都拉斯人	Hóngdūlāsī rén	North America
+SV	El Salvador	萨尔瓦多	Sà'ěrwǎduō	萨尔瓦多人	Sà'ěrwǎduō rén	North America
+NI	Nicaragua	尼加拉瓜	Níjiālāguā	尼加拉瓜人	Níjiālāguā rén	North America
+CR	Costa Rica	哥斯达黎加	Gēsīdálíjiā	哥斯达黎加人	Gēsīdálíjiā rén	North America
+PA	Panama	巴拿马	Bānámǎ	巴拿马人	Bānámǎ rén	North America
+CU	Cuba	古巴	Gǔbā	古巴人	Gǔbā rén	North America
+JM	Jamaica	牙买加	Yámǎijiā	牙买加人	Yámǎijiā rén	North America
+HT	Haiti	海地	Hǎidì	海地人	Hǎidì rén	North America
+DO	Dominican Republic	多米尼加共和国	Duōmǐníjiā Gònghéguó	多米尼加人	Duōmǐníjiā rén	North America
+BS	Bahamas	巴哈马	Bāhāmǎ	巴哈马人	Bāhāmǎ rén	North America
+BB	Barbados	巴巴多斯	Bābāduōsī	巴巴多斯人	Bābāduōsī rén	North America
+TT	Trinidad and Tobago	特立尼达和多巴哥	Tèlìnídá hé Duōbāgē	特立尼达和多巴哥人	Tèlìnídá hé Duōbāgē rén	North America
+
+BR	Brazil	巴西	Bāxī	巴西人	Bāxī rén	South America
+AR	Argentina	阿根廷	Āgēntíng	阿根廷人	Āgēntíng rén	South America
+CL	Chile	智利	Zhìlì	智利人	Zhìlì rén	South America
+PE	Peru	秘鲁	Bìlǔ	秘鲁人	Bìlǔ rén	South America
+BO	Bolivia	玻利维亚	Bōlìwéiyà	玻利维亚人	Bōlìwéiyà rén	South America
+PY	Paraguay	巴拉圭	Bālāguī	巴拉圭人	Bālāguī rén	South America
+UY	Uruguay	乌拉圭	Wūlāguī	乌拉圭人	Wūlāguī rén	South America
+CO	Colombia	哥伦比亚	Gēlúnbǐyà	哥伦比亚人	Gēlúnbǐyà rén	South America
+VE	Venezuela	委内瑞拉	Wěinèiruìlā	委内瑞拉人	Wěinèiruìlā rén	South America
+EC	Ecuador	厄瓜多尔	Èguāduō'ěr	厄瓜多尔人	Èguāduō'ěr rén	South America
+GY	Guyana	圭亚那	Guīyànà	圭亚那人	Guīyànà rén	South America
+SR	Suriname	苏里南	Sūlǐnán	苏里南人	Sūlǐnán rén	South America
+
+AU	Australia	澳大利亚	Àodàlìyà	澳大利亚人	Àodàlìyà rén	Oceania
+NZ	New Zealand	新西兰	Xīnxīlán	新西兰人	Xīnxīlán rén	Oceania
+PG	Papua New Guinea	巴布亚新几内亚	Bābùyà Xīn Jǐnèiyà	巴布亚新几内亚人	Bābùyà Xīn Jǐnèiyà rén	Oceania
+FJ	Fiji	斐济	Fěijì	斐济人	Fěijì rén	Oceania
+SB	Solomon Islands	所罗门群岛	Suǒluómén Qúndǎo	所罗门群岛人	Suǒluómén Qúndǎo rén	Oceania
+VU	Vanuatu	瓦努阿图	Wǎnǔ'ātú	瓦努阿图人	Wǎnǔ'ātú rén	Oceania
+WS	Samoa	萨摩亚	Sàmóyà	萨摩亚人	Sàmóyà rén	Oceania
+TO	Tonga	汤加	Tāngjiā	汤加人	Tāngjiā rén	Oceania
+
+TR	Türkiye	土耳其	Tǔ'ěrqí	土耳其人	Tǔ'ěrqí rén	Middle East
+GE	Georgia	格鲁吉亚	Gélǔjíyà	格鲁吉亚人	Gélǔjíyà rén	Middle East
+AM	Armenia	亚美尼亚	Yàměiníyà	亚美尼亚人	Yàměiníyà rén	Middle East
+AZ	Azerbaijan	阿塞拜疆	Āsàibàijiāng	阿塞拜疆人	Āsàibàijiāng rén	Middle East
+KZ	Kazakhstan	哈萨克斯坦	Hāsàkèsītǎn	哈萨克斯坦人	Hāsàkèsītǎn rén	Middle East
+UZ	Uzbekistan	乌兹别克斯坦	Wūzībiékèsītǎn	乌兹别克斯坦人	Wūzībiékèsītǎn rén	Middle East
+TM	Turkmenistan	土库曼斯坦	Tǔkùmànsītǎn	土库曼斯坦人	Tǔkùmànsītǎn rén	Middle East
+KG	Kyrgyzstan	吉尔吉斯斯坦	Jí'ěrjísīsītǎn	吉尔吉斯斯坦人	Jí'ěrjísīsītǎn rén	Middle East
+TJ	Tajikistan	塔吉克斯坦	Tǎjíkèsītǎn	塔吉克斯坦人	Tǎjíkèsītǎn rén	Middle East
+IR	Iran	伊朗	Yīlǎng	伊朗人	Yīlǎng rén	Middle East
+IQ	Iraq	伊拉克	Yīlākè	伊拉克人	Yīlākè rén	Middle East
+IL	Israel	以色列	Yǐsèliè	以色列人	Yǐsèliè rén	Middle East
+JO	Jordan	约旦	Yuēdàn	约旦人	Yuēdàn rén	Middle East
+LB	Lebanon	黎巴嫩	Líbānèn	黎巴嫩人	Líbānèn rén	Middle East
+SY	Syria	叙利亚	Xùlìyà	叙利亚人	Xùlìyà rén	Middle East
+SA	Saudi Arabia	沙特阿拉伯	Shātè Ālābó	沙特阿拉伯人	Shātè Ālābó rén	Middle East
+AE	United Arab Emirates	阿拉伯联合酋长国	Ālābó Liánhé Qiúzhǎngguó	阿联酋人	Āliánqiú rén	Middle East
+QA	Qatar	卡塔尔	Kǎtǎ'ěr	卡塔尔人	Kǎtǎ'ěr rén	Middle East
+KW	Kuwait	科威特	Kēwēitè	科威特人	Kēwēitè rén	Middle East
+BH	Bahrain	巴林	Bālín	巴林人	Bālín rén	Middle East
+OM	Oman	阿曼	Āmàn	阿曼人	Āmàn rén	Middle East
+YE	Yemen	也门	Yěmén	也门人	Yěmén rén	Middle East
+
+EG	Egypt	埃及	Āijí	埃及人	Āijí rén	Africa
+MA	Morocco	摩洛哥	Móluògē	摩洛哥人	Móluògē rén	Africa
+DZ	Algeria	阿尔及利亚	Ā'ěrjílìyà	阿尔及利亚人	Ā'ěrjílìyà rén	Africa
+TN	Tunisia	突尼斯	Tūnísī	突尼斯人	Tūnísī rén	Africa
+LY	Libya	利比亚	Lìbǐyà	利比亚人	Lìbǐyà rén	Africa
+SD	Sudan	苏丹	Sūdān	苏丹人	Sūdān rén	Africa
+SS	South Sudan	南苏丹	Nán Sūdān	南苏丹人	Nán Sūdān rén	Africa
+ET	Ethiopia	埃塞俄比亚	Āisài'ébǐyà	埃塞俄比亚人	Āisài'ébǐyà rén	Africa
+ER	Eritrea	厄立特里亚	Èlìtèlǐyà	厄立特里亚人	Èlìtèlǐyà rén	Africa
+DJ	Djibouti	吉布提	Jíbùtí	吉布提人	Jíbùtí rén	Africa
+SO	Somalia	索马里	Suǒmǎlǐ	索马里人	Suǒmǎlǐ rén	Africa
+KE	Kenya	肯尼亚	Kěnníyà	肯尼亚人	Kěnníyà rén	Africa
+UG	Uganda	乌干达	Wūgāndá	乌干达人	Wūgāndá rén	Africa
+TZ	Tanzania	坦桑尼亚	Tǎnsāngníyà	坦桑尼亚人	Tǎnsāngníyà rén	Africa
+RW	Rwanda	卢旺达	Lúwàngdá	卢旺达人	Lúwàngdá rén	Africa
+BI	Burundi	布隆迪	Bùlóngdí	布隆迪人	Bùlóngdí rén	Africa
+CD	Democratic Republic of the Congo	刚果民主共和国	Gāngguǒ Mínzhǔ Gònghéguó	刚果民主共和国人	Gāngguǒ Mínzhǔ Gònghéguó rén	Africa
+CG	Republic of the Congo	刚果共和国	Gāngguǒ Gònghéguó	刚果共和国人	Gāngguǒ Gònghéguó rén	Africa
+ZA	South Africa	南非	Nánfēi	南非人	Nánfēi rén	Africa
+NG	Nigeria	尼日利亚	Nírìlìyà	尼日利亚人	Nírìlìyà rén	Africa
+GH	Ghana	加纳	Jiānà	加纳人	Jiānà rén	Africa
+CI	Côte d'Ivoire	科特迪瓦	Kētèdíwǎ	科特迪瓦人	Kētèdíwǎ rén	Africa
+SN	Senegal	塞内加尔	Sàinèijiā'ěr	塞内加尔人	Sàinèijiā'ěr rén	Africa
+CM	Cameroon	喀麦隆	Kāmàilóng	喀麦隆人	Kāmàilóng rén	Africa
+AO	Angola	安哥拉	Āngēlā	安哥拉人	Āngēlā rén	Africa
+ZM	Zambia	赞比亚	Zàbǐyà	赞比亚人	Zàbǐyà rén	Africa
+ZW	Zimbabwe	津巴布韦	Jīnbābùwéi	津巴布韦人	Jīnbābùwéi rén	Africa
+MZ	Mozambique	莫桑比克	Mòsāngbǐkè	莫桑比克人	Mòsāngbǐkè rén	Africa
+MG	Madagascar	马达加斯加	Mǎdájiāsījiā	马达加斯加人	Mǎdájiāsījiā rén	Africa
+MU	Mauritius	毛里求斯	Máolǐqiúsī	毛里求斯人	Máolǐqiúsī rén	Africa
+BW	Botswana	博茨瓦纳	Bócíwǎnà	博茨瓦纳人	Bócíwǎnà rén	Africa
+NA	Namibia	纳米比亚	Nàmǐbǐyà	纳米比亚人	Nàmǐbǐyà rén	Africa

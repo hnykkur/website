@@ -1,0 +1,34 @@
+# Class Tree tense/aspect cloze. English is the prompt; □ hides 在 / 了 / 过 / 要 / 会 / 前 / 后.
+# Counts: 了 6, 会 5, 要 5, 在 4, 过 4, 前 3, 后 3. File order is shuffled.
+# Not Time (blank the day). Not Modals skill-会. Not Prepositions location-在. Not Towards 往前.
+hanzi	pinyin	english	blank	dictionary_entries
+回家前打电话。	huíjiā qián dǎ diànhuà	Call before going home.	前	
+后天会下雨！	hòutiān huì xià yǔ	It will rain the day after tomorrow. (prediction)	会	
+回家后吃饭。	huíjiā hòu chī fàn	Eat after going home.	后	
+我周末要看电影。	wǒ zhōumò yào kàn diànyǐng	I'm going to watch a movie this weekend. (plan)	要	
+我看了电影。	wǒ kàn le diànyǐng	I watched a movie.	了	
+今天不会下雨。	jīntiān bú huì xià yǔ	It won't rain today. (prediction)	会	
+我明天要遛狗。	wǒ míngtiān yào liù gǒu	I'm going to walk the dog tomorrow. (plan)	要	
+我做了蛋糕。	wǒ zuò le dàngāo	I made a cake.	了	
+今天会下雨吗？	jīntiān huì xià yǔ ma	Will it rain today? (prediction)	会	
+他当时在跑步。	tā dāngshí zài pǎobù	He was running at that time.	在	
+他要去学校。	tā yào qù xuéxiào	He's going to go to school. (plan)	要	
+昨天下雪了。	zuótiān xià xuě le	It snowed yesterday.	了	
+我明天要考试。	wǒ míngtiān yào kǎoshì	I have an exam tomorrow. (plan)	要	
+出国前我要复习。	chūguó qián wǒ yào fùxí	I am going to review before going abroad.	前	
+你当时在做什么？	nǐ dāngshí zài zuò shénme	What were you doing at that time?	在	
+明天会下雪吗？	míngtiān huì xià xuě ma	Will it snow tomorrow? (prediction)	会	
+上学前我会去旅行。	shàngxué qián wǒ huì qù lǚxíng	Before going to school, I will travel.	前	
+明天会冷。	míngtiān huì lěng	It will be cold tomorrow. (prediction)	会	
+上学后我去旅行。	shàngxué hòu wǒ qù lǚxíng	After going to school, I travel.	后	
+我遛过狗。	wǒ liù guo gǒu	I have walked a dog before.	过	
+我饿了。	wǒ è le	I've gotten hungry.	了	
+你吃过饺子吗？	nǐ chī guo jiǎozi ma	Have you ever eaten dumplings?	过	
+我当时在遛狗。	wǒ dāngshí zài liù gǒu	I was walking the dog at that time.	在	
+我去过北京。	wǒ qù guo běijīng	I have been to Beijing.	过	
+她明天要工作。	tā míngtiān yào gōngzuò	She's going to work tomorrow. (plan)	要	
+昨天八点我在吃饭。	zuótiān bā diǎn wǒ zài chī fàn	I was eating at eight yesterday.	在	
+她学过中文。	tā xué guo zhōngwén	She has studied Chinese before.	过	
+他买了咖啡。	tā mǎi le kāfēi	He bought coffee.	了	
+我遛了狗。	wǒ liù le gǒu	I walked the dog.	了	
+下班后我回家。	xiàbān hòu wǒ huíjiā	After getting off work, I go home.	后	

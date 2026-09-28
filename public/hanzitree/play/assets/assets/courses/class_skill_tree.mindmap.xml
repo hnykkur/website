@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="PuzzleHanzi" gen-version="1.0.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="C1A55C1A55C1A55C1A55C1A55C1A55C1"/>
+<title text="Class Tree"/>
+<style key="system.colors-on-black-palette">
+<mindmap connection-style="baseline" natural-paths="True"/>
+<topics align="left" borderstyle="sbsNone"/>
+<relations>
+<hierarchical-relations line-style="penSolidThin" line-width="1.00" path-style="ortho"/>
+</relations>
+</style>
+<auto-numbering style="inside"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="class-greetings" x="200" y="2240" palette="1" colorinfo="1" text="Greetings" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="1" parent="0" guid="class-basics" x="200" y="2080" palette="2" colorinfo="2" text="Basics" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="20" parent="1" guid="class-bu-mei-bie" x="200" y="1920" palette="2" colorinfo="2" text="Negation" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="21" parent="20" guid="class-modals" x="200" y="1760" palette="2" colorinfo="2" text="Modals" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="2" parent="21" guid="class-question-words" x="200" y="1600" palette="2" colorinfo="2" text="Question words" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="16" parent="2" guid="class-x-bu-x" x="200" y="1440" palette="2" colorinfo="2" text="A-not-A" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="17" parent="16" guid="class-adverbs" x="200" y="1280" palette="2" colorinfo="2" text="Adverbs" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="18" parent="17" guid="class-connectors" x="200" y="1120" palette="2" colorinfo="2" text="Connectors" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="19" parent="18" guid="class-shi-hen" x="200" y="960" palette="2" colorinfo="2" text="Predicates" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="3" parent="19" guid="class-this-and-that" x="200" y="800" palette="2" colorinfo="2" text="This and that" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="22" parent="3" guid="class-prepositions" x="200" y="640" palette="2" colorinfo="2" text="Prepositions" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="23" parent="22" guid="class-directionals" x="200" y="480" palette="2" colorinfo="2" text="Directionals" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="24" parent="23" guid="class-time" x="200" y="320" palette="2" colorinfo="2" text="Time" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="25" parent="24" guid="class-towards" x="200" y="160" palette="2" colorinfo="2" text="Towards" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="4" parent="25" guid="class-family" x="200" y="0" palette="2" colorinfo="2" text="Family" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="28" parent="4" guid="class-family-cloze" x="320" y="0" palette="2" colorinfo="2" text="Talk about family" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="5" parent="4" guid="class-work" x="200" y="-160" palette="2" colorinfo="2" text="Job titles" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="40" parent="5" guid="class-work-places" x="320" y="-160" palette="2" colorinfo="2" text="Work places" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="29" parent="5" guid="class-work-cloze" x="320" y="-240" palette="2" colorinfo="2" text="Talk about work" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="6" parent="5" guid="class-appearance" x="200" y="-320" palette="2" colorinfo="2" text="Appearance" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="30" parent="6" guid="class-appearance-cloze" x="320" y="-320" palette="2" colorinfo="2" text="Talk about appearances" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="41" parent="6" guid="class-body-parts" x="200" y="-480" palette="2" colorinfo="2" text="Body parts" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="42" parent="41" guid="class-body-parts-cloze" x="320" y="-480" palette="2" colorinfo="2" text="Talk about body parts" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="27" parent="41" guid="class-personality" x="200" y="-640" palette="2" colorinfo="2" text="Personality" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="31" parent="27" guid="class-personality-cloze" x="320" y="-640" palette="2" colorinfo="2" text="Talk about personality" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="7" parent="27" guid="class-colors" x="200" y="-800" palette="2" colorinfo="2" text="Colors" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="32" parent="7" guid="class-colors-cloze" x="320" y="-800" palette="2" colorinfo="2" text="Talk about colors" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="8" parent="7" guid="class-food" x="200" y="-960" palette="2" colorinfo="2" text="Food" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="33" parent="8" guid="class-food-cloze" x="320" y="-960" palette="2" colorinfo="2" text="Talk about food" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="26" parent="8" guid="class-kitchen" x="200" y="-1120" palette="2" colorinfo="2" text="Kitchen" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="34" parent="26" guid="class-kitchen-cloze" x="320" y="-1120" palette="2" colorinfo="2" text="Table talk" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="9" parent="26" guid="class-hobbies" x="200" y="-1280" palette="2" colorinfo="2" text="Hobbies" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="35" parent="9" guid="class-hobbies-cloze" x="320" y="-1280" palette="2" colorinfo="2" text="Talk about hobbies" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="10" parent="9" guid="class-places" x="200" y="-1440" palette="2" colorinfo="2" text="Places" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="15" parent="10" guid="class-nationalities" x="320" y="-1440" palette="2" colorinfo="2" text="Nationalities" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="36" parent="10" guid="class-places-cloze" x="320" y="-1520" palette="2" colorinfo="2" text="Talk about places" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="11" parent="10" guid="class-clothes" x="200" y="-1600" palette="2" colorinfo="2" text="Clothes" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="37" parent="11" guid="class-clothes-cloze" x="320" y="-1600" palette="2" colorinfo="2" text="Talk about clothes" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="12" parent="11" guid="class-weather" x="200" y="-1760" palette="2" colorinfo="2" text="Weather" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="38" parent="12" guid="class-weather-cloze" x="320" y="-1760" palette="2" colorinfo="2" text="Talk about weather" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="13" parent="12" guid="class-feelings" x="200" y="-1920" palette="2" colorinfo="2" text="Feelings" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="39" parent="13" guid="class-feelings-cloze" x="320" y="-1920" palette="2" colorinfo="2" text="Talk about feelings" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="14" parent="13" guid="class-tense" x="200" y="-2080" palette="2" colorinfo="2" text="Tense" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+</topics>
+</mindmap>
+</simplemind-mindmaps>

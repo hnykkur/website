@@ -1,0 +1,22 @@
+# Class Tree Body parts: the body. Looks words live in Appearance.
+hanzi	pinyin	english	example_word	etymology	uncle_hanzi	uncle_decomp	dictionary_entries
+头发	tóufa	hair	头发				
+脸	liǎn	face	脸				
+脖子	bózi	neck	脖子				
+肩膀	jiānbǎng	shoulder	肩膀				
+鼻子	bízi	nose	鼻子				
+膝盖	xīgài	knee	膝盖				
+手	shǒu	hand	手	A hand with the fingers splayed		Component 手 context 扌 mutant 𠂿𡴤 | name- hand 手 shǒu	[{"character":"手","dictionary":{"character":"手","definition":"hand","pinyin":["shǒu"],"decomposition":"？","etymology":{"type":"pictographic","hint":"A hand with the fingers splayed"},"radical":"手","matches":[null,null,null,null]}}]
+耳朵	ěrduo	ear	耳朵				
+头	tóu	head	头	Based on 大 (dà, big/person) with two dots added above to indicate the head.		Compound 頭 | from person-head (页)頁 yè and | related phonetic ritual-vessel 豆 dòu | A248 头[頭] | new-char 头. | (name- head-tou 头頭 tóu)	[{"character":"头","dictionary":{"character":"头","definition":"head; chief, boss; first, top","pinyin":["tóu"],"decomposition":"⿻⺀大","etymology":{"type":"pictophonetic","semantic":"大","hint":"high"},"radical":"大","matches":[[0],[0],[1],[1],[1]]}}]
+嘴	zuǐ	mouth	嘴	mouth		Compound 嘴 | from mouth 口 kǒu and | related phonetic bird-beak 觜 zuǐ.	[{"character":"嘴","dictionary":{"character":"嘴","definition":"mouth, lips","pinyin":["zuǐ"],"decomposition":"⿰口觜","etymology":{"type":"pictophonetic","phonetic":"觜","semantic":"口","hint":"mouth"},"radical":"口","matches":[[0],[0],[0],[1],[1],[1],[1],[1],[1],[1],[1],[1],[1],[1],[1],[1]]}}]
+肚子	dùzi	belly; stomach	肚子				
+背	bèi	back	背				
+眼睛	yǎnjing	eye; eyes	眼睛				
+脚	jiǎo	foot	脚				
+胳膊	gēbo	arm	胳膊				
+身体	shēntǐ	body	身体				
+牙齿	yáchǐ	teeth	牙齿				
+腿	tuǐ	leg	腿				
+手指	shǒuzhǐ	finger	手指				
+脚趾	jiǎozhǐ	toe	脚趾				

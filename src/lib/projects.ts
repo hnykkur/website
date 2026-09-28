@@ -63,7 +63,7 @@ function isPlatformId(value: unknown): value is ProjectPlatformId {
 }
 
 function isPlatformStatus(value: unknown): value is ProjectPlatformStatus {
-  return value === "testing" || value === "planned";
+  return value === "testing" || value === "planned" || value === "live";
 }
 
 function parsePlatforms(value: unknown): ProjectPlatform[] | undefined {

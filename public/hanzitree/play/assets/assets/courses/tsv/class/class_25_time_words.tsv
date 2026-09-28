@@ -1,0 +1,31 @@
+# Class Tree 明天 / 后天 / 星期天 / 星期一 / 周末 / 下周 / 下个月 / 今天 / 昨天 cloze. English is the prompt; □ hides the time word.
+# Pattern: time word + verb (not 要; 要 stays in Q2). Counts: 3 each. File order is shuffled.
+# Tense node stays 了/过/要/会 for Q11.
+hanzi	pinyin	english	blank	dictionary_entries
+他星期一上班。	tā xīngqīyī shàngbān	He goes to work on Monday.	星期一	
+我周末去商店。	wǒ zhōumò qù shāngdiàn	I go to the shop on the weekend.	周末	
+明天我去公园。	míngtiān wǒ qù gōngyuán	I am going to the park tomorrow.	明天	
+她下周考试。	tā xiàzhōu kǎoshì	She has an exam next week.	下周	
+她星期一工作。	tā xīngqīyī gōngzuò	She works on Monday.	星期一	
+我明天要考试。	wǒ míngtiān yào kǎoshì	I have an exam tomorrow.	明天	
+她星期天看书。	tā xīngqītiān kàn shū	She reads on Sunday.	星期天	
+我今天喝茶。	wǒ jīntiān hē chá	I drink tea today.	今天	
+他周末跑步。	tā zhōumò pǎobù	He runs on the weekend.	周末	
+我后天去打篮球。	wǒ hòutiān qù dǎ lánqiú	I will play basketball the day after tomorrow.	后天	
+我昨天跑步。	wǒ zuótiān pǎobù	I ran yesterday.	昨天	
+她下个月考试。	tā xiàgèyuè kǎoshì	She has an exam next month.	下个月	
+我下周去旅行。	wǒ xiàzhōu qù lǚxíng	I will travel next week.	下周	
+他明天去商店。	tā míngtiān qù shāngdiàn	He is going to the shop tomorrow.	明天	
+她昨天看书。	tā zuótiān kàn shū	She read a book yesterday.	昨天	
+我们下个月去公园。	wǒmen xiàgèyuè qù gōngyuán	We go to the park next month.	下个月	
+我们周末看电影。	wǒmen zhōumò kàn diànyǐng	We watch a movie on the weekend.	周末	
+他今天很忙。	tā jīntiān hěn máng	He is busy today.	今天	
+我下个月去北京。	wǒ xiàgèyuè qù běijīng	I will go to Beijing next month.	下个月	
+他昨天去商店。	tā zuótiān qù shāngdiàn	He went to the shop yesterday.	昨天	
+我后天要复习。	wǒ hòutiān yào fùxí	I am going to review the day after tomorrow.	后天	
+今天我有课。	jīntiān wǒ yǒu kè	I have class today.	今天	
+我星期一去学校。	wǒ xīngqīyī qù xuéxiào	I go to school on Monday.	星期一	
+他后天去医院。	tā hòutiān qù yīyuàn	He is going to the hospital the day after tomorrow.	后天	
+他下周来。	tā xiàzhōu lái	He is coming next week.	下周	
+我星期天去公园。	wǒ xīngqītiān qù gōngyuán	I am going to the park on Sunday.	星期天	
+我们星期天喝茶。	wǒmen xīngqītiān hē chá	We drink tea on Sunday.	星期天	

@@ -1,0 +1,15 @@
+# Class Tree adverb cloze. English is the prompt; □ hides [blank] (adverb / degree adverb).
+# At least two sentences per missing word.
+hanzi	pinyin	english	blank	dictionary_entries
+他不常去超市。	tā bù cháng qù chāoshì	He doesn't often go to the supermarket.	不常	
+我非常喜欢茶。	wǒ fēicháng xǐhuan chá	I really like tea.	非常	
+我不常买零食。	wǒ bù cháng mǎi língshí	I don't often buy snacks.	不常	
+他也是老师。	tā yě shì lǎoshī	He is also a teacher.	也	
+这个比较贵。	zhè ge bǐjiào guì	This is relatively expensive.	比较	
+她常常买咖啡。	tā chángcháng mǎi kāfēi	She often buys coffee.	常常	
+他特别喜欢跑步。	tā tèbié xǐhuan pǎobù	He especially likes running.	特别	
+他非常喜欢跑步。	tā fēicháng xǐhuan pǎobù	He really likes running.	非常	
+他比较喜欢跑步。	tā bǐjiào xǐhuan pǎobù	He likes running comparatively.	比较	
+他常常去超市。	tā chángcháng qù chāoshì	He often goes to the supermarket.	常常	
+我也有四节课。	wǒ yě yǒu sì jié kè	I also have four classes.	也	
+今天特别热。	jīntiān tèbié rè	Today is especially hot.	特别	

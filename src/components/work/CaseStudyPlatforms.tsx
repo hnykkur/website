@@ -49,6 +49,7 @@ function PlatformGlyph({ id }: { id: ProjectPlatform["id"] }) {
 const statusCopy: Record<ProjectPlatform["status"], string> = {
   testing: "Testing",
   planned: "Planned",
+  live: "Live",
 };
 
 export function CaseStudyPlatforms({ platforms }: CaseStudyPlatformsProps) {

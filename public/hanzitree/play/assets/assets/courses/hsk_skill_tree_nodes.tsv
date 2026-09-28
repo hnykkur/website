@@ -1,0 +1,68 @@
+# HSK path node catalog (flat list). List order = row order.
+# list_number: textbook lesson 1–15 (blank on section headers).
+# unlocked: 1 = eligible; linear graph opens HSK1 L1 first.
+# Cloze companions sit after each lesson's vocab (hsk1_l03_cloze, …).
+# Title rule: keep English name if ≤22 chars, else first two words + ..
+sm_label	id	title	icon	unlocked	progress_source	game_mode	exercise_id	content_tsv	examples	list_number
+HSK 1	hsk1_header	HSK 1	book	1	none					
+hsk1_l01_vocab	hsk1_l01_vocab	Hello	greetings	1	none	foundations	hsk1_l01_vocab	assets/courses/tsv/hsk/hsk1_l01_vocab.tsv	你,好,您,你们	1
+hsk1_l01_cloze	hsk1_l01_cloze	Say Hello	grammar	1	none	cloze	hsk1_l01_cloze	assets/courses/tsv/hsk/hsk1_l01_cloze.tsv	你/好/您/你们	
+hsk1_l02_vocab	hsk1_l02_vocab	Thank you	greetings	1	none	foundations	hsk1_l02_vocab	assets/courses/tsv/hsk/hsk1_l02_vocab.tsv	谢谢,不,不客气,再见	2
+hsk1_l02_cloze	hsk1_l02_cloze	Be polite	grammar	1	none	cloze	hsk1_l02_cloze	assets/courses/tsv/hsk/hsk1_l02_cloze.tsv	谢谢/不/不客气/再见	
+hsk1_l03_vocab	hsk1_l03_vocab	What's your name	school	1	none	foundations	hsk1_l03_vocab	assets/courses/tsv/hsk/hsk1_l03_vocab.tsv	叫,什么,名字,我	3
+hsk1_l03_cloze	hsk1_l03_cloze	Introduce yourself	grammar	1	none	cloze	hsk1_l03_cloze	assets/courses/tsv/hsk/hsk1_l03_cloze.tsv	叫/什么/名字/我	
+hsk1_l04_vocab	hsk1_l04_vocab	She is..	school	1	none	foundations	hsk1_l04_vocab	assets/courses/tsv/hsk/hsk1_l04_vocab.tsv	她,谁,的,汉语	4
+hsk1_l04_cloze	hsk1_l04_cloze	Who is this?	grammar	1	none	cloze	hsk1_l04_cloze	assets/courses/tsv/hsk/hsk1_l04_cloze.tsv	她/谁/的/汉语	
+hsk1_l05_vocab	hsk1_l05_vocab	Her daughter..	family	1	none	foundations	hsk1_l05_vocab	assets/courses/tsv/hsk/hsk1_l05_vocab.tsv	家,有,口,女儿	5
+hsk1_l05_cloze	hsk1_l05_cloze	How old?	grammar	1	none	cloze	hsk1_l05_cloze	assets/courses/tsv/hsk/hsk1_l05_cloze.tsv	家/有/口/女儿	
+hsk1_l06_vocab	hsk1_l06_vocab	I can speak Chinese	book	1	none	foundations	hsk1_l06_vocab	assets/courses/tsv/hsk/hsk1_l06_vocab.tsv	会,说,妈妈,菜	6
+hsk1_l06_cloze	hsk1_l06_cloze	How do you write?	grammar	1	none	cloze	hsk1_l06_cloze	assets/courses/tsv/hsk/hsk1_l06_cloze.tsv	会/说/妈妈/菜	
+hsk1_l07_vocab	hsk1_l07_vocab	What's the date today	time	1	none	foundations	hsk1_l07_vocab	assets/courses/tsv/hsk/hsk1_l07_vocab.tsv	请,问,今天,号	7
+hsk1_l07_cloze	hsk1_l07_cloze	Go to school	grammar	1	none	cloze	hsk1_l07_cloze	assets/courses/tsv/hsk/hsk1_l07_cloze.tsv	请/问/今天/号	
+hsk1_l08_vocab	hsk1_l08_vocab	I'd like some tea	food	1	none	foundations	hsk1_l08_vocab	assets/courses/tsv/hsk/hsk1_l08_vocab.tsv	想,喝,茶,吃	8
+hsk1_l08_cloze	hsk1_l08_cloze	How much is it?	grammar	1	none	cloze	hsk1_l08_cloze	assets/courses/tsv/hsk/hsk1_l08_cloze.tsv	想/喝/茶/吃	
+hsk1_l09_vocab	hsk1_l09_vocab	Where does..	work	1	none	foundations	hsk1_l09_vocab	assets/courses/tsv/hsk/hsk1_l09_vocab.tsv	小,猫,在,那儿	9
+hsk1_l09_cloze	hsk1_l09_cloze	The cat is there	grammar	1	none	cloze	hsk1_l09_cloze	assets/courses/tsv/hsk/hsk1_l09_cloze.tsv	小/猫/在/那儿	
+hsk1_l10_vocab	hsk1_l10_vocab	Can I sit here	home	1	none	foundations	hsk1_l10_vocab	assets/courses/tsv/hsk/hsk1_l10_vocab.tsv	桌子,上,电脑,和	10
+hsk1_l10_cloze	hsk1_l10_cloze	On the table	grammar	1	none	cloze	hsk1_l10_cloze	assets/courses/tsv/hsk/hsk1_l10_cloze.tsv	桌子/上/电脑/和	
+hsk1_l11_vocab	hsk1_l11_vocab	What's the time now	time	1	none	foundations	hsk1_l11_vocab	assets/courses/tsv/hsk/hsk1_l11_vocab.tsv	现在,点,分,中午	11
+hsk1_l11_cloze	hsk1_l11_cloze	Time for lunch	grammar	1	none	cloze	hsk1_l11_cloze	assets/courses/tsv/hsk/hsk1_l11_cloze.tsv	现在/点/分/中午	
+hsk1_l12_vocab	hsk1_l12_vocab	What will..	weather	1	none	foundations	hsk1_l12_vocab	assets/courses/tsv/hsk/hsk1_l12_vocab.tsv	天气,怎么样,太,热	12
+hsk1_l12_cloze	hsk1_l12_cloze	How's the weather?	grammar	1	none	cloze	hsk1_l12_cloze	assets/courses/tsv/hsk/hsk1_l12_cloze.tsv	天气/怎么样/太/热	
+hsk1_l13_vocab	hsk1_l13_vocab	He is..	food	1	none	foundations	hsk1_l13_vocab	assets/courses/tsv/hsk/hsk1_l13_vocab.tsv	喂,也,学习,上午	13
+hsk1_l13_cloze	hsk1_l13_cloze	On the phone	grammar	1	none	cloze	hsk1_l13_cloze	assets/courses/tsv/hsk/hsk1_l13_cloze.tsv	喂/也/学习/上午	
+hsk1_l14_vocab	hsk1_l14_vocab	She has..	shop	1	none	foundations	hsk1_l14_vocab	assets/courses/tsv/hsk/hsk1_l14_vocab.tsv	东西,一点儿,苹果,看见	14
+hsk1_l14_cloze	hsk1_l14_cloze	What did you buy?	grammar	1	none	cloze	hsk1_l14_cloze	assets/courses/tsv/hsk/hsk1_l14_cloze.tsv	东西/一点儿/苹果/看见	
+hsk1_l15_vocab	hsk1_l15_vocab	I came here by air	travel	1	none	foundations	hsk1_l15_vocab	assets/courses/tsv/hsk/hsk1_l15_vocab.tsv	认识,年,大学,饭店	15
+hsk1_l15_cloze	hsk1_l15_cloze	Nice to meet you	grammar	1	none	cloze	hsk1_l15_cloze	assets/courses/tsv/hsk/hsk1_l15_cloze.tsv	认识/年/大学/饭店	
+HSK 2	hsk2_header	HSK 2	book	1	none					
+hsk2_l01_vocab	hsk2_l01_vocab	September is..	travel	1	none	foundations	hsk2_l01_vocab	assets/courses/tsv/hsk/hsk2_l01_vocab.tsv	旅游,觉得,最,为什么	1
+hsk2_l01_cloze	hsk2_l01_cloze	I'd like to travel	grammar	1	none	cloze	hsk2_l01_cloze	assets/courses/tsv/hsk/hsk2_l01_cloze.tsv	旅游/觉得/最/为什么	
+hsk2_l02_vocab	hsk2_l02_vocab	I get..	health	1	none	foundations	hsk2_l02_vocab	assets/courses/tsv/hsk/hsk2_l02_vocab.tsv	生病,每,早上,跑步	2
+hsk2_l02_cloze	hsk2_l02_cloze	Every day	grammar	1	none	cloze	hsk2_l02_cloze	assets/courses/tsv/hsk/hsk2_l02_cloze.tsv	生病/每/早上/跑步	
+hsk2_l03_vocab	hsk2_l03_vocab	The red..	palette	1	none	foundations	hsk2_l03_vocab	assets/courses/tsv/hsk/hsk2_l03_vocab.tsv	手表,千,报纸,送	3
+hsk2_l03_cloze	hsk2_l03_cloze	Take a look	grammar	1	none	cloze	hsk2_l03_cloze	assets/courses/tsv/hsk/hsk2_l03_cloze.tsv	手表/千/报纸/送	
+hsk2_l04_vocab	hsk2_l04_vocab	He recommended..	work	1	none	foundations	hsk2_l04_vocab	assets/courses/tsv/hsk/hsk2_l04_vocab.tsv	生日,快乐,给,接	4
+hsk2_l04_cloze	hsk2_l04_cloze	Happy birthday	grammar	1	none	cloze	hsk2_l04_cloze	assets/courses/tsv/hsk/hsk2_l04_cloze.tsv	生日/快乐/给/接	
+hsk2_l05_vocab	hsk2_l05_vocab	Take this one	shop	1	none	foundations	hsk2_l05_vocab	assets/courses/tsv/hsk/hsk2_l05_vocab.tsv	外面,准备,就,鱼	5
+hsk2_l05_cloze	hsk2_l05_cloze	A bit expensive	grammar	1	none	cloze	hsk2_l05_cloze	assets/courses/tsv/hsk/hsk2_l05_cloze.tsv	外面/准备/就/鱼	
+hsk2_l06_vocab	hsk2_l06_vocab	Why don't you eat more	food	1	none	foundations	hsk2_l06_vocab	assets/courses/tsv/hsk/hsk2_l06_vocab.tsv	门,外,自行车,羊肉	6
+hsk2_l06_cloze	hsk2_l06_cloze	That's why	grammar	1	none	cloze	hsk2_l06_cloze	assets/courses/tsv/hsk/hsk2_l06_cloze.tsv	门/外/自行车/羊肉	
+hsk2_l07_vocab	hsk2_l07_vocab	Do you..	travel	1	none	foundations	hsk2_l07_vocab	assets/courses/tsv/hsk/hsk2_l07_vocab.tsv	教室,机场,路,离	7
+hsk2_l07_cloze	hsk2_l07_cloze	Is it far?	grammar	1	none	cloze	hsk2_l07_cloze	assets/courses/tsv/hsk/hsk2_l07_cloze.tsv	教室/机场/路/离	
+hsk2_l08_vocab	hsk2_l08_vocab	Let me..	shop	1	none	foundations	hsk2_l08_vocab	assets/courses/tsv/hsk/hsk2_l08_vocab.tsv	再,让,告诉,等	8
+hsk2_l08_cloze	hsk2_l08_cloze	Wait a moment	grammar	1	none	cloze	hsk2_l08_cloze	assets/courses/tsv/hsk/hsk2_l08_cloze.tsv	再/让/告诉/等	
+hsk2_l09_vocab	hsk2_l09_vocab	There were..	school	1	none	foundations	hsk2_l09_vocab	assets/courses/tsv/hsk/hsk2_l09_vocab.tsv	错,从,跳舞,第一	9
+hsk2_l09_cloze	hsk2_l09_cloze	Did you finish?	grammar	1	none	cloze	hsk2_l09_cloze	assets/courses/tsv/hsk/hsk2_l09_cloze.tsv	错/从/跳舞/第一	
+hsk2_l10_vocab	hsk2_l10_vocab	Stop looking..	home	1	none	foundations	hsk2_l10_vocab	assets/courses/tsv/hsk/hsk2_l10_vocab.tsv	课,帮助,别,哥哥	10
+hsk2_l10_cloze	hsk2_l10_cloze	It's on the desk	grammar	1	none	cloze	hsk2_l10_cloze	assets/courses/tsv/hsk/hsk2_l10_cloze.tsv	课/帮助/别/哥哥	
+hsk2_l11_vocab	hsk2_l11_vocab	He is..	family	1	none	foundations	hsk2_l11_vocab	assets/courses/tsv/hsk/hsk2_l11_vocab.tsv	唱歌,男,女,孩子	11
+hsk2_l11_cloze	hsk2_l11_cloze	Older than me	grammar	1	none	cloze	hsk2_l11_cloze	assets/courses/tsv/hsk/hsk2_l11_cloze.tsv	唱歌/男/女/孩子	
+hsk2_l12_vocab	hsk2_l12_vocab	You wear too little	weather	1	none	foundations	hsk2_l12_vocab	assets/courses/tsv/hsk/hsk2_l12_vocab.tsv	得,妻子,雪,零	12
+hsk2_l12_cloze	hsk2_l12_cloze	It's snowing	grammar	1	none	cloze	hsk2_l12_cloze	assets/courses/tsv/hsk/hsk2_l12_cloze.tsv	得/妻子/雪/零	
+hsk2_l13_vocab	hsk2_l13_vocab	The door is open	home	1	none	foundations	hsk2_l13_vocab	assets/courses/tsv/hsk/hsk2_l13_vocab.tsv	着,手,拿,铅笔	13
+hsk2_l13_cloze	hsk2_l13_cloze	Go this way	grammar	1	none	cloze	hsk2_l13_cloze	assets/courses/tsv/hsk/hsk2_l13_cloze.tsv	着/手/拿/铅笔	
+hsk2_l14_vocab	hsk2_l14_vocab	Have you..	hobbies	1	none	foundations	hsk2_l14_vocab	assets/courses/tsv/hsk/hsk2_l14_vocab.tsv	有意思,但是,虽然,次	14
+hsk2_l14_cloze	hsk2_l14_cloze	A few times	grammar	1	none	cloze	hsk2_l14_cloze	assets/courses/tsv/hsk/hsk2_l14_cloze.tsv	有意思/但是/虽然/次	
+hsk2_l15_vocab	hsk2_l15_vocab	The New Year is coming	time	1	none	foundations	hsk2_l15_vocab	assets/courses/tsv/hsk/hsk2_l15_vocab.tsv	日,新年,票,火车站	15
+hsk2_l15_cloze	hsk2_l15_cloze	Get the tickets	grammar	1	none	cloze	hsk2_l15_cloze	assets/courses/tsv/hsk/hsk2_l15_cloze.tsv	日/新年/票/火车站	

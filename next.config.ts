@@ -6,8 +6,25 @@ const nextConfig: NextConfig = {
     return [
       {
         source: "/work/hanzi-puzzle",
-        destination: "/work/hanzi-tree",
+        destination: "/work/hanzitree",
         permanent: true,
+      },
+      {
+        source: "/work/hanzi-tree",
+        destination: "/work/hanzitree",
+        permanent: true,
+      },
+    ];
+  },
+  async rewrites() {
+    return [
+      {
+        source: "/hanzitree/play",
+        destination: "/hanzitree/play/index.html",
+      },
+      {
+        source: "/hanzitree/play/",
+        destination: "/hanzitree/play/index.html",
       },
     ];
   },

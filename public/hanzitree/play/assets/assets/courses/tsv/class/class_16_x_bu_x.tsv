@@ -1,0 +1,17 @@
+# Class Tree X不X cloze. English is the prompt; both copies of [blank] around 不 become □.
+# One guess fills both slots. At least two sentences per missing word.
+hanzi	pinyin	english	blank	dictionary_entries
+你渴不渴？	nǐ kě bu kě	Are you thirsty?	渴	
+你买不买咖啡？	nǐ mǎi bu mǎi kāfēi	Are you buying coffee?	买	
+是不是？	shì bu shì	Is it?	是	
+忙不忙？	máng bu máng	Are you busy?	忙	
+你是学生，是不是？	nǐ shì xuéshēng, shì bu shì	You're a student, aren't you?	是	
+好不好？	hǎo bu hǎo	OK?	好	
+对不对？	duì bu duì	Right?	对	
+渴不渴？	kě bu kě	Are you thirsty?	渴	
+买不买水？	mǎi bu mǎi shuǐ	Are you buying water?	买	
+你饿不饿？	nǐ è bu è	Are you hungry (or not)?	饿	
+他是老师，对不对？	tā shì lǎoshī, duì bu duì	He's a teacher, right?	对	
+你忙不忙？	nǐ máng bu máng	Are you busy?	忙	
+饿不饿？	è bu è	Are you hungry?	饿	
+我们去，好不好？	wǒmen qù, hǎo bu hǎo	Shall we go?	好	

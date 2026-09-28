@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="2.3.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="309ACAF188C84B449FAFFFD2BD68ECC9"/>
+<title text="Tutorial"/>
+<style key="system.colors-on-black-palette">
+<mindmap connection-style="baseline" natural-paths="True"/>
+<topics align="left" borderstyle="sbsNone"/>
+<relations>
+<hierarchical-relations line-style="penSolidThin" line-width="1.00" path-style="ortho"/>
+</relations>
+</style>
+<auto-numbering style="inside"/>
+<scrollstate zoom="70" x="-1145" y="-211"/>
+<selection guid="Vcl6GpbBy02Na6hO6QVnuw" type="node" id="45"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="S7xUFjg9cEegY_JX-Ej51A" x="189.97" y="1178.67" palette="1" colorinfo="1" text="Tutorial" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="1" parent="0" guid="WTV6nx-qg0WyJEzLNffXTQ" x="190.65" y="1015.75" palette="2" colorinfo="2" text="Pictograms 1" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+<parent-relation guid="joCB5fEnZEq_cBCGlsLU1w">
+<path>
+<custom-point x="5.09" y="7.59"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="2" parent="1" guid="Mz7x-qmxDEyKPJQPosnSQQ" x="190.55" y="860.44" text="Radicals 1" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+<parent-relation guid="zE0LpVkO9kG2SRl_OeZ6rw">
+<path>
+<custom-point x="2.80" y="-7.80"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="3" parent="-1" guid="O-AyYp8-okWiAlUju6yQHA" x="190.79" y="618.13" palette="1" colorinfo="1" text="Foundations 1" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="4" parent="3" guid="E9m867LZu0y6QBxGjQaEOw" x="-11.19" y="710.66" palette="2" colorinfo="2" text="Pictograms 2" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+<parent-relation guid="55YPk-GKDkS5LdGu7IMOkw">
+<path>
+<custom-point x="-59.88" y="56.76"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="5" parent="3" guid="g8T_Pi-ilES1Mmnij6Xbjg" x="456.82" y="681.57" palette="3" colorinfo="3" text="Radicals 2" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="6" parent="-1" guid="fwhbyfb5rUeHLZjQTXkGPQ" x="192.43" y="232.79" palette="1" colorinfo="1" text="Foundations 2" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="7" parent="6" guid="-uXVwwApT06MUKaNsaB4fA" x="-42.12" y="302.62" palette="2" colorinfo="2" text="Pictograms 3" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="8" parent="6" guid="7D8oDLuKmk-x1Y6HqQ0RUw" x="392.98" y="344.09" palette="3" colorinfo="3" text="Radicals 3" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+<parent-relation guid="2ampwncL4kmvAuUgiKQzKw">
+<path>
+<custom-point x="70.56" y="34.70"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="9" parent="-1" guid="uC8KzZQjkEim4JWML6vLhQ" x="186.34" y="-62.14" palette="1" colorinfo="1" text="Foundations 3" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="10" parent="9" guid="W4e3f2DAUUeGuUilGQeWsw" x="-43.92" y="36.26" palette="2" colorinfo="2" text="Pictograms 4" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="11" parent="9" guid="SI4JuBCsgEO_1vYyN3BFRA" x="397.51" y="-132.03" palette="3" colorinfo="3" text="Radicals 4" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="12" parent="-1" guid="D8yMPU7GxkuKVTqUHj8Y8w" x="135.53" y="-360.67" palette="1" colorinfo="1" text="Foundations 4" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="13" parent="12" guid="tGgpXKt1F0uRqjZRizjjSQ" x="-120.81" y="-424.26" palette="2" colorinfo="2" text="Pictograms 5" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="14" parent="12" guid="QRY5KJA91EKQMI2RF6Z_iQ" x="256.28" y="-559.06" palette="3" colorinfo="3" text="Radicals 5" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="15" parent="-1" guid="4P7TO9m5fkaWmrpElDszxQ" x="35.45" y="-710.75" palette="1" colorinfo="1" text="Foundations 5" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="16" parent="15" guid="mdSDHTbnHUeuG2CN_g3gvw" x="-111.53" y="-894.16" palette="2" colorinfo="2" text="Pictographs 6" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="17" parent="-1" guid="CDVM6zUHPEmQ1w2BEfEHFw" x="689.39" y="-176.32" palette="1" colorinfo="1" text="Colors 1" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="18" parent="17" guid="KCcxIT230UWsDXR8RS6eyQ" x="881.75" y="-244.76" palette="2" colorinfo="2" text="Colors 2" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="19" parent="18" guid="nBcsPJCijE6Z7kU1sEuZgg" x="1090.03" y="-345.71" palette="0" colorinfo="-1" text="Colors 3" textfmt="plain">
+<style borderstyle="sbsCircle">
+<strokecolor r="255" g="255" b="128"/>
+</style>
+<fillcolor r="24" g="24" b="24"/>
+<strokecolor r="255" g="255" b="128"/>
+<parent-relation guid="rKx9XuLN2EyPAVfNLFnKFA">
+<style>
+<color r="255" g="255" b="128"/>
+</style>
+</parent-relation>
+</topic>
+<topic id="20" parent="-1" guid="3pN36lfvoE-BsLl3CiiBVA" x="635.47" y="-545.02" palette="1" colorinfo="1" text="Family 1" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="21" parent="20" guid="nPgHKaeY2kqgKD3B_40Wdg" x="945.47" y="-672.82" palette="2" colorinfo="2" text="Family 2" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="22" parent="-1" guid="DuF5W1o1-UOd9T56iPK1ig" x="-287.09" y="-210.09" palette="1" colorinfo="1" text="Compounds 1" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="23" parent="22" guid="-nBQ0JtIeEqRwSQjMfqr4A" x="-419.92" y="-484.02" palette="2" colorinfo="2" text="Compounds 2" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="24" parent="-1" guid="FIN1g3d-Mk-BjXywONDytw" x="-613.83" y="-374.61" palette="1" colorinfo="1" text="Opposites 1" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="25" parent="24" guid="uBq6LNrTRkyZRDT0h8jXmQ" x="-789.03" y="-539.62" palette="2" colorinfo="2" text="Opposites 2" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="26" parent="25" guid="T5CPm2Ybv0y1JzaLceOM0Q" x="-944.51" y="-699.66" palette="0" colorinfo="-1" text="Opposites 3" textfmt="plain">
+<style borderstyle="sbsCircle">
+<strokecolor r="255" g="255" b="128"/>
+</style>
+<fillcolor r="24" g="24" b="24"/>
+<strokecolor r="255" g="255" b="128"/>
+<parent-relation guid="HIJnIxJWCUW19iBjNd2nCA">
+<style>
+<color r="255" g="255" b="128"/>
+</style>
+</parent-relation>
+</topic>
+<topic id="27" parent="-1" guid="qpHcufp5OkuLEcmzEWuRNQ" x="539.75" y="424.58" palette="1" colorinfo="1" text="Numbers 1" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="28" parent="27" guid="ySKDg4csgkifFrO2hfP2YA" x="748.38" y="491.75" palette="2" colorinfo="2" text="Numbers 2" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="29" parent="28" guid="MDSwZoFzeU-e7mQaOBFrlw" x="953.23" y="345.48" palette="0" colorinfo="-1" text="Numbers 3" textfmt="plain">
+<style borderstyle="sbsCircle">
+<strokecolor r="255" g="255" b="128"/>
+</style>
+<fillcolor r="24" g="24" b="24"/>
+<strokecolor r="255" g="255" b="128"/>
+<parent-relation guid="_rRNIayatk2DpM2d_9iSVA">
+<style>
+<color r="255" g="255" b="128"/>
+</style>
+</parent-relation>
+</topic>
+<topic id="30" parent="-1" guid="KlyX_jwYB0e-64uXKGkFnw" x="-234.26" y="130.49" palette="1" colorinfo="1" text="Verbs 1" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="31" parent="30" guid="s_OlFw59tE2b4U32LE0pwA" x="-444.92" y="18.01" palette="2" colorinfo="2" text="Verbs 2" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="32" parent="31" guid="3clTaFHLEUi_gf67u7KuUg" x="-605.97" y="-142.09" palette="0" colorinfo="-1" text="Verbs 3" textfmt="plain">
+<style borderstyle="sbsCircle">
+<strokecolor r="255" g="255" b="128"/>
+</style>
+<fillcolor r="24" g="24" b="24"/>
+<strokecolor r="255" g="255" b="128"/>
+<parent-relation guid="eRZtvflyB0u_Sc9YsPo3QA">
+<style>
+<color r="255" g="255" b="128"/>
+</style>
+</parent-relation>
+</topic>
+<topic id="33" parent="-1" guid="TTMno3oCIU6xx3Z7-nql8Q" x="330.81" y="-879.11" palette="1" colorinfo="1" text="Time 1" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="34" parent="33" guid="R3QPSAnDsUSgIVFpYOuwUA" x="473.62" y="-1009.28" palette="2" colorinfo="2" text="Time 2" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="35" parent="34" guid="GlcwMIpO9E2K0QO8P-CNig" x="597.12" y="-1094.45" palette="0" colorinfo="-1" text="Time 3" textfmt="plain">
+<style borderstyle="sbsCircle">
+<strokecolor r="255" g="255" b="128"/>
+</style>
+<fillcolor r="24" g="24" b="24"/>
+<strokecolor r="255" g="255" b="128"/>
+<parent-relation guid="dkINNlE3GEqihH1HBhx6HA">
+<style>
+<color r="255" g="255" b="128"/>
+</style>
+</parent-relation>
+</topic>
+<topic id="36" parent="-1" guid="KKGtXSIeBUirpK7t0tQA8Q" x="537.54" y="-719.71" palette="1" colorinfo="1" text="Food 1" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="37" parent="36" guid="IlsWPzQUdEm6LR0A1kmoAw" x="727.92" y="-838.19" palette="2" colorinfo="2" text="Food 2" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="38" parent="37" guid="qd9KnZqIA0m6qd54IdxGEQ" x="944.93" y="-918.19" palette="0" colorinfo="-1" text="Food 3" textfmt="plain">
+<style borderstyle="sbsCircle">
+<strokecolor r="255" g="255" b="128"/>
+</style>
+<fillcolor r="24" g="24" b="24"/>
+<strokecolor r="255" g="255" b="128"/>
+<parent-relation guid="kHgvXV-glkOhtyeriDkF5A">
+<style>
+<color r="255" g="255" b="128"/>
+</style>
+</parent-relation>
+</topic>
+<topic id="39" parent="-1" guid="ZIPuU7mBrUyiqaxVVDfarQ" x="719.93" y="182.86" palette="1" colorinfo="1" text="Units 1" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="40" parent="39" guid="rqDNO5Zf4kypFvHkL7ussw" x="923.13" y="31.85" palette="2" colorinfo="2" text="Units 2" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="41" parent="-1" guid="fvoNVKdHIkipUbC7QiibNA" x="-400.61" y="-918.98" palette="1" colorinfo="1" text="Measure\NWords 1" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="42" parent="41" guid="Un_0N9du-E2OBVR72jkjFg" x="-568.61" y="-1068.38" palette="2" colorinfo="2" text="Measure\NWords 2" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="43" parent="-1" guid="_2ZDHai_9kC2Izh3Un2L8Q" x="981.96" y="-497.90" palette="1" colorinfo="1" text="Emotions 1" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="44" parent="43" guid="RvHq_xjy9U6Ca-UD7zPjqQ" x="1216.24" y="-596.95" palette="2" colorinfo="2" text="Emotions 2" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="45" parent="-1" guid="Vcl6GpbBy02Na6hO6QVnuw" x="-171.74" y="514.40" palette="1" colorinfo="1" text="Adjectives" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="46" parent="45" guid="BuW8KJmnoUqpFBt7jX4UUQ" x="-385.74" y="445.83" palette="2" colorinfo="2" text="Size" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="47" parent="45" guid="eEHjPU8du0OUwiIfRLlKtg" x="-343.46" y="595.54" palette="3" colorinfo="3" text="Look" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="48" parent="45" guid="VPCP5BjwoUisAMXR3MyBJg" x="37.12" y="460.68" palette="4" colorinfo="4" text="Senses" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="49" parent="45" guid="bJnW12TjIESSnso3zMD2Mw" x="-330.60" y="310.20" palette="5" colorinfo="5" text="Mood 1" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="50" parent="49" guid="S6p1tM7jGk2yK9FhAc3lUg" x="-471.59" y="244.37" text="Mood 2" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+<topic id="51" parent="50" guid="whByJe1axEyvrWT83M08eg" x="-644.04" y="156.25" text="Ad Phrases" textfmt="plain">
+<style borderstyle="sbsCircle"/>
+</topic>
+</topics>
+<relations>
+<relation source="2" target="3"/>
+<relation source="3" target="6"/>
+<relation source="6" target="9"/>
+<relation guid="fyno35rQLU2IN3z_hWI1Vg" source="9" target="12"/>
+<relation source="12" target="15"/>
+<relation source="6" target="17"/>
+<relation source="9" target="22"/>
+<relation source="22" target="24"/>
+<relation guid="3i21brD4aUCvYT0ZWFY3JQ" source="3" target="27">
+<path>
+<custom-point x="24.06" y="-39.82"/>
+</path>
+</relation>
+<relation source="12" target="20"/>
+<relation source="6" target="30"/>
+<relation source="15" target="33"/>
+<relation source="27" target="39"/>
+<relation guid="ygUjkk1imk6cvthmD8MF5w" source="12" target="36">
+<path>
+<custom-point x="21.87" y="37.79"/>
+</path>
+</relation>
+<relation source="15" target="41"/>
+<relation guid="Z-19Zt8c1E6io8_LjuNtXg" source="20" target="43"/>
+<relation source="3" target="45"/>
+</relations>
+</mindmap>
+</simplemind-mindmaps>

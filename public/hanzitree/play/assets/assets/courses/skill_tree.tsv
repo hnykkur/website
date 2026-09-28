@@ -1,0 +1,62 @@
+# Skill tree layout (tab-separated).
+#
+# PARENT row: no leading tab. Center / gatekeeper node for this tier.
+# CHILD rows: one leading TAB. GRANDCHILD rows: two tabs, directly under their parent child.
+#   Grandchildren are supplementary dead-ends on the same row as the tier parent (see layout).
+#   There are usually two child lines per parent; they are drawn ABOVE the parent (two → one).
+#   Main trunk: only the first child row connects up to the tier parent; the parent unlocks
+#   from the first child only. Previous parent still unlocks all children on the next row.
+#   Side branches (2nd+ child) sit on the previous tier's parent row (horizontal stem, 3→9 o'clock).
+#
+# Columns (same for parent and child rows):
+#   id	title	glyph	unlocked	progress_source	game_mode	exercise_id	pictograph_list_asset
+#
+# unlocked: 1 = node may appear (0 = hard-disabled). Structural gates still apply (see skill_tree_unlock.dart).
+# progress_source: none | people_01 | nature_pictographs_02 | pictographs_03 | pictographs_04 | radicals_01 | colors_01 | colors_02 | family_friends_01 | radicals_02 | radicals_03 | radicals_04 | pictograph_pool
+# game_mode: pictographic | guess_radical | vocabulary | components | foundations | (empty = no tap)
+#
+# --- Puzzle-type invariants (locked; do not blur across modes) ---
+# vocabulary ("word mode"): ALWAYS composition — user builds ONE target character by placing
+#   2…N IDS component leaves (N capped at [VocabPuzzle.maxComponentAssemblyLeafCount] = 4 in code;
+#   if a character needs more leaves, the round uses whole-glyph handling instead). Never the
+#   pictogram-style "pick the Hanzi that matches the English" screen as the sole mechanic.
+# pictographic: ALWAYS recognition — user picks which Hanzi matches the translation/clue.
+#   Never assembling a character from components in this mode.
+# guess_radical: ALWAYS recognition — user picks which component or glyph matches the English clue.
+#   Never assembling a character from components in this mode.
+# --- end invariants ---
+#
+# exercise_id: pictographic subset lecture id; radical course id for guess_radical; else empty
+# pictograph_list_asset: optional bundled course TSV for pictographic mode puzzle rows. For
+#   People / Nature subset lectures, use the same file as the lesson. If empty for exercise_id
+#   people_01 or nature_pictographs_02, PuzzlePage still resolves the bundled lecture TSV from
+#   exercise_id. Ignored for other game modes.
+#
+# Foundations allowlists:
+#   foundations   → assets/courses/tsv/foundations/foundations_words_01.tsv
+#   lesson2_mid   → assets/courses/tsv/foundations/foundations_words_02.tsv
+#   colors_01     → assets/courses/tsv/colors/colors_01.tsv (foundations mode, skill-tree Colors node)
+#   colors_02     → assets/courses/tsv/colors/colors_02.tsv (grandchild Colors II under Colors row)
+#   family_friends_01 → assets/courses/tsv/family/family_friends_01.tsv (foundations, skill-tree Family node)
+#   lesson3_mid   → assets/courses/tsv/foundations/foundations_words_03.tsv
+#   lesson4_mid   → assets/courses/tsv/foundations/foundations_words_04.tsv
+#
+# Visual order (top → bottom): child, child, parent, child, child, parent, …
+#
+tutorial_00	Tutorial	木	1	none	foundations	tutorial_00
+foundations	Foundations	学	1	none	foundations				
+	people_anim	People pictographs	人	1	people_01	pictographic	people_01	assets/courses/tsv/pictographs/pictographs_01.tsv
+	radicals	Radicals	⻌	1	radicals_01	guess_radical	radicals_01
+lesson2_mid	Foundations II	产	1	none	foundations	foundations_02
+	nature_picto	Nature pictographs	山	1	nature_pictographs_02	pictographic	nature_pictographs_02	assets/courses/tsv/pictographs/pictographs_02.tsv
+	colors	Colors	红	1	colors_01	foundations	colors_01
+		colors_ii	Colors II	彩	1	colors_02	foundations	colors_02
+lesson3_mid	Foundations III	到	1	none	foundations	foundations_03
+	body_picto	Body pictographs	面	1	pictographs_03	pictographic	pictographs_03	assets/courses/tsv/pictographs/pictographs_03.tsv
+	family_friends	Family & friends	家	1	family_friends_01	foundations	family_friends_01
+lesson4_mid	Foundations IV	车	1	none	foundations	foundations_04
+	more_picto	More pictographs	门	1	pictographs_04	pictographic	pictographs_04	assets/courses/tsv/pictographs/pictographs_04.tsv
+	radicals_iii	Radicals III	氵	1	radicals_03	guess_radical	radicals_03
+	radicals_iv	Radicals IV	辵	1	radicals_04	guess_radical	radicals_04
+ids_patterns_01	IDS patterns I	⿴	1	none	foundations	ids_patterns_01
+ids_patterns_02	IDS patterns II	⿰	1	none	foundations	ids_patterns_02

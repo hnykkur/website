@@ -1,0 +1,22 @@
+# Class Tree starter set. Copied from existing courses when the hanzi matched.
+hanzi	pinyin	english	example_word	etymology	uncle_hanzi	uncle_decomp	dictionary_entries
+工程师	gōngchéngshī	engineer	工程师				
+老板	lǎobǎn	boss	老板				
+售货员	shòuhuòyuán	salesperson	售货员				
+歌手	gēshǒu	singer	歌手				
+护士	hùshi	nurse	护士				
+服务员	fúwùyuán	waiter / attendant	服务员	A person 卩 putting on 又 a coat 月 ; money	服人 servant | 服務 service | 衣服 cloths ; round ding, indicating round | authority of the ding, indicating an authority	Compound 𦨕 mutant 服 | from (rem- 月 yuè) from | boat 舟 zhōu and | related phonetic to-regulate-fu 𠬝 fú. ; Component 務 | from (rem- 务 wù reduced part) from | strength 力 lì and | related phonetic spearing-effort 敄 wù | A259 务[務] simp 务. | (name- spearing-affairs (务)務 wù) ; Compound 員 older 𪔅 | from (rem- (贝)貝 bèi) from | container-ding 鼎 dǐng and | (rem+ 口 kǒu a-circle) | name- round-ding (员)員 yuán	[{"character":"服","dictionary":{"character":"服","definition":"clothes; to dress, to wear; to take medicine","pinyin":["fú"],"decomposition":"⿰月⿸卩又","etymology":{"type":"ideographic","hint":"A person 卩 putting on 又 a coat 月"},"radical":"月","matches":[[0],[0],[0],[0],[1,0],[1,0],[1,1],[1,1]]}},{"character":"务","dictionary":{"character":"务","definition":"affairs, business; should; must","pinyin":["wù"],"decomposition":"⿱夂力","radical":"夂","matches":[[0],[0],[0],[1],[1]]}},{"character":"员","dictionary":{"character":"员","definition":"employee; member; personnel, staff","pinyin":["yuán"],"decomposition":"⿱口贝","etymology":{"type":"pictophonetic","semantic":"贝","hint":"money"},"radical":"口","matches":[[0],[0],[0],[1],[1],[1],[1]]}}]
+老师	lǎo shī	teacher	老师		an old man with long hair-lao 耂 leaning on a cane 匕		[{"character":"老","dictionary":{"character":"老","definition":"old, aged; experienced","pinyin":["lǎo"],"decomposition":"⿱耂匕","etymology":{"type":"pictographic","hint":"A person bent over with long hair 匕 and a crutch; compare 耂"},"radical":"老","matches":[[0],[0],[0],[0],[1],[1]]}},{"character":"师","dictionary":{"character":"师","definition":"teacher, professional, master","pinyin":["shī"],"decomposition":"⿰刂帀","etymology":{"type":"ideographic","hint":"To skillfully wield 帀 a knife 刂"},"radical":"巾","matches":[[0],[0],[1],[1],[1],[1]]}}]
+警察	jǐngchá	police officer	警察				
+学生	xué shēng	student	学生	A building 冖 where children 子 study; ⺍ provides the pronunciation			[{"character":"学","dictionary":{"character":"学","definition":"learning, knowledge, science; to study, to go to school; -ology","pinyin":["xué"],"decomposition":"⿱⿱⺍冖子","etymology":{"type":"ideographic","hint":"A building 冖 where children 子 study; ⺍ provides the pronunciation"},"radical":"子","matches":[[0,0],[0,0],[0,0],[0,1],[0,1],[1],[1],[1]]}},{"character":"生","dictionary":{"character":"生","definition":"life, lifetime; birth; growth","pinyin":["shēng"],"decomposition":"⿻一土","etymology":{"type":"ideographic","hint":" A shoot 屮 growing in the soil 土"},"radical":"生","matches":[null,[0],[1],[1],[1]]}}]
+运动员	yùndòngyuán	athlete	运动员				
+大学生	dàxuéshēng	college student	大学生				
+职员	zhíyuán	office worker	职员				
+上班	shàngbān	to go to work	上班				
+医生	yīshēng	doctor	医生				
+演员	yǎnyuán	actor	演员				
+工作	gōngzuò	work; job	工作				
+经理	jīnglǐ	manager	经理				
+小学生	xiǎoxuéshēng	primary-school student	小学生				
+律师	lǜshī	lawyer	律师				
+家庭主妇	jiātíngzhǔfù	housewife	家庭主妇				

@@ -1,0 +1,33 @@
+# Class Tree modal cloze. English is the prompt; □ hides 会 / 想 / 可以 / 能 / 要 / 应该.
+# Counts follow frequency: 会 7, 想 6, 可以 5, 能 4, 要 4, 应该 4. File order is shuffled.
+hanzi	pinyin	english	blank	dictionary_entries
+我不能吃饭。	wǒ bù néng chī fàn	I can't eat. (not able)	能	
+我不想去。	wǒ bù xiǎng qù	I don't want to go.	想	
+你会唱歌吗？	nǐ huì chànggē ma	Can you sing? (do you know how)	会	
+她明天要工作。	tā míngtiān yào gōngzuò	She's going to work tomorrow.	要	
+他不会游泳。	tā bú huì yóuyǒng	He can't swim. (doesn't know how)	会	
+你不可以玩手机。	nǐ bù kěyǐ wán shǒujī	You may not play with your phone.	可以	
+他会游泳。	tā huì yóuyǒng	He can swim. (knows how)	会	
+他要去学校。	tā yào qù xuéxiào	He's going to go to school.	要	
+我想买咖啡。	wǒ xiǎng mǎi kāfēi	I want to buy coffee.	想	
+他应该去医院。	tā yīnggāi qù yīyuàn	He should go to the hospital.	应该	
+我可以进来吗？	wǒ kěyǐ jìnlái ma	May I come in?	可以	
+你想喝茶吗？	nǐ xiǎng hē chá ma	Do you want to drink tea?	想	
+我可以用你的笔吗？	wǒ kěyǐ yòng nǐ de bǐ ma	May I use your pen?	可以	
+你应该睡觉。	nǐ yīnggāi shuìjiào	You should sleep.	应该	
+你会做饭吗？	nǐ huì zuòfàn ma	Can you cook? (do you know how)	会	
+你可以去商场。	nǐ kěyǐ qù shāngchǎng	You may go to the mall.	可以	
+我们应该去学校。	wǒmen yīnggāi qù xuéxiào	We should go to school.	应该	
+他会弹钢琴。	tā huì tán gāngqín	He can play the piano. (knows how)	会	
+她想看书。	tā xiǎng kàn shū	She wants to read.	想	
+我明天要考试。	wǒ míngtiān yào kǎoshì	I'm going to have an exam tomorrow.	要	
+她会开车。	tā huì kāichē	She can drive. (knows how)	会	
+我想去旅行。	wǒ xiǎng qù lǚxíng	I want to travel.	想	
+我们可以坐这里吗？	wǒmen kěyǐ zuò zhèlǐ ma	May we sit here?	可以	
+我想养狗。	wǒ xiǎng yǎng gǒu	I want to raise a dog.	想	
+我能看见。	wǒ néng kànjiàn	I can see (it). (able to)	能	
+我要睡觉。	wǒ yào shuìjiào	I'm going to sleep.	要	
+我会说中文。	wǒ huì shuō zhōngwén	I can speak Chinese. (know how)	会	
+今天不能去。	jīntiān bù néng qù	(I) can't go today. (not able)	能	
+我不应该喝咖啡。	wǒ bù yīnggāi hē kāfēi	I shouldn't drink coffee.	应该	
+你能帮我吗？	nǐ néng bāng wǒ ma	Can you help me? (are you able)	能	

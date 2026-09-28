@@ -1,0 +1,118 @@
+# Photo-match items for later wiring. Descriptions: photo_sets.md
+# reuse_photo_id: same file as that photo_id (do not shoot twice).
+# acquired: 1 once the unique file in photo_inventory.tsv is in hand (reuse rows inherit).
+level	lesson	set_id	hanzi	pinyin	english	photo_id	description	reuse_photo_id	acquired
+1	03	hsk1_l03	老师	lǎoshī	teacher	teacher	Adult teaching at a blackboard or with a class		1
+1	03	hsk1_l03	学生	xuésheng	student	student	Young person with backpack or at a desk		1
+1	03	hsk1_l03	人	rén	person	person	One adult, head-and-shoulders, looking at camera		1
+1	03	hsk1_l03	中国	Zhōngguó	China	china	PRC flag or an obvious China public landmark		1
+1	03	hsk1_l03	美国	Měiguó	the United States	usa	US flag or an obvious US public landmark		1
+1	04	hsk1_l04	她	tā	she	woman	Adult woman, plain portrait		1
+1	04	hsk1_l04	他	tā	he	man	Adult man, plain portrait		1
+1	04	hsk1_l04	同学	tóngxué	classmate	classmates	Two students together, classroom or campus		1
+1	04	hsk1_l04	朋友	péngyou	friend	friends	Two people, informal, smiling		1
+1	05	hsk1_l05	家	jiā	home; family	home	House or apartment exterior that reads as home		1
+1	05	hsk1_l05	女儿	nǚ'ér	daughter	daughter	Girl child		1
+1	05	hsk1_l05	家	jiā	family (people)	family	Small family group, parents plus child		1
+1	06	hsk1_l06	妈妈	māma	mom	mother	Adult woman with a child (maternal)		1
+1	06	hsk1_l06	菜	cài	dish; cuisine	dishes	Plated Chinese dishes / home-cooked food		1
+1	06	hsk1_l06	写	xiě	to write	writing_hanzi	Hand writing a Chinese character on paper		1
+1	06	hsk1_l06	汉字	Hànzì	Chinese character	writing_hanzi	Same writing shot	writing_hanzi	1
+1	06	hsk1_l06	读	dú	to read	reading	Person reading a book		1
+1	08	hsk1_l08	茶	chá	tea	tea	Cup or pot of tea, tea visible		1
+1	08	hsk1_l08	米饭	mǐfàn	cooked rice	rice	Bowl of cooked rice		1
+1	08	hsk1_l08	商店	shāngdiàn	shop	shop	Shop / store storefront		1
+1	08	hsk1_l08	杯子	bēizi	cup	cup	Cup or glass, not clearly tea		1
+1	08	hsk1_l08	钱	qián	money	money	Cash or coins		1
+1	08	hsk1_l08	喝	hē	to drink	drinking	Person drinking from a cup		1
+1	08	hsk1_l08	吃	chī	to eat	eating	Person eating a meal at a table		1
+1	09	hsk1_l09	猫	māo	cat	cat	A cat		1
+1	09	hsk1_l09	狗	gǒu	dog	dog	A dog		1
+1	09	hsk1_l09	椅子	yǐzi	chair	chair	A chair, isolated		1
+1	09	hsk1_l09	儿子	érzi	son	son	Boy child		1
+1	09	hsk1_l09	医院	yīyuàn	hospital	hospital	Hospital exterior or entrance		1
+1	09	hsk1_l09	医生	yīshēng	doctor	doctor	Person in a white coat / stethoscope		1
+1	09	hsk1_l09	爸爸	bàba	dad	father	Adult man with a child		1
+1	10	hsk1_l10	桌子	zhuōzi	table	table	Table or desk, top visible		1
+1	10	hsk1_l10	电脑	diànnǎo	computer	computer	Laptop or desktop		1
+1	10	hsk1_l10	坐	zuò	to sit	sitting	Person sitting on a chair		1
+1	10	hsk1_l10	前面	qiánmiàn	in front	in_front	Person standing in front of a chair or desk		1
+1	10	hsk1_l10	后面	hòumiàn	behind	behind	Person standing behind a chair or desk		1
+1	11	hsk1_l11	中午	zhōngwǔ	noon	clock_noon	Analog clock at about 12:00		1
+1	11	hsk1_l11	吃饭	chīfàn	to eat a meal	eating	Person eating a meal	eating	1
+1	11	hsk1_l11	电影	diànyǐng	film	movie	Cinema screen or someone watching a film		1
+1	11	hsk1_l11	北京	Běijīng	Beijing	beijing	Beijing skyline or well-known public view		1
+1	12	hsk1_l12	热	rè	hot	weather_hot	Strong sun / person clearly too hot		1
+1	12	hsk1_l12	冷	lěng	cold	weather_cold	Winter coats, breath in cold air, or frost		1
+1	12	hsk1_l12	下雨	xiàyǔ	to rain	weather_rain	Rain falling; umbrella OK		1
+1	12	hsk1_l12	水果	shuǐguǒ	fruit	fruit	Mixed fruit, bowl or stall		1
+1	12	hsk1_l12	水	shuǐ	water	water	Clear glass of water		1
+1	13	hsk1_l13	睡觉	shuìjiào	to sleep	sleeping	Person asleep in bed		1
+1	13	hsk1_l13	电视	diànshì	television	television	A TV set		1
+1	13	hsk1_l13	打电话	dǎ diànhuà	to make a phone call	phone_call	Person holding a phone to their ear		1
+1	13	hsk1_l13	学习	xuéxí	to study	studying	Person studying at a desk		1
+1	14	hsk1_l14	苹果	píngguǒ	apple	apple	One apple, obvious		1
+1	14	hsk1_l14	车	chē	car	car	A car		1
+1	14	hsk1_l14	衣服	yīfu	clothes	clothes	Clothes on hangers or a folded pile		1
+1	15	hsk1_l15	大学	dàxué	university	university	University / college campus		1
+1	15	hsk1_l15	饭店	fàndiàn	restaurant	restaurant	Restaurant exterior or dining room		1
+1	15	hsk1_l15	出租车	chūzūchē	taxi	taxi	Taxi with roof light or obvious cab		1
+1	15	hsk1_l15	飞机	fēijī	airplane	airplane	Airplane on the ground or in the sky		1
+2	01	hsk2_l01	旅游	lǚyóu	to travel	travel	Suitcase / packing / tourist at a landmark		1
+2	01	hsk2_l01	运动	yùndòng	sport	workout	Person exercising		1
+2	01	hsk2_l01	踢足球	tī zúqiú	to play football	football	People playing soccer / football		1
+2	01	hsk2_l01	眼睛	yǎnjing	eye	eyes	Close-up of eyes		1
+2	01	hsk2_l01	花花	Huāhua	Huahua (cat)	cat	A cat	cat	1
+2	02	hsk2_l02	生病	shēngbìng	to fall ill	sick	Person in bed with a thermometer or clearly unwell		1
+2	02	hsk2_l02	跑步	pǎobù	to jog	jogging	Person jogging outdoors		1
+2	02	hsk2_l02	起床	qǐchuáng	to get up	getting_up	Person sitting up / getting out of bed		1
+2	02	hsk2_l02	药	yào	medicine	medicine	Pills, bottle, or blister pack		1
+2	02	hsk2_l02	休息	xiūxi	to rest	resting	Person resting on a sofa		1
+2	03	hsk2_l03	手表	shǒubiǎo	watch	watch	Wristwatch		1
+2	03	hsk2_l03	报纸	bàozhǐ	newspaper	newspaper	Folded newspaper		1
+2	03	hsk2_l03	牛奶	niúnǎi	milk	milk	Milk carton or glass of milk		1
+2	03	hsk2_l03	房间	fángjiān	room	room	Interior of a bedroom or living room		1
+2	03	hsk2_l03	粉色	fěnsè	pink	pink	Obviously pink object		1
+2	03	hsk2_l03	红色	hóngsè	red	red	Obviously red object, not the pink one		1
+2	03	hsk2_l03	左边	zuǒbian	left side	left_side	Two objects side by side; the left one is the subject		1
+2	05	hsk2_l05	鱼	yú	fish	fish	Whole fish or a fish dish		1
+2	05	hsk2_l05	咖啡	kāfēi	coffee	coffee	Cup of coffee		1
+2	05	hsk2_l05	考试	kǎoshì	test	exam	Exam paper / test booklet on a desk		1
+2	06	hsk2_l06	门	mén	door	door	A door, closed or slightly open		1
+2	06	hsk2_l06	自行车	zìxíngchē	bicycle	bicycle	A bicycle		1
+2	06	hsk2_l06	羊肉	yángròu	mutton	mutton	Lamb / mutton dish		1
+2	06	hsk2_l06	面条	miàntiáo	noodles	noodles	Bowl of noodles		1
+2	06	hsk2_l06	打篮球	dǎ lánqiú	to play basketball	basketball	People playing basketball		1
+2	06	hsk2_l06	游泳	yóuyǒng	to swim	swimming	Person swimming		1
+2	06	hsk2_l06	姐姐	jiějie	older sister	older_sister	Young adult woman; not the mother shot		1
+2	07	hsk2_l07	教室	jiàoshì	classroom	classroom	Classroom interior		1
+2	07	hsk2_l07	机场	jīchǎng	airport	airport	Airport terminal or airside		1
+2	07	hsk2_l07	路	lù	road	road	A road / street stretching away		1
+2	07	hsk2_l07	公司	gōngsī	company	company	Office building that reads as a company		1
+2	07	hsk2_l07	公共汽车	gōnggòng qìchē	bus	bus	City bus		1
+2	10	hsk2_l10	哥哥	gēge	older brother	older_brother	Young adult man; not the father shot		1
+2	10	hsk2_l10	鸡蛋	jīdàn	egg	egg	Eggs, obvious		1
+2	10	hsk2_l10	西瓜	xīguā	watermelon	watermelon	Watermelon, whole or sliced		1
+2	10	hsk2_l10	手机	shǒujī	mobile phone	phone	Mobile phone, not at someone’s ear		1
+2	10	hsk2_l10	洗	xǐ	to wash	washing	Person washing dishes or clothes		1
+2	11	hsk2_l11	唱歌	chànggē	to sing	singing	Person singing		1
+2	11	hsk2_l11	男	nán	male	man	Adult man portrait	man	1
+2	11	hsk2_l11	女	nǚ	female	woman	Adult woman portrait	woman	1
+2	11	hsk2_l11	孩子	háizi	child	child	A child, not specifically daughter/son		1
+2	11	hsk2_l11	右边	yòubian	right side	right_side	Same pair as left_side; the right object is the subject		1
+2	12	hsk2_l12	雪	xuě	snow	snow	Snow on the ground or falling		1
+2	12	hsk2_l12	穿	chuān	to wear	putting_on	Person putting on a coat or sweater		1
+2	12	hsk2_l12	妻子	qīzi	wife	wife	Adult woman with a wedding ring, or couple with woman as subject		1
+2	12	hsk2_l12	弟弟	dìdi	younger brother	younger_brother	Younger boy		1
+2	13	hsk2_l13	手	shǒu	hand	hand	A hand, open palm or back		1
+2	13	hsk2_l13	铅笔	qiānbǐ	pencil	pencil	A pencil		1
+2	13	hsk2_l13	宾馆	bīnguǎn	hotel	hotel	Hotel facade or lobby		1
+2	13	hsk2_l13	路口	lùkǒu	intersection	intersection	Street intersection		1
+2	13	hsk2_l13	拿	ná	to hold	holding	Hand holding an object		1
+2	13	hsk2_l13	笑	xiào	to smile	smiling	Person smiling / laughing		1
+2	15	hsk2_l15	新年	xīnnián	New Year	new_year	New Year decorations; original stock, not book art		1
+2	15	hsk2_l15	票	piào	ticket	ticket	A paper or card ticket		1
+2	15	hsk2_l15	火车站	huǒchēzhàn	railway station	train_station	Railway station exterior or platforms		1
+2	15	hsk2_l15	妹妹	mèimei	younger sister	younger_sister	Younger girl		1
+2	15	hsk2_l15	阴	yīn	overcast	weather_overcast	Grey overcast sky, no rain		1
+0	00	shared_weather	晴	qíng	sunny	weather_sunny	Bright clear sun / blue sky; extra for weather mix, not an L14 set		1

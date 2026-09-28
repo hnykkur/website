@@ -13,7 +13,7 @@ export type ProjectPlatformId =
   | "windows"
   | "web";
 
-export type ProjectPlatformStatus = "testing" | "planned";
+export type ProjectPlatformStatus = "testing" | "planned" | "live";
 
 export type ProjectPlatform = {
   id: ProjectPlatformId;

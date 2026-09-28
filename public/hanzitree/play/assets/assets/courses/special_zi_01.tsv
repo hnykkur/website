@@ -1,0 +1,72 @@
+# Words ending in 子 (mostly neutral 子 suffix); includes curriculum rows plus any
+# matching unique hanzi from assets/wordlist.tsv.
+# Columns: hanzi, pinyin, english, jun_da_rank, frequency, frequency_in_wordlist,
+#   first_char_ids_leaf_count, first_char_leaves_in_curriculum (tab-separated).
+# jun_da_rank = 序列号 and frequency = 频率 from assets/CharFreq-Modern-JunDa.tsv for the
+#   first character of hanzi (Jun Da is single-character; 子-suffix words share a common tail).
+# frequency_in_wordlist = number of rows in assets/wordlist.tsv whose hanzi column equals this lemma (exact string).
+# first_char_ids_leaf_count: number of IDS leaf glyphs for the first character of hanzi, from
+#   assets/dictionary.txt (merged with dictionary.Txt) decomposition — same leaf walk as
+#   scripts/pick_foundations_allowlist.ids_leaves (Ideographic Description Sequence leaves only).
+# first_char_leaves_in_curriculum: how many of those leaves appear as a character in
+#   pictographs_01.tsv (hanzi column) or pictographs_02.tsv (hanzi column),
+#   or as a glyph form parsed from radicals_01.tsv / radicals_02.tsv (radical_forms + simplified_or_note),
+#   using pick_foundations_allowlist.load_foundations_allowed_glyphs().
+# Pinyin spacing follows assets/wordlist.tsv (syllables separated by spaces).
+#
+# Note: Game vocabulary puzzles load from assets/wordlist.tsv (dictionary_entries JSON).
+# This file is a curriculum / allowlist slice; wire it in code or merge rows into wordlist when needed.
+#
+# Data rows: sorted by first-character IDS leaf curriculum coverage (desc): leaves_in_curriculum
+#   / ids_leaf_count; full coverage (hits == total > 0) first. Ties: more curriculum hits, more
+#   total leaves, higher frequency_in_wordlist, then lower jun_da_rank (more common first char).
+hanzi	pinyin	english	jun_da_rank	frequency	frequency_in_wordlist	first_char_ids_leaf_count	first_char_leaves_in_curriculum
+妻子	qī zi	wife	1076	26847	0	3	3
+册子	cè zi	booklet	1525	13462	0	3	3
+个子	gè zi	height	12	1199580	1	2	2
+儿子	ér zi	son	192	207827	1	2	2
+房子	fáng zi	house	512	80320	1	2	2
+句子	jù zi	sentence	707	52891	1	2	2
+盘子	pán zi	plate	1049	28582	1	2	2
+肚子	dù zi	belly; stomach	1800	9102	1	2	2
+兔子	tù zi	rabbit	2364	4418	1	2	2
+勺子	sháo zi	spoon	3275	1357	1	2	2
+样子	yàng zi	appearance; manner	88	398149	0	2	2
+本子	běn zi	notebook	92	388118	0	2	2
+日子	rì zi	day; life	101	363763	0	2	2
+男子	nán zǐ	man; male	602	67405	0	2	2
+村子	cūn zi	village	712	52603	0	2	2
+屋子	wū zi	room	863	39588	0	2	2
+叉子	chā zi	fork	2231	5299	0	2	2
+脑子	nǎo zi	brain	646	61647	0	3	2
+孩子	hái zi	child	533	76620	1	2	1
+例子	lì zi	example	547	74579	1	2	1
+桌子	zhuō zi	table	1193	22336	1	2	1
+镜子	jìng zi	mirror	1251	20100	1	2	1
+牌子	pái zi	brand, brands	1261	19752	1	2	1
+杯子	bēi zi	cup, glass	1396	16068	1	2	1
+箱子	xiāng zi	box; suitcase	1453	14913	1	2	1
+椅子	yǐ zi	chair	1663	10917	1	2	1
+帽子	mào zi	hat	1750	9697	1	2	1
+靴子	xuē zi	boot	3091	1688	1	2	1
+筷子	kuài zi	chopsticks	3110	1652	1	2	1
+橙子	chéng zi	orange	3571	946	1	2	1
+法子	fǎ zi	method; way	65	466816	0	2	1
+点子	diǎn zi	idea	128	300800	0	2	1
+被子	bèi zi	quilt	154	268905	0	2	1
+刀子	dāo zi	knife	1067	27292	0	2	1
+袋子	dài zi	bag	1310	18381	0	2	1
+鼻子	bí zi	nose	1335	17773	0	2	1
+盒子	hé zi	box	2067	6506	0	2	1
+脖子	bó zi	neck	2175	5682	0	2	1
+猴子	hóu zi	monkey	2187	5582	0	2	1
+狮子	shī zi	lion	2211	5456	0	2	1
+鸽子	gē zi	pigeon	2694	2886	0	2	1
+毯子	tǎn zi	blanket	2711	2827	0	2	1
+梳子	shū zi	comb	2717	2806	0	2	1
+院子	yuàn zi	courtyard; yard	338	126115	1	2	0
+裤子	kù zi	pants	2090	6282	1	2	0
+袜子	wà zi	socks	3045	1790	1	2	0
+饺子	jiǎo zi	dumpling	3650	856	1	2	0
+面子	miàn zi	face; prestige	74	425180	0	2	0
+裙子	qún zi	skirt	2431	4062	0	2	0

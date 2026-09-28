@@ -1,0 +1,312 @@
+{
+  "_meta": {
+    "description": "Canonical meaning tags and aliases for Chinese given-name matching.",
+    "source": "tools/chinese_names/data/meaning_synonyms.tsv"
+  },
+  "tags": {
+    "brave": [
+      "brave",
+      "courage",
+      "bravery",
+      "bold",
+      "valiant",
+      "heroic",
+      "fearless"
+    ],
+    "calm": [
+      "calm",
+      "peace",
+      "peaceful",
+      "tranquility",
+      "serene",
+      "tranquil",
+      "serenity",
+      "safety",
+      "safe"
+    ],
+    "wisdom": [
+      "wisdom",
+      "wise",
+      "knowledge",
+      "intelligence",
+      "insight",
+      "clever",
+      "smart"
+    ],
+    "joy": [
+      "joy",
+      "happy",
+      "happiness",
+      "cheerful",
+      "delight",
+      "joyous",
+      "glad"
+    ],
+    "nature": [
+      "nature",
+      "forest",
+      "mountain",
+      "river",
+      "ocean",
+      "flower",
+      "sky",
+      "tree",
+      "cloud",
+      "sea"
+    ],
+    "beauty": [
+      "beauty",
+      "beautiful",
+      "pretty",
+      "handsome",
+      "grace",
+      "graceful",
+      "elegant"
+    ],
+    "strength": [
+      "strength",
+      "strong",
+      "powerful",
+      "mighty",
+      "robust"
+    ],
+    "virtue": [
+      "virtue",
+      "virtuous",
+      "moral",
+      "righteous",
+      "upright",
+      "noble",
+      "good"
+    ],
+    "light": [
+      "light",
+      "bright",
+      "brilliant",
+      "radiant",
+      "shine",
+      "sunny"
+    ],
+    "prosperity": [
+      "prosperity",
+      "prosperous",
+      "wealth",
+      "flourish",
+      "success"
+    ],
+    "kindness": [
+      "kindness",
+      "kind",
+      "gentle",
+      "benevolent",
+      "benevolence",
+      "compassion"
+    ],
+    "jade": [
+      "jade",
+      "precious"
+    ],
+    "moon": [
+      "moon",
+      "lunar",
+      "moonlight"
+    ],
+    "autumn": [
+      "autumn",
+      "harvest"
+    ],
+    "spring": [
+      "spring",
+      "youth",
+      "youthful"
+    ],
+    "literary": [
+      "literary",
+      "literature",
+      "cultured",
+      "scholarly",
+      "poetic",
+      "poetry",
+      "poem",
+      "writing",
+      "script",
+      "rune",
+      "runes",
+      "calligraphy",
+      "ink",
+      "book",
+      "text",
+      "letter",
+      "glyph",
+      "inscription"
+    ],
+    "curiosity": [
+      "curiosity",
+      "curious",
+      "inquisitive",
+      "wonder",
+      "explore",
+      "discovery"
+    ],
+    "vast": [
+      "vast",
+      "grand",
+      "great",
+      "broad",
+      "wide",
+      "magnificent"
+    ],
+    "hope": [
+      "hope",
+      "hopeful",
+      "wish",
+      "aspire"
+    ],
+    "love": [
+      "love",
+      "affection",
+      "beloved",
+      "dear"
+    ],
+    "honest": [
+      "honest",
+      "sincere",
+      "true",
+      "loyal"
+    ],
+    "quiet": [
+      "quiet",
+      "still",
+      "silent",
+      "serene"
+    ],
+    "health": [
+      "health",
+      "healthy"
+    ],
+    "longevity": [
+      "longevity",
+      "long-lived"
+    ],
+    "fragrance": [
+      "fragrance",
+      "fragrant",
+      "scent",
+      "aromatic"
+    ],
+    "auspicious": [
+      "auspicious",
+      "lucky",
+      "fortunate",
+      "propitious"
+    ],
+    "harmony": [
+      "harmony",
+      "harmonious",
+      "balance"
+    ],
+    "diligent": [
+      "diligent",
+      "industrious",
+      "hardworking"
+    ],
+    "eternal": [
+      "eternal",
+      "forever",
+      "lasting",
+      "enduring"
+    ],
+    "dream": [
+      "dream",
+      "dreamy",
+      "ideal"
+    ],
+    "fresh": [
+      "fresh",
+      "new",
+      "refreshing"
+    ],
+    "firm": [
+      "firm",
+      "resolute",
+      "determined"
+    ],
+    "sky": [
+      "sky",
+      "heaven",
+      "heavenly",
+      "celestial"
+    ],
+    "water": [
+      "water",
+      "stream",
+      "river",
+      "ocean",
+      "sea",
+      "wave"
+    ],
+    "mountain": [
+      "mountain",
+      "hill",
+      "peak",
+      "lofty"
+    ],
+    "flower": [
+      "flower",
+      "blossom",
+      "floral",
+      "bloom"
+    ],
+    "pine": [
+      "pine",
+      "evergreen"
+    ],
+    "bamboo": [
+      "bamboo",
+      "upright"
+    ],
+    "plum": [
+      "plum",
+      "plum-blossom"
+    ],
+    "orchid": [
+      "orchid",
+      "orchidaceous"
+    ],
+    "lotus": [
+      "lotus",
+      "lotus-flower"
+    ],
+    "star": [
+      "star",
+      "stellar"
+    ],
+    "sun": [
+      "sun",
+      "sunshine",
+      "solar"
+    ],
+    "dawn": [
+      "dawn",
+      "morning",
+      "daybreak"
+    ],
+    "cloud": [
+      "cloud",
+      "mist",
+      "misty"
+    ],
+    "rain": [
+      "rain",
+      "rainy"
+    ],
+    "snow": [
+      "snow",
+      "snowy"
+    ],
+    "wind": [
+      "wind",
+      "breeze"
+    ]
+  }
+}

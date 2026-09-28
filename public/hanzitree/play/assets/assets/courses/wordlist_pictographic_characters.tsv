@@ -1,0 +1,70 @@
+frequency_in_wordlist	jun_da_rank	theme_category	dictionary_linked_characters	character	etymology_type	pinyin	definition	hint	radical	decomposition	vocab_example_count	vocab_examples	ids_container_count	ids_container_characters	effective_rank	rank_source
+1	1865	animals		羽	pictographic	yǔ	feather, plume; wings	Two feathers or wings	羽	⿰习习	1	羽毛球 (badminton)	35	塌 | 扇 | 栩 | 榻 | 溻 | 羿 | 翁 | 翅 | 翊 | 翌 | 翎 | 翏 | 習 | 翔 | 翕 | 翘 | 翟 | 翠 | 翡 | 翥 | 翦 | 翩 | 翮 | 翰 | 翱 | 翳 | 翹 | 翻 | 翼 | 褟 | 詡 | 诩 | 蹋 | 遢 | 鳎	1865	corpus
+0		animals		㲋	pictographic	chuò	rabbit, hare	A rabbit looking to the left	比	⿳⺈口比	0		1	毚		none
+0	4953	animals		豕	pictographic	shǐ	pig, boar	A pig drawn on its side	豕	⿱一⿰勿？	0		18	㒸 | 冡 | 圂 | 家 | 彖 | 甤 | 豖 | 豙 | 豚 | 象 | 豢 | 豦 | 豩 | 豪 | 豬 | 豱 | 逐 | 遂	4953	corpus
+0		animals		豖	pictographic	chù	a shackled pig	A pig 豕 in shackles 丶	豕	⿻豕丶	0		6	冢 | 啄 | 涿 | 琢 | 瘃 | 诼	2840	parent_min
+0	3307	animals		豚	pictographic	tún	suckling pig; to suckle	A pig 豕 suckling at its mother's teat ⺼	豕	⿰⺼豕	0		0		3307	corpus
+0	2056	animals		鹿	pictographic	lù	deer; surname	A deer with an antlered head, two legs, and a tail	鹿	⿸广⿱？比	0		18	塵 | 廌 | 慶 | 漉 | 簏 | 轆 | 辘 | 鏖 | 麂 | 麃 | 麇 | 麈 | 麋 | 麒 | 麓 | 麗 | 麝 | 麟	2056	corpus
+0		animals	黾	黽	pictographic	miǎn	frog, toad; to strive, to endeavor	A frog with bug-eyes	黽	⿻？？	0		7	澠 | 竈 | 繩 | 蠅 | 黿 | 鼂 | 鼉	6615	parent_min
+0	5223	animals	黽	黾	pictographic	miǎn	frog, toad; to strive, to endeavor	Simplified form of 黽; a frog with bug-eyes	黾	⿱口电	0		5	渑 | 绳 | 蝇 | 鼋 | 鼍	5223	corpus
+0	1693	animals		鼠	pictographic	shǔ	rat, mouse	A mouse, with two paws to the left and the tail to the right	鼠	⿱臼？	0		10	巤 | 竄 | 鼢 | 鼩 | 鼬 | 鼯 | 鼱 | 鼴 | 鼷 | 鼹	1693	corpus
+0	2392	animals	龜	龟	pictographic	guī	turtle, tortoise; cuckold	A turtle; compare 龜	龟	⿱⺈电	0		1	阄	2392	corpus
+0	2462	food_cloth_goods		丸	pictographic	wán	ball, pebble, pellet, pill	A fist 九 holding a pebble 丶	丶	⿻九丶	0		7	埶 | 執 | 孰 | 执 | 紈 | 纨 | 芄	2462	corpus
+0	4909	food_cloth_goods		俎	pictographic	zǔ	chopping board or block; painted	A slab of meat on a chopping board 且	人	⿰仌且	0		0		4909	corpus
+0	1908	food_cloth_goods		匹	pictographic	pǐ	bolt of cloth; mate, one of a pair; measure word for horses	A roll of cloth	匸	⿷匸儿	0		1	甚	1908	corpus
+0	3747	food_cloth_goods		卤	pictographic	lǔ	salt	A container used to brine pickles	卤	⿱⺊⿴囗乂	0		2	禼 | 鹾	3747	corpus
+0	4544	food_cloth_goods		弁	pictographic	biàn	conical cap worn during the Zhou dynasty	Two hands 廾 putting the cap 厶 on someone's head	廾	⿱厶廾	0		1	拚	4544	corpus
+0		food_cloth_goods	珏	玨	pictographic	jué	guitar strings; variant of 珏	Two guitar strings bound across frets	王	⿰王王	0		4	琴 | 琵 | 琶 | 瑟	1694	parent_min
+0	4230	food_cloth_goods		裨	pictographic	bì	to aid, to benefit, to help, to supplement	Clothing 衤 for the poor 卑; 卑 also provides the pronunciation	衤	⿰衤卑	0		0		4230	corpus
+0		food_cloth_goods		鹵	pictographic	lǔ	salt	A container used to brine pickles	鹵	⿱？⿴囗？	0		4	滷 | 鹹 | 鹼 | 鹽	6875	parent_min
+0	1929	nature_landscape		丘	pictographic	qiū	mound, hill; surname	Two hills	一	⿱斤一	0		6	乒 | 乓 | 兵 | 岳 | 蚯 | 邱	1929	corpus
+0	2047	nature_landscape	岡	冈	pictographic	gāng	ridge or crest of hill	Simplified form of 岡, clouds 网 forming over a mountain 山	冂	⿵冂乂	0		4	刚 | 岗 | 纲 | 钢	2047	corpus
+0	1592	nature_landscape		垂	pictographic	chuí	to hang, to dangle; to hand down, to bequeath; almost, near	A tree with drooping branches	土	⿻⿱？士卄	0		10	唾 | 埵 | 捶 | 棰 | 睡 | 缍 | 郵 | 錘 | 锤 | 陲	1592	corpus
+0		nature_landscape	冈	岡	pictographic	gāng	ridge or crest of hill	Clouds 网 forming over a mountain 山	山	⿵冂⿱？山	0		4	剛 | 崗 | 綱 | 鋼	6871	parent_min
+0	8933	nature_landscape	川	巛	pictographic	chuān	stream, river	A river flowing	巛	⿲？？？	0		12	巠 | 巡 | 巢 | 巤 | 惱 | 拶 | 災 | 瑙 | 甾 | 粼 | 腦 | 邕	8933	corpus
+0		people_body		丱	pictographic	guàn	a child's hair bound in two tufts; ore	Two braids 丱 of hair	丨	⿰丩？	0		2	虛 | 關	4890	parent_min
+0	3079	people_body		夭	pictographic	yāo	young, energetic; to die young	A person with head tilted - leaning forward, running, energetic	大	⿱丿大	0		11	乔 | 呑 | 喬 | 妖 | 岙 | 沃 | 笑 | 袄 | 跃 | 飫 | 饫	3079	corpus
+0	3010	people_body		肘	pictographic	zhǒu	elbow, shoulder; to help someone carry a load	A arm carrying an object 寸 at the side of the body ⺼	⺼	⿰⺼寸	0		0		3010	corpus
+0	4933	people_body	长	長	pictographic	zhǎng	long, lasting; to excel in	An old man with long hair and a cane	長	⿱？？	0		6	倀 | 帳 | 張 | 悵 | 脹 | 賬	4933	corpus
+0	7140	people_body		齒	pictographic	chǐ	teeth; gears, cogs; age	Upper and lower teeth 从; 止 provides the pronunciation	齒	⿱止⿶凵⿳从一从	0		15	嚙 | 齙 | 齜 | 齟 | 齡 | 齦 | 齧 | 齪 | 齬 | 齮 | 齱 | 齲 | 齵 | 齶 | 齷	7140	corpus
+0	1773	people_body		齿	pictographic	chǐ	teeth; gears, cogs; age	Teeth 人凵; 止 provides the pronunciation	齿	⿱止⿶凵人	0		12	啮 | 龀 | 龃 | 龄 | 龅 | 龆 | 龇 | 龈 | 龉 | 龊 | 龋 | 龌	1773	corpus
+0		plants_fields		幹	pictographic	gàn	arid, dry; to oppose; to offend; to invade	"Sunlight 龺 suggests ""dry""; a club 人干 suggests ""invade"""	干	⿰龺⿱人干	0		1	擀	5469	parent_min
+0	4227	plants_fields		韭	pictographic	jiǔ	scallion, leek, chive	Chives 非 growing in the ground 一	韭	⿱非一	0		3	韰 | 韱 | 齑	4227	corpus
+0	7087	script_components		膦	pictographic	lìn	phosphine	An organic compound ⺼ containing phosphorous 粦; 粦 also provides the pronunciation	⺼	⿰⺼粦	0		0		7087	corpus
+0		script_components		飠	pictographic	shí	food; to eat	A dish of food 良 with a lid on top 人	飠	⿱人？	0		44	蝕 | 飢 | 飩 | 飪 | 飫 | 飭 | 飯 | 飲 | 飴 | 飼 | 飽 | 飾 | 餃 | 餄 | 餅 | 餉 | 餌 | 餎 | 餑 | 餒 | 餓 | 餕 | 餘 | 餚 | 餛 | 餞 | 餡 | 館 | 餬 | 餵 | 餼 | 餾 | 餿 | 饃 | 饅 | 饈 | 饉 | 饊 | 饋 | 饌 | 饑 | 饒 | 饞 | 饢	5504	parent_min
+0	1431	shelter_vessels		井	pictographic	jǐng	well, mine shaft, pit	A mine or well	二	⿻二？	0		7	冓 | 耕 | 肼 | 襄 | 讲 | 进 | 阱	1431	corpus
+0	2002	shelter_vessels		亭	pictographic	tíng	pavilion; erect	亠, 口, and 冖 form a picture of a pavilion; 丁 provides the pronunciation	亠	⿱⿳亠口冖丁	0		3	停 | 婷 | 葶	2002	corpus
+0	5459	shelter_vessels		卣	pictographic	yǒu	a vessel of wine	A wine flask	⺊	⿱⺊⿴囗？	0		0		5459	corpus
+0	2518	shelter_vessels		壶	pictographic	hú	jar, pot, jug, vase; surname	A jar of wine	士	⿱士⿱冖业	0		0		2518	corpus
+0		shelter_vessels		壺	pictographic	hú	jar, pot, jug, vase; surname	A jar of wine	士	⿱士亞	0		0			none
+0		shelter_vessels		幾	pictographic	jǐ	small table; how many; a few, some	A very small 幺 table 戍	幺	⿻⿰幺幺戍	0		6	嘰 | 機 | 璣 | 蟣 | 譏 | 饑	7363	parent_min
+0	1940	shelter_vessels		穴	pictographic	xué	cave, den, hole	The mouth of a cave	穴	⿱宀八	0		49	屄 | 帘 | 穵 | 究 | 穷 | 穸 | 穹 | 空 | 穿 | 窀 | 突 | 窃 | 窄 | 窅 | 窆 | 窈 | 窍 | 窑 | 窒 | 窕 | 窖 | 窗 | 窘 | 窜 | 窝 | 窟 | 窠 | 窣 | 窥 | 窦 | 窨 | 窩 | 窪 | 窬 | 窭 | 窮 | 窯 | 窳 | 窸 | 窺 | 窾 | 窿 | 竄 | 竅 | 竇 | 竈 | 竊 | 臱 | 邃	1940	corpus
+0	4066	shelter_vessels		臼	pictographic	jiù	mortar; bone joint socket	A mortar used to grind out powders	臼	？	0		21	兒 | 叟 | 桕 | 毀 | 毁 | 湼 | 臽 | 臾 | 臿 | 舀 | 舁 | 舂 | 舄 | 舅 | 與 | 興 | 舊 | 裒 | 鑿 | 隉 | 鼠	4066	corpus
+0	3839	shelter_vessels		酉	pictographic	yǒu	wine; wine vessel; chemical	A vessel half-filled with wine	酉	⿻兀日	0		66	酊 | 酋 | 酌 | 配 | 酎 | 酏 | 酐 | 酒 | 酕 | 酖 | 酗 | 酚 | 酝 | 酞 | 酡 | 酢 | 酣 | 酤 | 酥 | 酦 | 酩 | 酪 | 酬 | 酮 | 酯 | 酰 | 酱 | 酲 | 酴 | 酵 | 酶 | 酷 | 酸 | 酹 | 酽 | 酾 | 酿 | 醃 | 醄 | 醅 | 醇 | 醉 | 醋 | 醌 | 醍 | 醐 | 醑 | 醒 | 醚 | 醛 | 醜 | 醞 | 醢 | 醣 | 醪 | 醫 | 醬 | 醭 | 醮 | 醯 | 醱 | 醴 | 醵 | 醺 | 釀 | 釁	3839	corpus
+0	6855	shelter_vessels		鬲	pictographic	gé	earthen pot, iron cauldron	A cauldron 口 with three legs 冂丷	鬲	⿳一口⿵冂⿱丷？	0		9	嗝 | 塥 | 翮 | 膈 | 融 | 镉 | 隔 | 鬳 | 鬻	6855	corpus
+0	2356	shelter_vessels		鼎	pictographic	dǐng	large, three-legged bronze cauldron	A cauldron on its bronze tripod	鼎	⿶？目	0		1	鼐	2356	corpus
+1	2202	tools_transport		伞	pictographic	sǎn	umbrella, parasol, parachute	An umbrella	人	⿱人？	1	雨伞 (umbrella)	0		2202	corpus
+0	2584	tools_transport		卒	pictographic	zú	soldier; servant; at last, finally	A soldier in armor	十	⿱亠⿱从十	0		15	啐 | 崒 | 悴 | 晬 | 淬 | 猝 | 瘁 | 碎 | 窣 | 粹 | 綷 | 翠 | 萃 | 谇 | 醉	2584	corpus
+0	3630	tools_transport		帚	pictographic	zhǒu	broom, broomstick	A hand 巾 holding a broom with the head 彐 held up	巾	⿱彐⿱冖巾	0		4	埽 | 婦 | 掃 | 歸	3630	corpus
+0	4265	tools_transport		弋	pictographic	yì	to catch, to arrest; to shoot with a bow	Picture of an arrow shot from a bow	弋	？	0		9	代 | 式 | 忒 | 武 | 甙 | 貳 | 贰 | 鳶 | 鸢	4265	corpus
+0	2229	tools_transport		弓	pictographic	gōng	bow; curved, arched	A bow aimed to the left	弓	？	0		36	夷 | 弔 | 引 | 弗 | 弘 | 弛 | 弟 | 张 | 弥 | 弦 | 弧 | 弩 | 弪 | 弭 | 弮 | 弯 | 弱 | 弳 | 張 | 強 | 弹 | 强 | 弼 | 彀 | 彆 | 彈 | 彊 | 彌 | 彎 | 疆 | 發 | 穹 | 粥 | 芎 | 躬 | 雋	2229	corpus
+0	1441	tools_transport		矛	pictographic	máo	spear, lance	A spear pointed up and to the right	矛	？	0		9	務 | 敄 | 柔 | 楙 | 矜 | 矞 | 茅 | 蟊 | 袤	1441	corpus
+0	2811	tools_transport		矢	pictographic	shǐ	arrow, dart; to vow, to swear	An arrow pointing upwards	矢	⿻丿天	0		17	医 | 彘 | 族 | 疑 | 疾 | 矣 | 知 | 矦 | 矧 | 矩 | 矫 | 矬 | 短 | 矮 | 矯 | 肄 | 雉	2811	corpus
+0	5701	tools_transport		耒	pictographic	lěi	plow	The handle of a plow	耒	⿻丰八	0		18	耔 | 耕 | 耖 | 耗 | 耘 | 耙 | 耜 | 耠 | 耢 | 耤 | 耥 | 耦 | 耧 | 耨 | 耩 | 耪 | 耱 | 诔	5701	corpus
+0	4268	tools_transport		胄	pictographic	zhòu	helmet; descendant	A man ⺼ wearing a helmet 由	⺼	⿱由⺼	0		0		4268	corpus
+0	2606	writing_ritual		丐	pictographic	gài	beggar; to beg; to give	A person leaning forward to ask for help	一	⿱下？	0		2	鈣 | 钙	2606	corpus
+0		writing_ritual		亞	pictographic	yà	Asia; second	A cross-shaped house or temple	二	⿻二？	0		6	啞 | 埡 | 堊 | 壺 | 婭 | 惡		none
+0	1756	writing_ritual		侯	pictographic	hóu	marquis, lord; target in archery	A person 亻 who might be a target 矦	亻	⿰亻矦	0		7	喉 | 堠 | 猴 | 瘊 | 篌 | 糇 | 缑	1756	corpus
+0	2246	writing_ritual		兆	pictographic	zhào	omen; mega-, million	Cracks in oracle bones used in fortune-telling	儿	⿻儿？	0		15	佻 | 姚 | 挑 | 晁 | 桃 | 洮 | 珧 | 眺 | 祧 | 窕 | 跳 | 逃 | 銚 | 铫 | 鼗	2246	corpus
+0	1525	writing_ritual	冊	册	pictographic	cè	book, volume, register, list	Bamboo strips 冂 tied together to form a book	冂	⿻⿰冂冂一	0		5	删 | 姗 | 栅 | 珊 | 跚	1525	corpus
+0	2008	writing_ritual		卵	pictographic	luǎn	egg, ovum, roe; ovary, testes; to spawn	Two ovaries containing eggs	卩	⿰？卩	0		1	孵	2008	corpus
+0	2885	writing_ritual		尹	pictographic	yǐn	to govern, to oversee; director	A scepter	尸	⿻一尸	0		3	伊 | 君 | 笋	2885	corpus
+0	2189	writing_ritual		巫	pictographic	wū	wizard, sorcerer, witch, shaman	A cross-shaped divining rod	工	⿻工从	0		6	筮 | 覡 | 觋 | 誣 | 诬 | 靈	2189	corpus
+0	2905	writing_ritual	歺	歹	pictographic	dǎi	corpse; death; evil, depraved, wicked	A corpse	歹	⿱一夕	0		31	列 | 夙 | 死 | 歼 | 殁 | 殂 | 殃 | 殄 | 殆 | 殇 | 殉 | 殊 | 残 | 殍 | 殒 | 殓 | 殖 | 殗 | 殘 | 殚 | 殛 | 殞 | 殡 | 殤 | 殪 | 殫 | 殭 | 殮 | 殯 | 殲 | 薤	2905	corpus
+0	2039	writing_ritual		畏	pictographic	wèi	fear, dread, awe, reverence	A monster with a scary head 田	田	⿳田一？	0		6	偎 | 喂 | 煨 | 猥 | 隈 | 餵	2039	corpus
+0	3526	writing_ritual	肀	聿	pictographic	yù	writing brush, pencil; thereupon	A hand 彐 holding a brush; compare 肀	聿	⿱肀？	0		11	建 | 律 | 晝 | 書 | 津 | 畫 | 盡 | 筆 | 肄 | 肆 | 肇	3526	corpus
+0	5883	writing_ritual	聿	肀	pictographic	yù	pen	A hand 彐 holding a pen; compare 聿	肀	⿻彐丨	0		4	唐 | 聿 | 肃 | 肅	5883	corpus
+0	1463	writing_ritual		辛	pictographic	xīn	bitter; toilsome, laborious; 8th heavenly stem	A hot iron used to brand prisoners and slaves	辛	⿱立十	0		21	厗 | 妾 | 宰 | 梓 | 瓣 | 莘 | 薛 | 辜 | 辞 | 辟 | 辣 | 辥 | 辦 | 辨 | 辩 | 辫 | 辭 | 辮 | 辯 | 鋅 | 锌	1463	corpus
+0	3403	writing_ritual		酋	pictographic	qiú	chief of tribe, chieftain	A feathered crown	酉	⿱丷酉	0		6	奠 | 尊 | 猶 | 猷 | 蝤 | 遒	3403	corpus
+0	7915	writing_ritual		齊	pictographic	qí	even, uniform, of equal length	Three stalks of grain growing evenly	齊	⿱？？	0		11	儕 | 劑 | 擠 | 濟 | 臍 | 薺 | 躋 | 霽 | 齋 | 齌 | 齎	7915	corpus
+0	6897	writing_ritual		龠	pictographic	yuè	flute; pipe, ancient measure	Panpipes	龠	⿱亼？	0		3	瀹 | 鑰 | 龥	6897	corpus

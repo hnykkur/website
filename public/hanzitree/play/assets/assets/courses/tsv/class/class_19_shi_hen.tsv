@@ -1,0 +1,13 @@
+# Class Tree 是 / 很 / 最 cloze. English is the prompt; □ hides 是, 很, or 最.
+# At least three sentences per missing word so the others are real distractors.
+hanzi	pinyin	english	blank	dictionary_entries
+他是老师。	tā shì lǎoshī	He is a teacher.	是	
+中文最难。	zhōngwén zuì nán	Chinese is the hardest.	最	
+今天很热。	jīntiān hěn rè	Today is hot.	很	
+这是厨房。	zhè shì chúfáng	This is a kitchen.	是	
+我最怕狗。	wǒ zuì pà gǒu	I'm most afraid of dogs.	最	
+她很好。	tā hěn hǎo	She is well.	很	
+我是学生。	wǒ shì xuéshēng	I am a student.	是	
+四川菜最辣！	sìchuān cài zuì là	Sichuan food is the spiciest!	最	
+这个最贵。	zhè ge zuì guì	This is the most expensive.	最	
+客厅很小。	kètīng hěn xiǎo	The living room is small.	很	

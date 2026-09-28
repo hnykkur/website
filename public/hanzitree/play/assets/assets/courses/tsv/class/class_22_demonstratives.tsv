@@ -1,0 +1,27 @@
+# Class Tree 这个 / 那个 / 这些 / 那些 cloze. English is the prompt; □ hides the demonstrative.
+# Counts: 这个 7, 那个 7, 这些 5, 那些 5. File order is shuffled.
+hanzi	pinyin	english	blank	dictionary_entries
+那个老师很好。	nàge lǎoshī hěn hǎo	That teacher is good.	那个	
+那些人是老师。	nàxiē rén shì lǎoshī	Those people are teachers.	那些	
+这个商店很大。	zhège shāngdiàn hěn dà	This shop is big.	这个	
+那个床很重。	nàge chuáng hěn zhòng	That bed is heavy.	那个	
+那些杯子很小。	nàxiē bēizi hěn xiǎo	Those cups are small.	那些	
+这个包很贵。	zhège bāo hěn guì	This bag is expensive.	这个	
+那个学校很大。	nàge xuéxiào hěn dà	That school is big.	那个	
+那些苹果是我的。	nàxiē píngguǒ shì wǒ de	Those apples are mine.	那些	
+这个房间很小。	zhège fángjiān hěn xiǎo	This room is small.	这个	
+这些人是学生。	zhèxiē rén shì xuéshēng	These people are students.	这些	
+这个人是老师。	zhège rén shì lǎoshī	This person is a teacher.	这个	
+那个苹果很贵。	nàge píngguǒ hěn guì	That apple is expensive.	那个	
+这些苹果很好。	zhèxiē píngguǒ hěn hǎo	These apples are good.	这些	
+那个包是我的。	nàge bāo shì wǒ de	That bag is mine.	那个	
+这些包很贵。	zhèxiē bāo hěn guì	These bags are expensive.	这些	
+这个杯子很大。	zhège bēizi hěn dà	This cup is big.	这个	
+那些书很贵。	nàxiē shū hěn guì	Those books are expensive.	那些	
+这些书是我的。	zhèxiē shū shì wǒ de	These books are mine.	这些	
+这个苹果很好。	zhège píngguǒ hěn hǎo	This apple is good.	这个	
+那些商店很大。	nàxiē shāngdiàn hěn dà	Those shops are big.	那些	
+这个杯子是我的。	zhège bēizi shì wǒ de	This cup is mine.	这个	
+那个房间很热。	nàge fángjiān hěn rè	That room is hot.	那个	
+那个杯子很小。	nàge bēizi hěn xiǎo	That cup is small.	那个	
+这些杯子很大。	zhèxiē bēizi hěn dà	These cups are big.	这些	

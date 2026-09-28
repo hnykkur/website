@@ -1,0 +1,32 @@
+# Class Tree 前面 / 后面 / 旁边 / 外面 / 里面 / 上面 / 下面 cloze. English is the prompt; □ hides the directional noun.
+# Pattern: Noun + directional noun (after the reference). Counts: 4 each. File order is shuffled.
+# Two-character forms only. Q8 is 里 / 外 / 上.
+hanzi	pinyin	english	blank	dictionary_entries
+猫在桌子下面。	māo zài zhuōzi xiàmiàn	The cat is under the table.	下面	
+医院在公司后面。	yīyuàn zài gōngsī hòumiàn	The hospital is behind the company.	后面	
+银行在学校前面。	yínháng zài xuéxiào qiánmiàn	The bank is in front of the school.	前面	
+茶在杯子里面。	chá zài bēizi lǐmiàn	The tea is inside the cup.	里面	
+她在商店外面。	tā zài shāngdiàn wàimiàn	She is outside the shop.	外面	
+公园在学校后面。	gōngyuán zài xuéxiào hòumiàn	The park is behind the school.	后面	
+银行在商店旁边。	yínháng zài shāngdiàn pángbiān	The bank is next to the shop.	旁边	
+手机在床上面。	shǒujī zài chuáng shàngmiàn	The phone is on the bed.	上面	
+他在医院外面。	tā zài yīyuàn wàimiàn	He is outside the hospital.	外面	
+书在包里面。	shū zài bāo lǐmiàn	The book is inside the bag.	里面	
+帽子在床上面。	màozi zài chuáng shàngmiàn	The hat is on the bed.	上面	
+鞋子在床下面。	xiézi zài chuáng xiàmiàn	The shoes are under the bed.	下面	
+学校后面有公园。	xuéxiào hòumiàn yǒu gōngyuán	There is a park behind the school.	后面	
+杯子在桌子上面。	bēizi zài zhuōzi shàngmiàn	The cup is on the table.	上面	
+包在桌子下面。	bāo zài zhuōzi xiàmiàn	The bag is under the table.	下面	
+医院在学校旁边。	yīyuàn zài xuéxiào pángbiān	The hospital is next to the school.	旁边	
+商店在医院前面。	shāngdiàn zài yīyuàn qiánmiàn	The shop is in front of the hospital.	前面	
+帽子在床下面。	màozi zài chuáng xiàmiàn	The hat is under the bed.	下面	
+他在学校里面。	tā zài xuéxiào lǐmiàn	He is inside the school.	里面	
+电影院在公司旁边。	diànyǐngyuàn zài gōngsī pángbiān	The cinema is next to the company.	旁边	
+学校前面有商店。	xuéxiào qiánmiàn yǒu shāngdiàn	There is a shop in front of the school.	前面	
+她在医院里面。	tā zài yīyuàn lǐmiàn	She is inside the hospital.	里面	
+公园外面有银行。	gōngyuán wàimiàn yǒu yínháng	There is a bank outside the park.	外面	
+咖啡馆在公园旁边。	kāfēiguǎn zài gōngyuán pángbiān	The café is next to the park.	旁边	
+公园在公司前面。	gōngyuán zài gōngsī qiánmiàn	The park is in front of the company.	前面	
+苹果在桌子上面。	píngguǒ zài zhuōzi shàngmiàn	The apple is on the table.	上面	
+商店在银行后面。	shāngdiàn zài yínháng hòumiàn	The shop is behind the bank.	后面	
+学校外面有商店。	xuéxiào wàimiàn yǒu shāngdiàn	There is a shop outside the school.	外面	

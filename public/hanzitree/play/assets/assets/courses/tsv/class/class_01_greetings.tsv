@@ -1,0 +1,12 @@
+# Class Tree starter set. Copied from existing courses when the hanzi matched.
+# Order follows a short conversation: hello → name → polite exchange → goodbye.
+hanzi	pinyin	english	example_word	etymology	uncle_hanzi	uncle_decomp	dictionary_entries
+你好	nǐhǎo	hello; hi	你好				
+大家好	dàjiā hǎo	hello everyone	大家好				
+我叫	wǒ jiào	my name is; I'm called	我叫				[{"character":"我","dictionary":{"character":"我","definition":"I, me, my; our, us","pinyin":["wǒ"],"decomposition":"⿰扌戈","etymology":{"type":"ideographic","hint":"A hand 扌 holding a weapon 戈"},"radical":"戈","matches":[[0],[1],[0],[0],[1],[1],[1]]}},{"character":"叫","dictionary":{"character":"叫","definition":"cry, shout; to call, to greet, to hail","pinyin":["jiào"],"decomposition":"⿰口丩","etymology":{"type":"pictophonetic","phonetic":"丩","semantic":"口","hint":"mouth"},"radical":"口","matches":[[0],[0],[0],[1],[1]]}}]
+请问	qǐngwèn	excuse me; may I ask	请问				
+谢谢	xièxie	thank you	谢谢				
+不客气	bù kè qì	You're welcome	不客气	A bird flying toward the sky 一	a plant cut at the root to be stooled | A098 还[還]不睘瞏 𨘣 | A097 环[環]不睘瞏 𤪹 | A095 坏[壞]不褱 | A094 怀[懷]不褱 | 丕 pī | 否 fǒu | 咅㕻 pǒu	Component 不 | (name- plant-no 不 bù)	[{"character":"不","dictionary":{"character":"不","definition":"no, not, un-; negative prefix","pinyin":["bù"],"decomposition":"⿱一？","etymology":{"type":"ideographic","hint":"A bird flying toward the sky 一"},"radical":"一","matches":[[0],null,null,null]}},{"character":"客","dictionary":{"character":"客","definition":"guest, traveller; customer","pinyin":["kè"],"decomposition":"⿱宀各","etymology":{"type":"ideographic","hint":"A person 各 welcomed under one's roof 宀; 各 also provides the pronunciation"},"radical":"宀","matches":[[0],[0],[0],[1],[1],[1],[1],[1],[1]]}},{"character":"气","dictionary":{"character":"气","definition":"air, gas; steam, vapor; anger","pinyin":["qì"],"decomposition":"⿱亻？","etymology":{"type":"ideographic","hint":"A person 亻 breathing air"},"radical":"气","matches":[[0],[0],null,null]}}]
+对不起	duìbuqǐ	sorry	对不起				
+没关系	méi guānxi	it's all right; no problem	没关系				
+再见	zàijiàn	goodbye	再见				

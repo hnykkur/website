@@ -1,0 +1,28 @@
+# Class Tree 在 / 跟 / 给 / 从 / 用 cloze. English is the prompt; □ hides the preposition.
+# Pattern: Subject + prep + noun + verb. Counts: 在 6, 跟 5, 给 5, 从 4, 用 4. File order is shuffled.
+# Not the same 跟 sentences as Connectors. 在 is location (not progressive). 给 is for someone (not give).
+hanzi	pinyin	english	blank	dictionary_entries
+她给朋友写信。	tā gěi péngyou xiě xìn	She writes a letter for a friend.	给	
+我用杯子喝茶。	wǒ yòng bēizi hē chá	I drink tea using a cup.	用	
+我在商店买水果。	wǒ zài shāngdiàn mǎi shuǐguǒ	I buy fruit at the shop.	在	
+他给我买咖啡。	tā gěi wǒ mǎi kāfēi	He buys coffee for me.	给	
+我们从这里走。	wǒmen cóng zhèlǐ zǒu	We walk from here.	从	
+她跟老师学中文。	tā gēn lǎoshī xué zhōngwén	She studies Chinese with the teacher.	跟	
+他从北京来。	tā cóng běijīng lái	He comes from Beijing.	从	
+我跟同学看电影。	wǒ gēn tóngxué kàn diànyǐng	I watch a movie with a classmate.	跟	
+我给老师买茶。	wǒ gěi lǎoshī mǎi chá	I buy tea for the teacher.	给	
+她用电脑工作。	tā yòng diànnǎo gōngzuò	She works using a computer.	用	
+我给你做饭。	wǒ gěi nǐ zuòfàn	I'll cook for you.	给	
+他跟妈妈去商店。	tā gēn māma qù shāngdiàn	He goes to the shop with Mom.	跟	
+他给妈妈做饭。	tā gěi māma zuòfàn	He cooks for Mom.	给	
+她从商店回来。	tā cóng shāngdiàn huílái	She comes back from the shop.	从	
+我在学校看书。	wǒ zài xuéxiào kàn shū	I read at school.	在	
+我用筷子吃饭。	wǒ yòng kuàizi chī fàn	I eat using chopsticks.	用	
+她跟爸爸喝茶。	tā gēn bàba hē chá	She drinks tea with Dad.	跟	
+她在厨房做饭。	tā zài chúfáng zuòfàn	She cooks in the kitchen.	在	
+她在家喝茶。	tā zài jiā hē chá	She drinks tea at home.	在	
+我跟朋友吃饭。	wǒ gēn péngyou chī fàn	I eat with friends.	跟	
+我从学校回家。	wǒ cóng xuéxiào huí jiā	I go home from school.	从	
+他在公园跑步。	tā zài gōngyuán pǎobù	He runs in the park.	在	
+他用手机打电话。	tā yòng shǒujī dǎ diànhuà	He makes a call using a phone.	用	
+他在医院工作。	tā zài yīyuàn gōngzuò	He works at the hospital.	在	

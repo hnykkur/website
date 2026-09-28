@@ -1,0 +1,6 @@
+# Class Tree starter set. Copied from existing courses when the hanzi matched.
+hanzi	pinyin	english	example_word	etymology	uncle_hanzi	uncle_decomp	dictionary_entries
+这	zhè	this	这是			Compound 這 | from road-and-foot 辶辶辵 chuò and | mouth-speak 言 yán | substitute culture-cloths 文 wén | new-char 这.	[{"character":"这","dictionary":{"character":"这","definition":"this, these; such; here","pinyin":["zhè"],"decomposition":"⿺辶文","radical":"辶","matches":[[1],[1],[1],[1],[0],[0],[0]]}}]
+那	nà	that	那些			Compound 那 older 𨚗𨙻𨚉 | from right-city 阝邑 yì and | phonetic mustache 冉冄 rǎn.	[{"character":"那","dictionary":{"character":"那","definition":"that, that one, those","pinyin":["nà"],"decomposition":"⿰⿹？？阝","radical":"阝","matches":[null,null,null,null,[1],[1]]}}]
+还是	háishì	or	还是				
+都	dōu	both / all	成都	city		Compound 都 | from right-city 阝邑 yì and | phonetic ink-mouth 者 zhě.	[{"character":"都","dictionary":{"character":"都","definition":"all, each, entirely, whole; metropolis; capital","pinyin":["dōu"],"decomposition":"⿰者阝","etymology":{"type":"pictophonetic","phonetic":"者","semantic":"阝","hint":"city"},"radical":"阝","matches":[[0],[0],[0],[0],[0],[0],[0],[0],[1],[1]]}}]
