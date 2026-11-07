@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000.0 1000.0">
+  <style>
+    .ph-editable { fill: #72F2D0; fill-opacity: 1; opacity: 1; font-family: "Noto Sans SC", "Microsoft YaHei", sans-serif; }
+    g, path, text, rect, circle, ellipse, line, polyline, polygon {
+      opacity: 1; fill-opacity: 1; stroke-opacity: 1;
+    }
+  </style>
+  <g id="puzzlehanzi-editable" opacity="1">
+
+    <g
+       aria-label="無"
+       transform="translate(500.00 500.00) translate(0 252.00)"
+       id="text16"
+       class="ph-editable"
+       style="font-size:720px;font-family:'Noto Sans SC', 'Microsoft YaHei', sans-serif;text-anchor:middle;fill:#72f2d0">
+      <path
+         d="m -343.125,-150.11719 h 127.26563 v -132.1875 H -320.625 v -45 h 104.76563 v -132.1875 h -13.35938 c -28.125,37.5 -58.125,71.71875 -90,102.65625 -9.375,-13.59375 -20.39062,-28.125 -33.04687,-43.59375 64.21875,-59.0625 113.67187,-125.15625 148.35937,-198.28125 l 49.92188,20.39063 c -13.59375,25.3125 -28.125,49.45312 -43.59375,72.42187 H 323.4375 v 46.40625 H 222.89062 v 132.1875 h 89.29688 v 45 h -89.29688 v 132.1875 H 343.125 v 45 h -686.25 z m 173.67188,-177.1875 h 84.374995 v -132.1875 h -84.374995 z m 130.781245,177.1875 h 84.375 v -132.1875 h -84.375 z m 0,-177.1875 h 84.375 v -132.1875 h -84.375 z m 130.78125,177.1875 h 84.374995 v -132.1875 H 92.109375 Z m 0,-177.1875 h 84.374995 v -132.1875 H 92.109375 Z m -261.562495,177.1875 h 84.374995 v -132.1875 h -84.374995 z"
+         id="path302"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    </g>
+  
+  </g>
+</svg>

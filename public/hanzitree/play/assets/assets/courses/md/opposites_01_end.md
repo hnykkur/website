@@ -9,4 +9,4 @@ You can spot and build these **core contrast pairs** — up/down, in/out, big/sm
 ## Next steps
 
 - Push for **mastery** on weaker glyphs.
-- Open **Opposites II** when the skill tree unlocks it.
+- Open **Opposites II** when it unlocks.

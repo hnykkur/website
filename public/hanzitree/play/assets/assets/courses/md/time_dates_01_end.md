@@ -9,4 +9,4 @@ You can read and build the **clock, calendar, and daily time** words in this les
 ## Next steps
 
 - Push for **mastery** on weaker glyphs (score 5 on each character).
-- Open **Time II** on the skill tree when it unlocks.
+- Open **Time II** when it unlocks.

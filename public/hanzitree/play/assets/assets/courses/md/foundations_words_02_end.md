@@ -9,4 +9,4 @@ You can assemble these common words from **nature- and radical-based** component
 ## Next steps
 
 - Push toward **mastery** on weaker targets.
-- Open **Foundations III** when the skill tree unlocks it.
+- Open **Foundations III** when it unlocks.

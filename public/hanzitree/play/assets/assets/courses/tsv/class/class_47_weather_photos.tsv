@@ -1,0 +1,14 @@
+# Class Tree Weather photos: one picture per condition. Composition stays class_23.
+hanzi	pinyin	english	example_word	etymology	uncle_hanzi	uncle_decomp	dictionary_entries	photo_id
+晴天	qíngtiān	sunny day	晴天					weather_sunny
+阴天	yīntiān	overcast day	阴天					weather_overcast
+多云	duōyún	cloudy	多云					weather_cloudy
+下雨	xiàyǔ	to rain	下雨					weather_rain
+下雪	xiàxuě	to snow	下雪					weather_snow
+刮风	guāfēng	to be windy	刮风					weather_wind
+雾	wù	fog	雾					weather_fog
+暴风雨	bàofēngyǔ	storm	暴风雨					weather_storm
+太阳	tàiyáng	sun	太阳					weather_sun
+台风	táifēng	typhoon	台风					weather_typhoon
+热	rè	hot	热					weather_hot
+冷	lěng	cold	冷					weather_cold

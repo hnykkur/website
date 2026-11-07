@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- puzzlehanzi-fit=puzzle -->
+<svg xmlns="http://www.w3.org/2000/svg" data-puzzlehanzi-fit="puzzle" viewBox="0 0 1000.0 1000.0">
+  <metadata>puzzlehanzi-fit=puzzle</metadata>
+  <style>
+    .ph-editable { fill: #72F2D0; fill-opacity: 1; opacity: 1; font-family: "Noto Sans SC", "Microsoft YaHei", sans-serif; }
+    g, path, text, rect, circle, ellipse, line, polyline, polygon {
+      opacity: 1; fill-opacity: 1; stroke-opacity: 1;
+    }
+  </style>
+  <g id="puzzlehanzi-editable" opacity="1">
+    <path d="M 275.1166 242.5442 L 727.6597 242.5442 L 727.6597 448.6873 L 275.1166 448.6873 Z M 325.0907 362.6208 L 325.0907 411.9008 L 675.6034 411.9008 L 675.6034 362.6208 Z M 325.0907 279.3307 L 325.0907 327.9166 L 675.6034 327.9166 L 675.6034 279.3307 Z"/>
+  </g>
+</svg>

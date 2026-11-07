@@ -9,4 +9,4 @@ You can spot **氵, 扌, 讠-style**, and **movement** components faster when re
 ## Next steps
 
 - Continue for **mastery**.
-- Pair with **Foundations III** and **Body pictographs** on the skill tree.
+- Pair with **Foundations III** and **Body pictographs**.

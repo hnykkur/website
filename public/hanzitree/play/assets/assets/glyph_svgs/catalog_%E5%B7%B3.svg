@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- puzzlehanzi-fit=puzzle -->
+
+<svg
+   data-puzzlehanzi-fit="puzzle"
+   viewBox="0 0 1000.0 1000.0"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="åŒ…_slot1_å·³.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style>
+    .ph-editable { fill: #72F2D0; fill-opacity: 1; opacity: 1; font-family: "Noto Sans SC", "Microsoft YaHei", sans-serif; }
+    g, path, text, rect, circle, ellipse, line, polyline, polygon {
+      opacity: 1; fill-opacity: 1; stroke-opacity: 1;
+    }
+  </style>
+
+  <defs
+     id="defs23" />
+  <sodipodi:namedview
+     id="namedview21"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.833"
+     inkscape:cx="356.54262"
+     inkscape:cy="500"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="puzzlehanzi-editable" />
+  <metadata
+     id="metadata2">puzzlehanzi-fit=puzzle</metadata>
+  <style
+     id="style4">
+    .ph-whole { fill: #f44336; opacity: 0.32; font-family: &quot;Noto Sans SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif; }
+  </style>
+  
+  
+  <g
+     id="puzzlehanzi-editable"
+     inkscape:groupmode="layer"
+     inkscape:label="editable" />
+  <path
+     d="M 273.09063,375.19986 H 566.24062 V 580.9686 H 311.14376 v 132.48124 c 0,37.11355 19.49635,55.67032 58.48906,55.67032 h 328.38436 c 44.63021,0 70.70364,-14.32865 78.22031,-42.98594 7.04687,-25.83854 12.68437,-60.36823 16.9125,-103.58906 20.20104,7.98646 38.99271,14.79844 56.375,20.43594 -5.6375,41.81146 -11.74479,75.87135 -18.32188,102.17968 -11.74479,52.14687 -51.67708,78.22031 -119.79687,78.22031 H 357.65313 c -68.58958,0 -102.88437,-33.35521 -102.88437,-100.06562 V 402.68267 M 511.275,423.1186 H 311.14376 V 533.04985 H 511.275 Z"
+     id="path361" />
+</svg>

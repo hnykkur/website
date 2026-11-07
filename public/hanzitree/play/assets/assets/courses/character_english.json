@@ -8,30 +8,72 @@
   },
   "characters": {
     "⺀": {
-      "english": "ice",
+      "english": "two dots",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "⺈": {
-      "english": "person/top",
+      "english": "person",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "⺊": {
+      "english": "divination",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "⺌": {
+      "english": "small",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "⺍": {
+      "english": "small strokes",
+      "preferred": true,
       "sources": [
         "editor"
       ]
     },
     "⺗": {
       "english": "heart; mind",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
+      ]
+    },
+    "⺝": {
+      "english": "meat",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "⺧": {
+      "english": "cow",
+      "preferred": true,
+      "sources": [
+        "editor"
       ]
     },
     "⺮": {
       "english": "bamboo",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "⺳": {
@@ -41,11 +83,118 @@
         "dictionary.Txt"
       ]
     },
+    "⺶": {
+      "english": "sheep",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "⺻": {
+      "english": "hand",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
     "⺼": {
       "english": "meat, flesh; organic compound",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
+      ]
+    },
+    "⺿": {
+      "english": "grass",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "⻉": {
+      "english": "shell money",
+      "preferred": true,
+      "pinyin": "bèi",
+      "sources": [
+        "editor"
+      ]
+    },
+    "⻊": {
+      "english": "foot",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "⻢": {
+      "english": "horse",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "⻬": {
+      "english": "orderly",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "⼗": {
+      "english": "ten",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "⼙": {
+      "english": "kneeling person",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "⼠": {
+      "english": "scholar",
+      "preferred": true,
+      "pinyin": "shì",
+      "sources": [
+        "editor"
+      ]
+    },
+    "⼫": {
+      "english": "body",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "⼻": {
+      "english": "",
+      "difficulty": 12.2126
+    },
+    "⽉": {
+      "english": "meat",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "⾼": {
+      "english": "tall",
+      "preferred": true,
+      "pinyin": "gāo",
+      "sources": [
+        "editor"
+      ]
+    },
+    "㐅": {
+      "english": "crossing strokes",
+      "preferred": true,
+      "sources": [
+        "editor"
       ]
     },
     "㐆": {
@@ -56,17 +205,21 @@
       ]
     },
     "㐌": {
-      "english": "a tribe of savages in South China",
+      "english": "ancient tribe",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "㐬": {
-      "english": "pennant; wild, barren, uncultivated",
+      "english": "flowing; wild, barren, uncultivated",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "㐭": {
@@ -77,10 +230,12 @@
       ]
     },
     "㐱": {
-      "english": "bushy, black hair; variant of 鬒",
+      "english": "thick hair, black hair; variant of 鬒",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "㒸": {
@@ -106,9 +261,11 @@
     },
     "㔾": {
       "english": "kneeling person",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "㕡": {
@@ -116,6 +273,14 @@
       "sources": [
         "dictionary.txt",
         "dictionary.Txt"
+      ]
+    },
+    "㚅": {
+      "english": "rising sun",
+      "preferred": true,
+      "pinyin": "no pinyin",
+      "sources": [
+        "editor"
       ]
     },
     "㝵": {
@@ -127,9 +292,11 @@
     },
     "㠯": {
       "english": "according to, for, with; to use",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "㡭": {
@@ -155,9 +322,11 @@
     },
     "㣎": {
       "english": "fine, delicate",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "㥯": {
@@ -267,37 +436,54 @@
     },
     "一": {
       "english": "one; a, an; alone",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "丁": {
-      "english": "male adult; robust, vigorous; 4th heavenly stem",
+      "english": "nail; robust, vigorous; 4th heavenly stem",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "丂": {
-      "english": "obstruction of breath (qi); variant of 考",
+      "english": "obstructed breath; variant of 考",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "七": {
       "english": "seven",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "丄": {
       "english": "above",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
+      ]
+    },
+    "丆": {
+      "english": "cliff",
+      "preferred": true,
+      "sources": [
+        "editor"
       ]
     },
     "万": {
@@ -316,23 +502,29 @@
     },
     "三": {
       "english": "three",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "上": {
-      "english": "up, above, on top, superior; to go up; to attend; previous",
+      "english": "above, above, on top, superior; to go up; to attend; previous",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "下": {
       "english": "below, underneath; inferior; to bring down; next",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "丌": {
@@ -344,16 +536,20 @@
     },
     "不": {
       "english": "not, no, un-; negative prefix",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "与": {
       "english": "and; with; to; for; to give, to grant",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "丏": {
@@ -372,23 +568,29 @@
     },
     "丑": {
       "english": "ugly; shameful; comedian, clown",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "专": {
-      "english": "concentrated, specialized; to monopolize",
+      "english": "dedicated, specialized; to monopolize",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "且": {
       "english": "moreover, also (post-subject); about to, will soon (pre-verb)",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "丕": {
@@ -400,30 +602,38 @@
     },
     "世": {
       "english": "generation, era, age; world",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "丘": {
-      "english": "mound, hill; surname",
+      "english": "hill, hill; surname",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "丙": {
       "english": "third; 3rd heavenly stem",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "业": {
       "english": "business, profession; to study, to work",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "丛": {
@@ -435,9 +645,11 @@
     },
     "东": {
       "english": "east, eastern, eastward",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "丝": {
@@ -470,9 +682,11 @@
     },
     "两": {
       "english": "two, both, pair, couple; ounce",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "严": {
@@ -483,10 +697,12 @@
       ]
     },
     "並": {
-      "english": "to combine, to annex; also, what's more",
+      "english": "side by side, to annex; also, what's more",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "丧": {
@@ -497,17 +713,21 @@
       ]
     },
     "丨": {
-      "english": "number one; line",
+      "english": "vertical stroke; line",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "丩": {
-      "english": "to connect, to join; vine",
+      "english": "entwine, to join; vine",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "个": {
@@ -525,24 +745,30 @@
       ]
     },
     "丬": {
-      "english": "half of tree trunk",
+      "english": "split wood",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "中": {
-      "english": "central; center, middle; amidst; to hit (target), to attain; China; Chinese",
+      "english": "center; center, middle; amidst; to hit (target), to attain; China; Chinese",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "丰": {
       "english": "abundant, lush, bountiful, plenty",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "丱": {
@@ -575,16 +801,20 @@
     },
     "丶": {
       "english": "dot",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "丷": {
       "english": "divide, separate;",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "丸": {
@@ -610,9 +840,11 @@
     },
     "主": {
       "english": "master, to own; to host; host; lord",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "丽": {
@@ -630,24 +862,30 @@
       ]
     },
     "丿": {
-      "english": "left-falling stroke",
+      "english": "left stroke",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "乂": {
-      "english": "to govern; to control; to nurture",
+      "english": "govern; to control; to nurture",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "乃": {
       "english": "then; really, indeed, after all",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "久": {
@@ -658,10 +896,12 @@
       ]
     },
     "乇": {
-      "english": "to depend on, to entrust with",
+      "english": "entrust, to entrust with",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "么": {
@@ -672,10 +912,12 @@
       ]
     },
     "义": {
-      "english": "right conduct, propriety; justice",
+      "english": "righteousness, propriety; justice",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "之": {
@@ -693,17 +935,21 @@
       ]
     },
     "乍": {
-      "english": "first time, for the first time, suddenly",
+      "english": "suddenly, for the first time, suddenly",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "乎": {
-      "english": "interrogative or exclamatory final particle",
+      "english": "exclamation",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "乏": {
@@ -721,10 +967,12 @@
       ]
     },
     "乑": {
-      "english": "to stand side by side",
+      "english": "crowd",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "乒": {
@@ -743,9 +991,11 @@
     },
     "乔": {
       "english": "tall, lofty; proud, stately",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "乖": {
@@ -764,23 +1014,29 @@
     },
     "乙": {
       "english": "second; 2nd heavenly stem",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "乚": {
-      "english": "hidden; concealed",
+      "english": "hook; concealed",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "乛": {
       "english": "bent stroke",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "乜": {
@@ -792,30 +1048,38 @@
     },
     "九": {
       "english": "nine",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "乞": {
-      "english": "to beg; to request",
+      "english": "beg; to request",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "也": {
       "english": "also, too",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "习": {
       "english": "practice, to study; habit",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "乡": {
@@ -841,9 +1105,11 @@
     },
     "买": {
       "english": "buy, to purchase; to bribe, to persuade",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "乱": {
@@ -897,30 +1163,38 @@
     },
     "亅": {
       "english": "hook",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "了": {
-      "english": "now; clear; to finish; particle of completed action",
+      "english": "complete; clear; to finish; particle of completed action",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "予": {
-      "english": "to give; to award",
+      "english": "give; to award",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "争": {
-      "english": "to dispute, to fight, to contend, to strive",
+      "english": "struggle, to fight, to contend, to strive",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "事": {
@@ -932,16 +1206,20 @@
     },
     "二": {
       "english": "two; twice",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "亍": {
-      "english": "to take small steps; Korean place name",
+      "english": "small steps; Korean place name",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "于": {
@@ -952,17 +1230,21 @@
       ]
     },
     "亏": {
-      "english": "to lose, to fail; loss, damages; deficient",
+      "english": "deficiency, to fail; loss, damages; deficient",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "云": {
       "english": "cloud; to say, to speak",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "互": {
@@ -988,9 +1270,11 @@
     },
     "井": {
       "english": "well, mine shaft, pit",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "亘": {
@@ -1037,51 +1321,65 @@
     },
     "亠": {
       "english": "lid, cover; head",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "亡": {
-      "english": "death, destruction; to lose; to perish",
+      "english": "perish, destruction; to lose; to perish",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "亢": {
       "english": "high, proud; violent, excessive; skilled; surname",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "交": {
-      "english": "to connect; to deliver, to exchange; to intersect; to mix",
+      "english": "intersect; to deliver, to exchange; to intersect; to mix",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "亥": {
-      "english": "12th terrestrial branch; used in transliterations",
+      "english": "twelfth branch; used in transliterations",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "亦": {
       "english": "also, too; likewise",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "产": {
-      "english": "to give birth, to bring forth, to produce",
+      "english": "produce, to bring forth, to produce",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "亨": {
@@ -1099,24 +1397,30 @@
       ]
     },
     "享": {
-      "english": "to share; to enjoy; to benefit from",
+      "english": "enjoy; to enjoy; to benefit from",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "京": {
       "english": "capital city",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "亭": {
       "english": "pavilion; erect",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "亮": {
@@ -1127,10 +1431,12 @@
       ]
     },
     "亲": {
-      "english": "relatives, parents; intimate; the hazelnut tree",
+      "english": "kin, parents; intimate; the hazelnut tree",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "亳": {
@@ -1162,24 +1468,30 @@
       ]
     },
     "人": {
-      "english": "man, person; people",
+      "english": "person, person; people",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "亻": {
-      "english": "man, person; people",
+      "english": "person, person; people",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "亼": {
-      "english": "to assemble, to gather together",
+      "english": "gather, to gather together",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "亾": {
@@ -1261,23 +1573,29 @@
     },
     "今": {
       "english": "now, modern, current; today",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "介": {
-      "english": "agent, go-between, intermediary; to introduce; shell, armor",
+      "english": "between, go-between, intermediary; to introduce; shell, armor",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "仌": {
-      "english": "frozen; ice-cold",
+      "english": "ice; ice-cold",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "仍": {
@@ -1288,24 +1606,30 @@
       ]
     },
     "从": {
-      "english": "from, by, since, whence, through",
+      "english": "follow, by, since, whence, through",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "仑": {
-      "english": "logical reasons, logical order",
+      "english": "order, logical order",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "仓": {
       "english": "granary, barn; cabin, berth",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "仔": {
@@ -1338,9 +1662,11 @@
     },
     "付": {
       "english": "give, deliver, pay, hand over; entrust",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "仙": {
@@ -1379,17 +1705,21 @@
       ]
     },
     "代": {
-      "english": "era, generation; to substitute for, to replace",
+      "english": "replace, generation; to substitute for, to replace",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "令": {
       "english": "command, decree, order; magistrate; to allow, to cause",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "以": {
@@ -1821,9 +2151,11 @@
     },
     "何": {
       "english": "what, why, where, which, how",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "佗": {
@@ -1842,9 +2174,11 @@
     },
     "余": {
       "english": "surplus, remainder; surname",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "佚": {
@@ -1891,9 +2225,11 @@
     },
     "你": {
       "english": "you, second person pronoun",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "佣": {
@@ -1912,9 +2248,11 @@
     },
     "佥": {
       "english": "all, together, unanimous",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "佧": {
@@ -1947,9 +2285,11 @@
     },
     "佰": {
       "english": "hundred",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "佳": {
@@ -2056,6 +2396,10 @@
         "dictionary.txt",
         "dictionary.Txt"
       ]
+    },
+    "侌": {
+      "english": "",
+      "difficulty": 12.2126
     },
     "侍": {
       "english": "to serve, to attend upon; servant, attendant; samurai",
@@ -2324,17 +2668,21 @@
       ]
     },
     "保": {
-      "english": "to safeguard, to protect, to defend, to care for",
+      "english": "protect, to protect, to defend, to care for",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "俞": {
       "english": "to consent, to approve; surname",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "俟": {
@@ -2574,6 +2922,10 @@
         "dictionary.txt",
         "dictionary.Txt"
       ]
+    },
+    "倠": {
+      "english": "",
+      "difficulty": 10.8907
     },
     "倡": {
       "english": "guide, leader; lead, introduce",
@@ -3283,17 +3635,21 @@
       ]
     },
     "儿": {
-      "english": "-r suffix, son, child",
+      "english": "child, son, child",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "兀": {
-      "english": "weak; lame",
+      "english": "towering; lame",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "允": {
@@ -3304,17 +3660,21 @@
       ]
     },
     "元": {
-      "english": "first; dollar; origin; head",
+      "english": "origin; dollar; origin; head",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "兄": {
       "english": "elder brother",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "充": {
@@ -3326,9 +3686,11 @@
     },
     "兆": {
       "english": "omen; mega-, million",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "兇": {
@@ -3340,9 +3702,11 @@
     },
     "先": {
       "english": "first, former, previous",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "光": {
@@ -3367,17 +3731,21 @@
       ]
     },
     "免": {
-      "english": "to spare, to excuse from; to evade",
+      "english": "exempt, to excuse from; to evade",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "兑": {
-      "english": "cash, check; to exchange",
+      "english": "exchange, check; to exchange",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "兒": {
@@ -3386,6 +3754,10 @@
         "dictionary.txt",
         "dictionary.Txt"
       ]
+    },
+    "兓": {
+      "english": "",
+      "difficulty": 12.2126
     },
     "兔": {
       "english": "rabbit, hare",
@@ -3431,9 +3803,11 @@
     },
     "兟": {
       "english": "to advance",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "兢": {
@@ -3444,10 +3818,12 @@
       ]
     },
     "入": {
-      "english": "to enter, to come in; to join",
+      "english": "enter, to come in; to join",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "內": {
@@ -3472,24 +3848,30 @@
       ]
     },
     "八": {
-      "english": "eight; all around, all sides",
+      "english": "divide; all around, all sides",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "公": {
       "english": "public; fair, equitable; duke",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "六": {
       "english": "six",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "兮": {
@@ -3507,45 +3889,57 @@
       ]
     },
     "共": {
-      "english": "all, total; together; to share",
+      "english": "together, total; together; to share",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "关": {
-      "english": "concern, frontier pass; to close, to shut; relation",
+      "english": "close, frontier pass; to close, to shut; relation",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "兴": {
-      "english": "to thrive, to prosper, to flourish",
+      "english": "rise, to prosper, to flourish",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "兵": {
       "english": "soldier; troops, an army; warlike",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "其": {
-      "english": "his, her, its, their; that",
+      "english": "its, her, its, their; that",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "具": {
       "english": "tool, implement; to draw up, to write",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "典": {
@@ -3570,10 +3964,12 @@
       ]
     },
     "兼": {
-      "english": "both, and; at the same time; to unite, to combine",
+      "english": "combine, and; at the same time; to unite, to combine",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "兽": {
@@ -3598,17 +3994,36 @@
       ]
     },
     "冂": {
-      "english": "outer boundary; distant outskirts",
+      "english": "boundary; distant outskirts",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
+      ]
+    },
+    "冃": {
+      "english": "hat",
+      "preferred": true,
+      "pinyin": "mào",
+      "sources": [
+        "editor"
+      ]
+    },
+    "冄": {
+      "english": "hanging hair",
+      "preferred": true,
+      "sources": [
+        "editor"
       ]
     },
     "内": {
       "english": "inside",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "円": {
@@ -3619,17 +4034,21 @@
       ]
     },
     "冈": {
-      "english": "ridge or crest of hill",
+      "english": "ridge",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "冉": {
-      "english": "tender; weak; to proceed gradually",
+      "english": "gradually; weak; to proceed gradually",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "冊": {
@@ -3640,10 +4059,12 @@
       ]
     },
     "冋": {
-      "english": "desert; border",
+      "english": "distant; border",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "册": {
@@ -3669,9 +4090,11 @@
     },
     "冏": {
       "english": "bright, brilliant; clear; hot",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "冑": {
@@ -3682,10 +4105,12 @@
       ]
     },
     "冒": {
-      "english": "to risk, to brave, to dare",
+      "english": "cover, to brave, to dare",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "冓": {
@@ -3704,9 +4129,11 @@
     },
     "冖": {
       "english": "cover",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "冗": {
@@ -3717,10 +4144,12 @@
       ]
     },
     "冘": {
-      "english": "to move on; doubtful",
+      "english": "hesitation; doubtful",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "写": {
@@ -3732,9 +4161,11 @@
     },
     "军": {
       "english": "army, military; soldiers, troops",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "农": {
@@ -3756,6 +4187,13 @@
       "sources": [
         "dictionary.txt",
         "dictionary.Txt"
+      ]
+    },
+    "冡": {
+      "english": "cover",
+      "preferred": true,
+      "sources": [
+        "editor"
       ]
     },
     "冢": {
@@ -3795,16 +4233,20 @@
     },
     "冫": {
       "english": "ice",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "冬": {
       "english": "winter, 11th lunar month",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "冯": {
@@ -3983,17 +4425,21 @@
       ]
     },
     "几": {
-      "english": "how many; a few, some",
+      "english": "small table; a few, some",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "凡": {
-      "english": "any, every, all; common, ordinary",
+      "english": "ordinary, every, all; common, ordinary",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "凤": {
@@ -4053,17 +4499,21 @@
       ]
     },
     "凵": {
-      "english": "container; receptacle",
+      "english": "open container; receptacle",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "凶": {
-      "english": "culprit; murder; bad, sad",
+      "english": "ominous; murder; bad, sad",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "凸": {
@@ -4088,10 +4538,12 @@
       ]
     },
     "击": {
-      "english": "to strike, to hit, to beat; to attack, to fight",
+      "english": "strike, to hit, to beat; to attack, to fight",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "凼": {
@@ -4117,9 +4569,11 @@
     },
     "刀": {
       "english": "knife; old coin; measure",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "刁": {
@@ -4131,9 +4585,11 @@
     },
     "刂": {
       "english": "knife",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "刃": {
@@ -4144,17 +4600,21 @@
       ]
     },
     "刅": {
-      "english": "to create, to make, to invent",
+      "english": "create, to make, to invent",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "分": {
       "english": "to divide, to allocate; fraction; small unit of time or other quantity",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "切": {
@@ -4179,10 +4639,12 @@
       ]
     },
     "刍": {
-      "english": "to mow, to cut grass; hay, fodder",
+      "english": "cut grass, to cut grass; hay, fodder",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "刎": {
@@ -4207,10 +4669,12 @@
       ]
     },
     "刖": {
-      "english": "cutting off the feet as a form of punishment",
+      "english": "foot cutting",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "列": {
@@ -4229,9 +4693,11 @@
     },
     "则": {
       "english": "rule, law, regulation; grades",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "刚": {
@@ -4319,10 +4785,12 @@
       ]
     },
     "到": {
-      "english": "to go to, to arrive",
+      "english": "arrive, to arrive",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "刳": {
@@ -4341,9 +4809,11 @@
     },
     "刷": {
       "english": "brush; to clean, to scrub",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "券": {
@@ -4446,9 +4916,11 @@
     },
     "前": {
       "english": "in front, forward; former, preceding",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "剎": {
@@ -4691,9 +5163,11 @@
     },
     "力": {
       "english": "strength, power; capability, influence",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "劝": {
@@ -4705,9 +5179,11 @@
     },
     "办": {
       "english": "to handle, to set up; to manage, to run; to deal with",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "功": {
@@ -4719,16 +5195,20 @@
     },
     "加": {
       "english": "add, to increase, to augment",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "务": {
       "english": "affairs, business; should; must",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "劢": {
@@ -5006,16 +5486,20 @@
     },
     "勹": {
       "english": "wrap; enclose",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "勺": {
-      "english": "spoon, ladle; unit of volume",
+      "english": "ladle, ladle; unit of volume",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "勻": {
@@ -5033,10 +5517,12 @@
       ]
     },
     "勿": {
-      "english": "must not, do not; without, never",
+      "english": "do not, do not; without, never",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "匀": {
@@ -5048,9 +5534,11 @@
     },
     "包": {
       "english": "wrap, pack, bundle; package",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "匆": {
@@ -5076,16 +5564,20 @@
     },
     "匋": {
       "english": "pottery",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "匍": {
-      "english": "to crawl; to lie prostrate",
+      "english": "crawl; to lie prostrate",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "匏": {
@@ -5104,23 +5596,29 @@
     },
     "匕": {
       "english": "spoon, ladle; knife, dirk",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "化": {
-      "english": "to change, to convert, to reform; -ize",
+      "english": "transform, to convert, to reform; -ize",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "北": {
       "english": "north; northern; northward",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "匙": {
@@ -5136,6 +5634,10 @@
         "dictionary.txt",
         "dictionary.Txt"
       ]
+    },
+    "匛": {
+      "english": "",
+      "difficulty": 12.2126
     },
     "匝": {
       "english": "full circle; to encircle",
@@ -5215,10 +5717,12 @@
       ]
     },
     "匸": {
-      "english": "box",
+      "english": "hiding place",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "匹": {
@@ -5230,9 +5734,11 @@
     },
     "区": {
       "english": "area, district, region, ward; surname",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "医": {
@@ -5272,9 +5778,11 @@
     },
     "十": {
       "english": "ten, tenth; complete; perfect",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "卂": {
@@ -5286,9 +5794,11 @@
     },
     "千": {
       "english": "thousand; many, numerous; very",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "卄": {
@@ -5300,9 +5810,11 @@
     },
     "卅": {
       "english": "thirty, thirtieth",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "升": {
@@ -5328,9 +5840,11 @@
     },
     "半": {
       "english": "half; semi-, incomplete",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "卌": {
@@ -5356,9 +5870,11 @@
     },
     "卑": {
       "english": "humble, low, inferior; to despise",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "卒": {
@@ -5369,10 +5885,12 @@
       ]
     },
     "卓": {
-      "english": "profound, lofty, brilliant",
+      "english": "outstanding, lofty, brilliant",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "協": {
@@ -5384,16 +5902,20 @@
     },
     "单": {
       "english": "single, individual, only; lone",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "卖": {
       "english": "to sell; to betray; to show off",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "南": {
@@ -5412,9 +5934,11 @@
     },
     "卜": {
       "english": "divination, fortune-telling; prophecy",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "卞": {
@@ -5432,10 +5956,12 @@
       ]
     },
     "占": {
-      "english": "to divine; to observe; to versify",
+      "english": "divine; to observe; to versify",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "卡": {
@@ -5482,9 +6008,11 @@
     },
     "卩": {
       "english": "kneeling person; seal/tally",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "卫": {
@@ -5495,10 +6023,12 @@
       ]
     },
     "卬": {
-      "english": "lofty; high; to raise; high-priced, expensive",
+      "english": "look up; high; to raise; high-priced, expensive",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "卮": {
@@ -5509,10 +6039,12 @@
       ]
     },
     "卯": {
-      "english": "4th terrestrial branch; period from 5-7 a.m.",
+      "english": "fourth branch; period from 5-7 a.m.",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "印": {
@@ -5537,10 +6069,12 @@
       ]
     },
     "却": {
-      "english": "still, but; decline; retreat",
+      "english": "retreat, but; decline; retreat",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "卵": {
@@ -5593,17 +6127,21 @@
       ]
     },
     "厂": {
-      "english": "factory, cliff, workshop; building",
+      "english": "cliff, cliff, workshop; building",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "厃": {
-      "english": "to look upward",
+      "english": "overhang",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "厄": {
@@ -5698,10 +6236,12 @@
       ]
     },
     "原": {
-      "english": "source, origin, beginning",
+      "english": "origin, origin, beginning",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "厢": {
@@ -5741,9 +6281,11 @@
     },
     "厨": {
       "english": "kitchen; closet, cupboard",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "厩": {
@@ -5783,9 +6325,11 @@
     },
     "厶": {
       "english": "private, secret",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "厷": {
@@ -5804,10 +6348,16 @@
     },
     "去": {
       "english": "to go, to leave, to depart",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
+    },
+    "厽": {
+      "english": "",
+      "difficulty": 11.6277
     },
     "县": {
       "english": "county, district, subdivision",
@@ -5831,7 +6381,7 @@
       ]
     },
     "参": {
-      "english": "to take part in, to intervene; ginseng",
+      "english": "participate, to intervene; ginseng",
       "sources": [
         "dictionary.txt",
         "dictionary.Txt"
@@ -5845,10 +6395,12 @@
       ]
     },
     "又": {
-      "english": "and, also, again, in addition",
+      "english": "hand, also, again, in addition",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "叉": {
@@ -5859,17 +6411,21 @@
       ]
     },
     "及": {
-      "english": "to extend; to reach; and; in time",
+      "english": "reach; to reach; and; in time",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "友": {
       "english": "friend, companion; fraternity",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "双": {
@@ -5881,9 +6437,11 @@
     },
     "反": {
       "english": "reverse, opposite; contrary, anti-",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "发": {
@@ -5895,9 +6453,11 @@
     },
     "叒": {
       "english": "obedient; united",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "叔": {
@@ -5915,17 +6475,21 @@
       ]
     },
     "取": {
-      "english": "to take, to receive, to obtain; to select",
+      "english": "take, to receive, to obtain; to select",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "受": {
-      "english": "to receive, to get, to accept; to bear",
+      "english": "receive, to get, to accept; to bear",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "变": {
@@ -5943,10 +6507,12 @@
       ]
     },
     "叚": {
-      "english": "false",
+      "english": "borrow",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "叛": {
@@ -5958,9 +6524,11 @@
     },
     "叟": {
       "english": "old man; elder",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "叠": {
@@ -5979,30 +6547,38 @@
     },
     "口": {
       "english": "mouth; entrance, gate, opening",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "古": {
-      "english": "old, classic, ancient",
+      "english": "ancient, classic, ancient",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "句": {
       "english": "sentence, clause, phrase, paragraph; stanza",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "另": {
       "english": "another; separate, other",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "叨": {
@@ -6021,9 +6597,11 @@
     },
     "只": {
       "english": "only, merely, just",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "叫": {
@@ -6034,10 +6612,12 @@
       ]
     },
     "召": {
-      "english": "imperial decree; to summon, to call, to beckon",
+      "english": "summon; to summon, to call, to beckon",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "叭": {
@@ -6056,16 +6636,20 @@
     },
     "可": {
       "english": "may, can, -able; possibly",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "台": {
       "english": "platform; unit; term of address",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "叱": {
@@ -6112,9 +6696,11 @@
     },
     "司": {
       "english": "manage, to take charge of, to control; officer",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "叹": {
@@ -6152,6 +6738,13 @@
         "dictionary.Txt"
       ]
     },
+    "吂": {
+      "english": "unclear",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
     "吃": {
       "english": "to eat; to drink; to suffer, to endure, to bear",
       "sources": [
@@ -6161,9 +6754,19 @@
     },
     "各": {
       "english": "individual; each, every; all",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
+      ]
+    },
+    "吅": {
+      "english": "clamor",
+      "preferred": true,
+      "pinyin": "xuān",
+      "sources": [
+        "editor"
       ]
     },
     "吆": {
@@ -6174,17 +6777,21 @@
       ]
     },
     "合": {
-      "english": "to combine, to join, to unite; to gather",
+      "english": "combine, to join, to unite; to gather",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "吉": {
-      "english": "lucky, propitious, good",
+      "english": "auspicious, propitious, good",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "吊": {
@@ -6237,10 +6844,12 @@
       ]
     },
     "向": {
-      "english": "towards; direction, trend",
+      "english": "toward; direction, trend",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "吒": {
@@ -6258,10 +6867,12 @@
       ]
     },
     "吕": {
-      "english": "a musical note; surname",
+      "english": "musical pitch; surname",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "吖": {
@@ -6279,10 +6890,12 @@
       ]
     },
     "君": {
-      "english": "sovereign, ruler, prince, monarch, chief",
+      "english": "ruler, ruler, prince, monarch, chief",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "吝": {
@@ -6461,10 +7074,12 @@
       ]
     },
     "吾": {
-      "english": "I, my, our; to resist, to impede",
+      "english": "myself, my, our; to resist, to impede",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "呀": {
@@ -6490,16 +7105,20 @@
     },
     "呆": {
       "english": "dull, simple, stupid",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "呈": {
-      "english": "to petition, to submit; to appear, to show",
+      "english": "display, to submit; to appear, to show",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "告": {
@@ -6580,17 +7199,21 @@
       ]
     },
     "员": {
-      "english": "employee; member; personnel, staff",
+      "english": "member; member; personnel, staff",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "呙": {
-      "english": "to chat, to gossip, to jaw, to talk; mouth",
+      "english": "crooked mouth, to gossip, to jaw, to talk; mouth",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "呛": {
@@ -6636,10 +7259,12 @@
       ]
     },
     "周": {
-      "english": "Zhou dynasty; circumference",
+      "english": "around; circumference",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "呫": {
@@ -6742,9 +7367,11 @@
     },
     "咅": {
       "english": "to spit out",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "咆": {
@@ -6973,9 +7600,11 @@
     },
     "咸": {
       "english": "all, together, united; salted",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "咻": {
@@ -7021,10 +7650,12 @@
       ]
     },
     "品": {
-      "english": "article, good, product; commodity; quality, character",
+      "english": "goods, good, product; commodity; quality, character",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "哂": {
@@ -7077,7 +7708,7 @@
       ]
     },
     "响": {
-      "english": "to make noise, to make sound; sound",
+      "english": "make noise, to make sound; sound",
       "sources": [
         "dictionary.txt",
         "dictionary.Txt"
@@ -7197,9 +7828,11 @@
     },
     "哥": {
       "english": "elder brother",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "哦": {
@@ -7357,10 +7990,12 @@
       ]
     },
     "唐": {
-      "english": "the Tang dynasty; Chinese; empty, exaggerated; surname",
+      "english": "Tang dynasty; Chinese; empty, exaggerated; surname",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "唑": {
@@ -7693,10 +8328,12 @@
       ]
     },
     "啬": {
-      "english": "miserly, stingy, thrifty",
+      "english": "stingy, stingy, thrifty",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "啭": {
@@ -8022,10 +8659,12 @@
       ]
     },
     "喿": {
-      "english": "the sound of birds chirping",
+      "english": "birds chirping",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "嗄": {
@@ -8162,7 +8801,7 @@
       ]
     },
     "嗡": {
-      "english": "the droning sound made by an airplane or a bee flying",
+      "english": "droning sound",
       "sources": [
         "dictionary.txt",
         "dictionary.Txt"
@@ -8538,6 +9177,10 @@
         "dictionary.txt",
         "dictionary.Txt"
       ]
+    },
+    "嘼": {
+      "english": "",
+      "difficulty": 12.2126
     },
     "嘽": {
       "english": "many; to pant",
@@ -8947,9 +9590,11 @@
     },
     "囗": {
       "english": "enclosure; border",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "囚": {
@@ -8989,9 +9634,11 @@
     },
     "因": {
       "english": "cause, reason; by; because",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "囡": {
@@ -9045,9 +9692,11 @@
     },
     "囱": {
       "english": "chimney",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "围": {
@@ -9219,10 +9868,12 @@
       ]
     },
     "土": {
-      "english": "soil, earth; items made of earth",
+      "english": "earth, earth; items made of earth",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "圣": {
@@ -9230,6 +9881,13 @@
       "sources": [
         "dictionary.txt",
         "dictionary.Txt"
+      ]
+    },
+    "圤": {
+      "english": "unworked earth",
+      "preferred": true,
+      "sources": [
+        "editor"
       ]
     },
     "在": {
@@ -9255,9 +9913,11 @@
     },
     "圭": {
       "english": "jade tablet",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "圮": {
@@ -9381,9 +10041,11 @@
     },
     "坐": {
       "english": "seat; to sit; to ride, to travel by",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "坑": {
@@ -9562,10 +10224,12 @@
       ]
     },
     "垂": {
-      "english": "to hang, to dangle; to hand down, to bequeath; almost, near",
+      "english": "hang, to dangle; to hand down, to bequeath; almost, near",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "垃": {
@@ -10003,10 +10667,12 @@
       ]
     },
     "堇": {
-      "english": "yellow loam; clay; season; few",
+      "english": "yellow clay; clay; season; few",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "堊": {
@@ -10494,23 +11160,29 @@
     },
     "士": {
       "english": "scholar, gentleman; soldier",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "壬": {
-      "english": "9th heavenly stem",
+      "english": "ninth stem",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "壮": {
-      "english": "big, large; robust, strong; the name of a tribe",
+      "english": "strong, large; robust, strong; the name of a tribe",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "壯": {
@@ -10536,9 +11208,11 @@
     },
     "壴": {
       "english": "drum",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "壶": {
@@ -10570,11 +11244,17 @@
       ]
     },
     "夂": {
-      "english": "to go",
+      "english": "follow",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
+    },
+    "夃": {
+      "english": "",
+      "difficulty": 12.2126
     },
     "处": {
       "english": "to reside at, to live in; place, locale; department",
@@ -10613,9 +11293,11 @@
     },
     "夋": {
       "english": "to dawdle; the emperor Yao's father",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "夌": {
@@ -10648,9 +11330,11 @@
     },
     "夕": {
       "english": "evening, night, dusk; slanted",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "外": {
@@ -10661,10 +11345,12 @@
       ]
     },
     "夗": {
-      "english": "to turn over when asleep",
+      "english": "curled up",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "夙": {
@@ -10675,10 +11361,12 @@
       ]
     },
     "多": {
-      "english": "much, many, multi-; more than, over",
+      "english": "many, many, multi-; more than, over",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "夜": {
@@ -10725,16 +11413,20 @@
     },
     "大": {
       "english": "big, great, vast, high, deep",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "天": {
       "english": "sky, heaven; god, celestial",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "太": {
@@ -10746,30 +11438,38 @@
     },
     "夫": {
       "english": "man, husband; worker; those",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "夬": {
-      "english": "decisive, certain; parted; fork",
+      "english": "decide, certain; parted; fork",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "夭": {
       "english": "young, energetic; to die young",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "央": {
-      "english": "central; to beg; to run out",
+      "english": "center; to beg; to run out",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "夯": {
@@ -10781,9 +11481,11 @@
     },
     "失": {
       "english": "to lose; to make a mistake, to neglect",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "夲": {
@@ -10795,9 +11497,11 @@
     },
     "头": {
       "english": "head; chief, boss; first, top",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "夷": {
@@ -10815,10 +11519,12 @@
       ]
     },
     "夹": {
-      "english": "to support; to be wedged between",
+      "english": "between; to be wedged between",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "夺": {
@@ -10850,10 +11556,12 @@
       ]
     },
     "奂": {
-      "english": "numerous; brilliant",
+      "english": "abundant; brilliant",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "奄": {
@@ -10865,9 +11573,11 @@
     },
     "奇": {
       "english": "strange, unusual, odd; uncanny, occult",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "奈": {
@@ -10879,9 +11589,11 @@
     },
     "奉": {
       "english": "to offer, to respect, to server; to receive",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "奋": {
@@ -10899,10 +11611,12 @@
       ]
     },
     "奏": {
-      "english": "to play; to memorialize; to report",
+      "english": "perform; to memorialize; to report",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "奐": {
@@ -10983,10 +11697,12 @@
       ]
     },
     "奥": {
-      "english": "mysterious, obscure, profound; used in transliterations",
+      "english": "profound, obscure, profound; used in transliterations",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "奧": {
@@ -11026,9 +11742,11 @@
     },
     "女": {
       "english": "woman, girl; female",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "奴": {
@@ -11285,9 +12003,11 @@
     },
     "妾": {
       "english": "concubine",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "姆": {
@@ -11340,10 +12060,12 @@
       ]
     },
     "委": {
-      "english": "to appoint, to commission, to send",
+      "english": "entrust, to commission, to send",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "姗": {
@@ -11473,10 +12195,12 @@
       ]
     },
     "娄": {
-      "english": "a constellation; to wear; surname",
+      "english": "constellation; to wear; surname",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "娅": {
@@ -11829,6 +12553,10 @@
         "dictionary.Txt"
       ]
     },
+    "媷": {
+      "english": "",
+      "difficulty": 12.2126
+    },
     "媸": {
       "english": "ugly; an ugly woman",
       "sources": [
@@ -12110,10 +12838,12 @@
       ]
     },
     "子": {
-      "english": "thing, child; seed, egg; fruit; small thing",
+      "english": "child, child; seed, egg; fruit; small thing",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "孑": {
@@ -12174,9 +12904,11 @@
     },
     "孛": {
       "english": "comet",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "孜": {
@@ -12188,9 +12920,11 @@
     },
     "孝": {
       "english": "filial piety, obedience; mourning",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "孟": {
@@ -12271,10 +13005,12 @@
       ]
     },
     "孰": {
-      "english": "who? which? what? which one?",
+      "english": "which one",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "孱": {
@@ -12328,16 +13064,20 @@
     },
     "宀": {
       "english": "roof; house",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "宁": {
-      "english": "calm, peaceful; healthy; rather; to prefer",
+      "english": "peaceful, peaceful; healthy; rather; to prefer",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "它": {
@@ -12377,9 +13117,11 @@
     },
     "安": {
       "english": "peaceful, tranquil, quiet",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "宋": {
@@ -12390,10 +13132,12 @@
       ]
     },
     "完": {
-      "english": "to complete, to finish, to settle; whole",
+      "english": "complete, to finish, to settle; whole",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "宏": {
@@ -12418,17 +13162,21 @@
       ]
     },
     "宗": {
-      "english": "ancestry, clan, family, lineage; religion, sect",
+      "english": "ancestors, clan, family, lineage; religion, sect",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "官": {
       "english": "official, public servant",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "宙": {
@@ -12446,17 +13194,21 @@
       ]
     },
     "宛": {
-      "english": "to seem; as if; crooked",
+      "english": "winding; as if; crooked",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "宜": {
-      "english": "fitting, proper, right; what one should do",
+      "english": "appropriate, proper, right; what one should do",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "宝": {
@@ -12489,9 +13241,11 @@
     },
     "客": {
       "english": "guest, traveller; customer",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "宣": {
@@ -12572,10 +13326,12 @@
       ]
     },
     "家": {
-      "english": "house, home, residence; family",
+      "english": "home, home, residence; family",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "宸": {
@@ -12628,10 +13384,12 @@
       ]
     },
     "寅": {
-      "english": "to respect, to revere; respectfully; 3rd terrestrial branch",
+      "english": "third branch, to revere; respectfully; 3rd terrestrial branch",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "密": {
@@ -12797,23 +13555,29 @@
     },
     "寸": {
       "english": "inch; small, tiny",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "对": {
       "english": "correct, right; facing, opposed",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "寺": {
-      "english": "court, office; temple, monastery",
+      "english": "temple, office; temple, monastery",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "寻": {
@@ -12852,17 +13616,21 @@
       ]
     },
     "尃": {
-      "english": "to announce, to state",
+      "english": "spread, to state",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "射": {
-      "english": "to shoot, to eject, to emit",
+      "english": "shoot, to eject, to emit",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "将": {
@@ -12930,23 +13698,29 @@
     },
     "小": {
       "english": "small, tiny, insignificant",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "少": {
       "english": "few, little; less; inadequate",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "尔": {
       "english": "you; that, those; final particle",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "尕": {
@@ -12964,10 +13738,12 @@
       ]
     },
     "尗": {
-      "english": "younger brother; father's younger brother",
+      "english": "younger uncle; father's younger brother",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "尘": {
@@ -12985,10 +13761,12 @@
       ]
     },
     "尚": {
-      "english": "still, yet; even; fairly, rather",
+      "english": "esteem, yet; even; fairly, rather",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "尜": {
@@ -13013,10 +13791,12 @@
       ]
     },
     "尢": {
-      "english": "weak, lame",
+      "english": "lame, lame",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "尣": {
@@ -13028,16 +13808,20 @@
     },
     "尤": {
       "english": "especially, particularly",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "尧": {
-      "english": "a legendary ancient emperor-sage",
+      "english": "Emperor Yao",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "尨": {
@@ -13076,24 +13860,30 @@
       ]
     },
     "尸": {
-      "english": "seated person; corpse",
+      "english": "body; corpse",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "尹": {
       "english": "to govern, to oversee; director",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "尺": {
       "english": "ruler, tape-measure; unit of length, about 1 ft.",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "尻": {
@@ -13104,10 +13894,12 @@
       ]
     },
     "尼": {
-      "english": "Buddhist nun; used in transliterations",
+      "english": "nun; used in transliterations",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "尽": {
@@ -13167,10 +13959,12 @@
       ]
     },
     "居": {
-      "english": "to live, to reside; to dwell; to sit",
+      "english": "dwell, to reside; to dwell; to sit",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "屆": {
@@ -13264,6 +14058,10 @@
         "dictionary.Txt"
       ]
     },
+    "屚": {
+      "english": "",
+      "difficulty": 12.2126
+    },
     "屜": {
       "english": "drawer, tier; pad, screen, tray",
       "sources": [
@@ -13350,16 +14148,20 @@
     },
     "屮": {
       "english": "sprout",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "屯": {
-      "english": "village, hamlet; camp; station",
+      "english": "gather, hamlet; camp; station",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "屰": {
@@ -13371,9 +14173,11 @@
     },
     "山": {
       "english": "mountain, hill, peak",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "屹": {
@@ -14155,16 +14959,20 @@
     },
     "川": {
       "english": "river, stream",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "州": {
-      "english": "state, province, prefecture",
+      "english": "region, province, prefecture",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "巠": {
@@ -14196,10 +15004,12 @@
       ]
     },
     "工": {
-      "english": "labor, work; laborer, worker",
+      "english": "work, work; laborer, worker",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "左": {
@@ -14217,17 +15027,21 @@
       ]
     },
     "巨": {
-      "english": "large, huge, gigantic; chief",
+      "english": "carpenter's square, huge, gigantic; chief",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "巩": {
-      "english": "to bind, to guard, to strengthen; firm, secure, strong",
+      "english": "strengthen, to guard, to strengthen; firm, secure, strong",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "巫": {
@@ -14253,9 +15067,11 @@
     },
     "己": {
       "english": "self, oneself; personal, private; 6th heavenly stem",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "已": {
@@ -14266,17 +15082,21 @@
       ]
     },
     "巳": {
-      "english": "the hours from 9 to 11; 6th terrestrial branch",
+      "english": "sixth branch; 6th terrestrial branch",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "巴": {
-      "english": "to desire, to wish for",
+      "english": "cling, to wish for",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "巵": {
@@ -14292,6 +15112,10 @@
         "dictionary.txt",
         "dictionary.Txt"
       ]
+    },
+    "巸": {
+      "english": "",
+      "difficulty": 12.2126
     },
     "巹": {
       "english": "nuptial wine cup",
@@ -14309,9 +15133,11 @@
     },
     "巾": {
       "english": "cloth, curtain, handkerchief, towel",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "巿": {
@@ -14322,10 +15148,12 @@
       ]
     },
     "帀": {
-      "english": "to rotate, to revolve, to make a circuit",
+      "english": "encircle, to revolve, to make a circuit",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "币": {
@@ -14337,16 +15165,20 @@
     },
     "市": {
       "english": "market, city, town; fair; to trade",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "布": {
-      "english": "cotton, linen, textiles; to announce, to declare; to spread",
+      "english": "cloth, linen, textiles; to announce, to declare; to spread",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "帅": {
@@ -14420,7 +15252,7 @@
       ]
     },
     "帘": {
-      "english": "the flag-sign of a tavern",
+      "english": "curtain",
       "sources": [
         "dictionary.txt",
         "dictionary.Txt"
@@ -14455,10 +15287,12 @@
       ]
     },
     "帝": {
-      "english": "supreme ruler, emperor; god",
+      "english": "emperor, emperor; god",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "帥": {
@@ -14679,17 +15513,21 @@
       ]
     },
     "干": {
-      "english": "arid, dry; to oppose; to offend; to invade",
+      "english": "dry, dry; to oppose; to offend; to invade",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "平": {
       "english": "flat, level, even; peaceful",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "年": {
@@ -14700,10 +15538,12 @@
       ]
     },
     "并": {
-      "english": "to combine, to annex; also, what's more",
+      "english": "combine, to annex; also, what's more",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "幸": {
@@ -14721,10 +15561,12 @@
       ]
     },
     "幺": {
-      "english": "one; tiny, small",
+      "english": "tiny; tiny, small",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "幻": {
@@ -14756,10 +15598,12 @@
       ]
     },
     "广": {
-      "english": "broad, vast, wide; building, house",
+      "english": "shelter, vast, wide; building, house",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "庀": {
@@ -14771,9 +15615,11 @@
     },
     "庄": {
       "english": "village, hamlet; villa, manor",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "庆": {
@@ -14826,10 +15672,12 @@
       ]
     },
     "库": {
-      "english": "armory, treasury, warehouse",
+      "english": "storehouse, treasury, warehouse",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "应": {
@@ -15162,24 +16010,30 @@
       ]
     },
     "廴": {
-      "english": "to walk, to go; a place",
+      "english": "stride, to go; a place",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "延": {
-      "english": "to defer, to delay, to postpone; to extend, to prolong; surname",
+      "english": "extend, to delay, to postpone; to extend, to prolong; surname",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "廷": {
       "english": "courtyard",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "建": {
@@ -15191,23 +16045,29 @@
     },
     "廾": {
       "english": "two hands",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "廿": {
       "english": "twenty, twentieth",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "开": {
       "english": "operate; to open; to start, to initiate, to begin",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "弁": {
@@ -15260,17 +16120,21 @@
       ]
     },
     "弋": {
-      "english": "to catch, to arrest; to shoot with a bow",
+      "english": "hunt, to arrest; to shoot with a bow",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "式": {
-      "english": "formula, pattern, rule, style, system",
+      "english": "pattern, pattern, rule, style, system",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "弑": {
@@ -15289,9 +16153,11 @@
     },
     "弓": {
       "english": "bow; curved, arched",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "弔": {
@@ -15310,9 +16176,11 @@
     },
     "弗": {
       "english": "not, negative",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "弘": {
@@ -15331,9 +16199,11 @@
     },
     "弟": {
       "english": "young brother, junior",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "张": {
@@ -15492,9 +16362,11 @@
     },
     "彐": {
       "english": "snout",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "彑": {
@@ -15526,10 +16398,12 @@
       ]
     },
     "录": {
-      "english": "to copy, to record, to write down",
+      "english": "record, to record, to write down",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "彖": {
@@ -15583,9 +16457,11 @@
     },
     "彡": {
       "english": "hair; stripes, decorative lines",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "形": {
@@ -15610,10 +16486,12 @@
       ]
     },
     "彦": {
-      "english": "elegant",
+      "english": "talented",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "彧": {
@@ -15666,10 +16544,12 @@
       ]
     },
     "彳": {
-      "english": "to step with the left foot",
+      "english": "step",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "彷": {
@@ -15954,23 +16834,29 @@
     },
     "心": {
       "english": "heart; mind; soul",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "忄": {
       "english": "heart; mind",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "必": {
-      "english": "surely, certainly; must; will",
+      "english": "certainly, certainly; must; will",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "忆": {
@@ -16065,10 +16951,12 @@
       ]
     },
     "忝": {
-      "english": "shame, disgrace; self-depreciation",
+      "english": "disgrace, disgrace; self-depreciation",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "忞": {
@@ -16115,9 +17003,11 @@
     },
     "快": {
       "english": "speedy, rapid, quick; soon",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "忭": {
@@ -16331,10 +17221,12 @@
       ]
     },
     "急": {
-      "english": "anxious, worried; hasty, quick; pressing, urgent",
+      "english": "urgent, worried; hasty, quick; pressing, urgent",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "怦": {
@@ -16402,9 +17294,11 @@
     },
     "总": {
       "english": "to gather, to collect; overall, altogether",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "怼": {
@@ -16590,10 +17484,12 @@
       ]
     },
     "息": {
-      "english": "to end, to cease, to put a stop to; pause, breath, rest; news",
+      "english": "rest, to cease, to put a stop to; pause, breath, rest; news",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "恰": {
@@ -17001,6 +17897,10 @@
         "dictionary.txt",
         "dictionary.Txt"
       ]
+    },
+    "惢": {
+      "english": "",
+      "difficulty": 12.2126
     },
     "惦": {
       "english": "to think of, to remember, to miss",
@@ -17809,37 +18709,47 @@
     },
     "戈": {
       "english": "spear, lance, halberd",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "戉": {
-      "english": "halberd, battle-axe",
+      "english": "battle axe, battle-axe",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "戊": {
-      "english": "5th heavenly stem",
+      "english": "battle axe",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "戋": {
       "english": "small, narrow; tiny, little",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "戌": {
-      "english": "11th terrestrial branch",
+      "english": "battle axe",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "戍": {
@@ -17850,10 +18760,12 @@
       ]
     },
     "戎": {
-      "english": "arms, armaments; military affairs",
+      "english": "weapons, armaments; military affairs",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "戏": {
@@ -17865,16 +18777,20 @@
     },
     "成": {
       "english": "to accomplish; to become; to complete, to finish; to succeed",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "我": {
       "english": "I, me, my; our, us",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "戒": {
@@ -18040,16 +18956,20 @@
     },
     "戶": {
       "english": "door; family",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "户": {
       "english": "door; family",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "戽": {
@@ -18082,9 +19002,11 @@
     },
     "扁": {
       "english": "flat; board, sign, tablet",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "扂": {
@@ -18131,23 +19053,29 @@
     },
     "手": {
       "english": "hand",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "扌": {
       "english": "hand",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "才": {
-      "english": "ability, talent, gift; just, only",
+      "english": "talent, talent, gift; just, only",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "扎": {
@@ -18228,10 +19156,12 @@
       ]
     },
     "执": {
-      "english": "to execute; to grasp, to hold; to keep; to sieze, to detain",
+      "english": "grasp; to grasp, to hold; to keep; to sieze, to detain",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "扩": {
@@ -20664,24 +21594,30 @@
       ]
     },
     "支": {
-      "english": "to support, to sustain; to withdraw, to pay; a branch (of a bank)",
+      "english": "branch, to sustain; to withdraw, to pay; a branch (of a bank)",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "攴": {
       "english": "strike, tap",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "攵": {
-      "english": "tap, strike; action",
+      "english": "strike, strike; action",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "收": {
@@ -20693,9 +21629,11 @@
     },
     "攸": {
       "english": "distant, far; adverbial prefix",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "改": {
@@ -20742,9 +21680,11 @@
     },
     "故": {
       "english": "reason, cause; happening, instance",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "效": {
@@ -20783,10 +21723,12 @@
       ]
     },
     "敕": {
-      "english": "an imperial order or decree",
+      "english": "command",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "敖": {
@@ -20839,10 +21781,12 @@
       ]
     },
     "敢": {
-      "english": "bold, brave; to dare, to venture",
+      "english": "dare, brave; to dare, to venture",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "散": {
@@ -20874,10 +21818,12 @@
       ]
     },
     "敬": {
-      "english": "to respect, to honor; respectfully",
+      "english": "respect, to honor; respectfully",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "数": {
@@ -20944,10 +21890,12 @@
       ]
     },
     "文": {
-      "english": "culture, literature, writing",
+      "english": "writing, literature, writing",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "斋": {
@@ -20993,10 +21941,12 @@
       ]
     },
     "斗": {
-      "english": "to struggle, to fight, to contend; measuring cup",
+      "english": "measuring scoop, to fight, to contend; measuring cup",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "料": {
@@ -21036,17 +21986,25 @@
     },
     "斤": {
       "english": "axe; Chinese weight unit (~500 g)",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "斥": {
-      "english": "to scold, to upbraid; to accuse, to blame; to reproach",
+      "english": "rebuke, to upbraid; to accuse, to blame; to reproach",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
+    },
+    "斦": {
+      "english": "",
+      "difficulty": 12.2126
     },
     "斧": {
       "english": "axe, hatchet; to chop, to hew",
@@ -21113,9 +22071,11 @@
     },
     "方": {
       "english": "square, rectangle; side; region; flag",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "於": {
@@ -21133,17 +22093,21 @@
       ]
     },
     "斿": {
-      "english": "to swim; to move freely",
+      "english": "fluttering flag; to move freely",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "旁": {
-      "english": "side; beside, close, nearby",
+      "english": "beside; beside, close, nearby",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "旃": {
@@ -21238,10 +22202,12 @@
       ]
     },
     "旡": {
-      "english": "to choke on something",
+      "english": "choking",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "既": {
@@ -21253,16 +22219,20 @@
     },
     "日": {
       "english": "sun; day; daytime",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "旦": {
       "english": "dawn; morning; day",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "旧": {
@@ -21273,17 +22243,21 @@
       ]
     },
     "旨": {
-      "english": "aim, intention, purpose, will",
+      "english": "intention, intention, purpose, will",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "早": {
       "english": "early; soon; morning",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "旬": {
@@ -21329,10 +22303,12 @@
       ]
     },
     "旲": {
-      "english": "daylight, sunlight",
+      "english": "sunlight, sunlight",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "时": {
@@ -21406,10 +22382,12 @@
       ]
     },
     "昌": {
-      "english": "sunlight; good, proper; prosperous",
+      "english": "bright; good, proper; prosperous",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "明": {
@@ -21421,23 +22399,29 @@
     },
     "昏": {
       "english": "dusk, nightfall, twilight, dark; to faint, to lose consciousness",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "易": {
       "english": "to change; to exchange, to trade; simple, easy",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "昔": {
-      "english": "past, former; ancient",
+      "english": "formerly, former; ancient",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "昕": {
@@ -21455,10 +22439,12 @@
       ]
     },
     "昜": {
-      "english": "bright, glorious; to expand, to open up",
+      "english": "sunlight, glorious; to expand, to open up",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "昝": {
@@ -21519,16 +22505,20 @@
     },
     "昭": {
       "english": "bright, luminous; clear, manifest",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "是": {
       "english": "to be; indeed, right, yes; okay",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "昱": {
@@ -21561,9 +22551,11 @@
     },
     "昷": {
       "english": "warm, a warm meal",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "昼": {
@@ -21574,10 +22566,12 @@
       ]
     },
     "显": {
-      "english": "clear, evident; prominent; to show",
+      "english": "apparent, evident; prominent; to show",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "晁": {
@@ -21736,9 +22730,11 @@
     },
     "景": {
       "english": "scenery, view; conditions, circumstances",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "晰": {
@@ -22043,10 +23039,12 @@
       ]
     },
     "曰": {
-      "english": "to speak; to say",
+      "english": "say; to say",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "曱": {
@@ -22057,10 +23055,12 @@
       ]
     },
     "曲": {
-      "english": "crooked, bent; wrong, false",
+      "english": "melody, bent; wrong, false",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "曳": {
@@ -22072,16 +23072,20 @@
     },
     "更": {
       "english": "more, further; to shift, to alternate; to modify",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "曷": {
-      "english": "what, why, where, which, how",
+      "english": "why / how, why, where, which, how",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "書": {
@@ -22092,17 +23096,21 @@
       ]
     },
     "曹": {
-      "english": "ministers, officials; a company; surname",
+      "english": "officials, officials; a company; surname",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "曼": {
-      "english": "long, extended, vast; beautiful",
+      "english": "extended, extended, vast; beautiful",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "曾": {
@@ -22142,16 +23150,20 @@
     },
     "月": {
       "english": "moon; month",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "有": {
       "english": "to have, to own, to possess; to exist",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "朊": {
@@ -22211,10 +23223,12 @@
       ]
     },
     "朝": {
-      "english": "to face; direct, facing; dynasty; morning",
+      "english": "morning; direct, facing; dynasty; morning",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "期": {
@@ -22240,30 +23254,45 @@
     },
     "木": {
       "english": "tree; wood, lumber; wooden",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
+      ]
+    },
+    "朩": {
+      "english": "wood",
+      "preferred": true,
+      "sources": [
+        "editor"
       ]
     },
     "未": {
       "english": "not yet; 8th terrestrial branch",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "末": {
-      "english": "end, final, last; insignificant",
+      "english": "tip, final, last; insignificant",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "本": {
       "english": "root, origin, source; basis",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "札": {
@@ -22288,10 +23317,12 @@
       ]
     },
     "朱": {
-      "english": "cinnabar, vermilion; surname",
+      "english": "vermilion, vermilion; surname",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "朴": {
@@ -22435,10 +23466,12 @@
       ]
     },
     "束": {
-      "english": "to bind, to control, to restrain; bale",
+      "english": "bundle, to control, to restrain; bale",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "杠": {
@@ -22456,10 +23489,12 @@
       ]
     },
     "来": {
-      "english": "to arrive, to come, to return; in the future, later on",
+      "english": "come, to come, to return; in the future, later on",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "杨": {
@@ -22625,9 +23660,11 @@
     },
     "林": {
       "english": "forest, grove; surname",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "枘": {
@@ -22646,9 +23683,11 @@
     },
     "果": {
       "english": "fruit, nut; result",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "枝": {
@@ -23268,10 +24307,12 @@
       ]
     },
     "桑": {
-      "english": "mulberry tree; surname",
+      "english": "mulberry; surname",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "桓": {
@@ -23401,10 +24442,12 @@
       ]
     },
     "桼": {
-      "english": "the varnish tree; varnish, lacquer; paint",
+      "english": "lacquer tree; varnish, lacquer; paint",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "桿": {
@@ -24920,17 +25963,21 @@
       ]
     },
     "欠": {
-      "english": "to lack, to owe; to breathe, to yawn",
+      "english": "lack, to owe; to breathe, to yawn",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "次": {
-      "english": "order, sequence; second, next; one after the other",
+      "english": "next, sequence; second, next; one after the other",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "欢": {
@@ -25116,24 +26163,30 @@
       ]
     },
     "止": {
-      "english": "to stop, to halt; to detain; to desist",
+      "english": "foot, to halt; to detain; to desist",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "正": {
-      "english": "straight, right, proper, correct, just, true",
+      "english": "correct, right, proper, correct, just, true",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "此": {
       "english": "this, these; in this case, then",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "步": {
@@ -25200,17 +26253,21 @@
       ]
     },
     "歹": {
-      "english": "corpse; death; evil, depraved, wicked",
+      "english": "bones; death; evil, depraved, wicked",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "歺": {
-      "english": "evil, depraved, wicked",
+      "english": "bones, depraved, wicked",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "死": {
@@ -25410,10 +26467,12 @@
       ]
     },
     "殳": {
-      "english": "tool, weapon",
+      "english": "weapon, weapon",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "殴": {
@@ -25425,9 +26484,11 @@
     },
     "段": {
       "english": "section, piece, division",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "殷": {
@@ -25529,24 +26590,30 @@
       ]
     },
     "毌": {
-      "english": "old form of 貫",
+      "english": "pierce through",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "母": {
       "english": "mother; female elders; female",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "每": {
-      "english": "each, every",
+      "english": "every, every",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "毒": {
@@ -25565,9 +26632,11 @@
     },
     "比": {
       "english": "to compare, liken; comparison; than",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "毕": {
@@ -25607,9 +26676,11 @@
     },
     "毛": {
       "english": "hair, fur, feathers; coarse",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "毡": {
@@ -25712,16 +26783,20 @@
     },
     "氏": {
       "english": "clan, family; maiden name",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "氐": {
-      "english": "the name of an ancient tribe",
+      "english": "base",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "民": {
@@ -25740,9 +26815,11 @@
     },
     "气": {
       "english": "air, gas; steam, vapor; anger",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "氕": {
@@ -25908,16 +26985,20 @@
     },
     "水": {
       "english": "water, liquid, lotion, juice",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "氵": {
       "english": "water",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "氶": {
@@ -25928,10 +27009,12 @@
       ]
     },
     "永": {
-      "english": "long; perpetual, eternal; forever",
+      "english": "forever; perpetual, eternal; forever",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "氹": {
@@ -25939,6 +27022,14 @@
       "sources": [
         "dictionary.txt",
         "dictionary.Txt"
+      ]
+    },
+    "氺": {
+      "english": "water",
+      "preferred": true,
+      "pinyin": "shuǐ",
+      "sources": [
+        "editor"
       ]
     },
     "氽": {
@@ -25957,9 +27048,11 @@
     },
     "氿": {
       "english": "spring",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "汀": {
@@ -25977,10 +27070,12 @@
       ]
     },
     "求": {
-      "english": "to seek; to request, to demand; to beseech, to beg for",
+      "english": "seek; to request, to demand; to beseech, to beg for",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "汆": {
@@ -26017,6 +27112,10 @@
         "dictionary.txt",
         "dictionary.Txt"
       ]
+    },
+    "汒": {
+      "english": "",
+      "difficulty": 12.2126
     },
     "汔": {
       "english": "nearby",
@@ -26482,9 +27581,11 @@
     },
     "泉": {
       "english": "spring, fountain; wealth, money",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "泊": {
@@ -26579,10 +27680,12 @@
       ]
     },
     "波": {
-      "english": "waves, ripples, breakers; undulations",
+      "english": "wave (water), ripples, breakers; undulations",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "泣": {
@@ -26782,10 +27885,12 @@
       ]
     },
     "洛": {
-      "english": "a river in the Shanxi province; a city",
+      "english": "Luo River; a city",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "洞": {
@@ -29282,16 +30387,20 @@
     },
     "火": {
       "english": "fire, flame; to burn; anger, rage",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "灬": {
       "english": "fire",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "灭": {
@@ -29400,10 +30509,12 @@
       ]
     },
     "炎": {
-      "english": "flame, blaze; hot",
+      "english": "flames, blaze; hot",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "炏": {
@@ -29834,10 +30945,12 @@
       ]
     },
     "無": {
-      "english": "no, not; lacking, -less",
+      "english": "dance, not; lacking, -less",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "焢": {
@@ -29848,10 +30961,12 @@
       ]
     },
     "焦": {
-      "english": "burned, scorched; anxious, vexed",
+      "english": "scorched, scorched; anxious, vexed",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "焯": {
@@ -30388,16 +31503,20 @@
     },
     "爪": {
       "english": "claws, nails, talons",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "爫": {
       "english": "claws, nails, talons",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "爬": {
@@ -30422,10 +31541,12 @@
       ]
     },
     "爰": {
-      "english": "to lead on to; then, therefore, as a consequence",
+      "english": "lead on; then, therefore, as a consequence",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "爱": {
@@ -30444,9 +31565,11 @@
     },
     "父": {
       "english": "father, dad",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "爷": {
@@ -30513,10 +31636,12 @@
       ]
     },
     "片": {
-      "english": "slice, splinter; page, strip",
+      "english": "flat piece, splinter; page, strip",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "版": {
@@ -30563,16 +31688,31 @@
     },
     "牙": {
       "english": "tooth, molar; fang, tusk; serrated",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
+    },
+    "牚": {
+      "english": "",
+      "difficulty": 12.2126
     },
     "牛": {
       "english": "ox, cow, bull",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
+      ]
+    },
+    "牜": {
+      "english": "ox",
+      "preferred": true,
+      "sources": [
+        "editor"
       ]
     },
     "牝": {
@@ -30801,16 +31941,20 @@
     },
     "犬": {
       "english": "dog",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "犭": {
       "english": "animal; dog",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "犮": {
@@ -30869,6 +32013,10 @@
         "dictionary.Txt"
       ]
     },
+    "犾": {
+      "english": "",
+      "difficulty": 12.2126
+    },
     "狀": {
       "english": "state, condition; shape, appearance, form; certificate",
       "sources": [
@@ -30917,6 +32065,10 @@
         "dictionary.txt",
         "dictionary.Txt"
       ]
+    },
+    "狊": {
+      "english": "",
+      "difficulty": 11.6277
     },
     "狍": {
       "english": "a species of deer found in northern China",
@@ -31148,6 +32300,10 @@
         "dictionary.txt",
         "dictionary.Txt"
       ]
+    },
+    "猒": {
+      "english": "",
+      "difficulty": 12.2126
     },
     "猓": {
       "english": "monkey",
@@ -31486,10 +32642,12 @@
       ]
     },
     "玄": {
-      "english": "deep, profound, abstruse",
+      "english": "mysterious, profound, abstruse",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "率": {
@@ -31501,16 +32659,20 @@
     },
     "玉": {
       "english": "jade, gem, precious stone",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "王": {
       "english": "king, ruler; royal; surname",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "玎": {
@@ -31577,10 +32739,12 @@
       ]
     },
     "玨": {
-      "english": "guitar strings; variant of 珏",
+      "english": "paired jades; variant of 珏",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "玩": {
@@ -32306,9 +33470,11 @@
     },
     "瓦": {
       "english": "tile; pottery, earthenware",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "瓮": {
@@ -32404,9 +33570,11 @@
     },
     "甘": {
       "english": "sweet, tasty; willing",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "甙": {
@@ -32432,9 +33600,11 @@
     },
     "生": {
       "english": "life, lifetime; birth; growth",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "產": {
@@ -32474,9 +33644,11 @@
     },
     "用": {
       "english": "use, to employ, to apply; use",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "甩": {
@@ -32495,16 +33667,20 @@
     },
     "甫": {
       "english": "to begin; man, father; great; a distance of ten li",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "甬": {
-      "english": "path; river in Ningbo; Ningbo",
+      "english": "passage; river in Ningbo; Ningbo",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "甭": {
@@ -32523,30 +33699,38 @@
     },
     "田": {
       "english": "field, farm, arable land; cultivated",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "由": {
       "english": "cause, reason; from",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "甲": {
       "english": "armor, shell; fingernails; 1st heavenly stem",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "申": {
-      "english": "to report; to extend; to explain; to declare",
+      "english": "extend; to extend; to explain; to declare",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "甴": {
@@ -32565,9 +33749,11 @@
     },
     "男": {
       "english": "man, boy; male; baron; surname",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "甸": {
@@ -32607,9 +33793,11 @@
     },
     "畀": {
       "english": "to give",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "畅": {
@@ -32649,16 +33837,20 @@
     },
     "畏": {
       "english": "fear, dread, awe, reverence",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "畐": {
-      "english": "to fill; a roll of cloth",
+      "english": "full; a roll of cloth",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "畑": {
@@ -32677,9 +33869,11 @@
     },
     "留": {
       "english": "to stay, to remain; to preserve, to keep; to leave a message;",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "畚": {
@@ -32747,9 +33941,11 @@
     },
     "番": {
       "english": "to take turns, to repeat; to sow; a turn",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "畫": {
@@ -32768,9 +33964,11 @@
     },
     "異": {
       "english": "different, strange, unusual; foreign; surprising",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "畲": {
@@ -32810,9 +34008,11 @@
     },
     "畺": {
       "english": "boundary, border",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "畾": {
@@ -32859,23 +34059,29 @@
     },
     "疋": {
       "english": "foot, lower leg",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "疌": {
-      "english": "nimble, quick",
+      "english": "swift, quick",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "疏": {
-      "english": "to neglect; to dredge, to clear away; lax, careless",
+      "english": "sparse; to dredge, to clear away; lax, careless",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "疐": {
@@ -32894,9 +34100,11 @@
     },
     "疒": {
       "english": "sickness, disease",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "疔": {
@@ -33775,10 +34983,12 @@
       ]
     },
     "癶": {
-      "english": "two feet; stepping",
+      "english": "footsteps; stepping",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "癸": {
@@ -33804,9 +35014,11 @@
     },
     "白": {
       "english": "white; clear, pure, unblemished; bright",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "百": {
@@ -33814,6 +35026,14 @@
       "sources": [
         "dictionary.txt",
         "dictionary.Txt"
+      ]
+    },
+    "皀": {
+      "english": "fragrant grain",
+      "preferred": true,
+      "pinyin": "jí",
+      "sources": [
+        "editor"
       ]
     },
     "皂": {
@@ -33944,9 +35164,11 @@
     },
     "皮": {
       "english": "skin, hide, fur, feathers",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "皰": {
@@ -33993,9 +35215,11 @@
     },
     "皿": {
       "english": "vessel, bowl; container",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "盂": {
@@ -34070,9 +35294,11 @@
     },
     "监": {
       "english": "to supervise, to direct, to control; to inspect; prison, jail",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "盒": {
@@ -34182,9 +35408,11 @@
     },
     "目": {
       "english": "eye; to look, to see; division, topic",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "盯": {
@@ -34210,16 +35438,20 @@
     },
     "直": {
       "english": "straight, vertical; candid, direct, frank",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "相": {
       "english": "mutual, reciprocal; equal; each other",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "盹": {
@@ -34321,10 +35553,12 @@
       ]
     },
     "真": {
-      "english": "real, actual, true, genuine",
+      "english": "true, actual, true, genuine",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "眠": {
@@ -34903,30 +36137,38 @@
     },
     "矢": {
       "english": "arrow, dart; to vow, to swear",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "矣": {
-      "english": "particle of completed action",
+      "english": "completed",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "知": {
       "english": "to know, to perceive, to comprehend",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "矦": {
-      "english": "target in archery",
+      "english": "archery target",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "矧": {
@@ -34980,9 +36222,11 @@
     },
     "石": {
       "english": "stone, rock, mineral",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "矶": {
@@ -35770,17 +37014,21 @@
       ]
     },
     "示": {
-      "english": "show, indicate; altar",
+      "english": "altar, indicate; altar",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "礻": {
-      "english": "spirit; ritual",
+      "english": "altar; ritual",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "礼": {
@@ -35952,17 +37200,21 @@
       ]
     },
     "票": {
-      "english": "bank note; ticket; vote; a slip of paper",
+      "english": "ticket; ticket; vote; a slip of paper",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "祭": {
-      "english": "to sacrifice to, to worship",
+      "english": "sacrifice, to worship",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "祯": {
@@ -36127,17 +37379,21 @@
       ]
     },
     "禸": {
-      "english": "rump",
+      "english": "animal tracks",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "禹": {
-      "english": "legendary Hsia dynasty founder",
+      "english": "Yu the Great",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "禺": {
@@ -36169,10 +37425,12 @@
       ]
     },
     "禾": {
-      "english": "cereal, grain, rice; plant, stalk",
+      "english": "grain, grain, rice; plant, stalk",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "禿": {
@@ -36639,9 +37897,11 @@
     },
     "穴": {
       "english": "cave, den, hole",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "穵": {
@@ -36960,10 +38220,12 @@
       ]
     },
     "立": {
-      "english": "to stand; to establish, to set up",
+      "english": "stand; to establish, to set up",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "竖": {
@@ -36972,6 +38234,10 @@
         "dictionary.txt",
         "dictionary.Txt"
       ]
+    },
+    "竘": {
+      "english": "",
+      "difficulty": 12.2126
     },
     "站": {
       "english": "stand, station; to halt, to stand; website; measure word for stands and stations",
@@ -36989,9 +38255,11 @@
     },
     "竟": {
       "english": "finally, after all, at last; indeed; unexpected",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "章": {
@@ -37010,9 +38278,11 @@
     },
     "童": {
       "english": "child, boy; servant boy; virgin",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "竦": {
@@ -38081,9 +39351,11 @@
     },
     "米": {
       "english": "rice, millet, grain",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "籴": {
@@ -38438,9 +39710,11 @@
     },
     "糸": {
       "english": "silk; thread",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "糹": {
@@ -39495,9 +40769,11 @@
     },
     "纟": {
       "english": "silk; thread",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "纠": {
@@ -39543,10 +40819,12 @@
       ]
     },
     "约": {
-      "english": "treaty, covenant, agreement",
+      "english": "agreement, covenant, agreement",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "级": {
@@ -40481,10 +41759,12 @@
       ]
     },
     "缶": {
-      "english": "earthen crock or jar; pottery",
+      "english": "earthen jar; pottery",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "缸": {
@@ -40559,9 +41839,11 @@
     },
     "罒": {
       "english": "net, network",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "罓": {
@@ -40586,10 +41868,12 @@
       ]
     },
     "罗": {
-      "english": "gauze, net; to collect, to display",
+      "english": "net, net; to collect, to display",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "罘": {
@@ -40629,9 +41913,11 @@
     },
     "罢": {
       "english": "to cease, to finish, to stop, to quit",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "罨": {
@@ -40748,9 +42034,11 @@
     },
     "羊": {
       "english": "sheep, goat",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "羋": {
@@ -40767,6 +42055,10 @@
         "dictionary.Txt"
       ]
     },
+    "羍": {
+      "english": "",
+      "difficulty": 12.2126
+    },
     "美": {
       "english": "beautiful, pretty; pleasing",
       "sources": [
@@ -40776,9 +42068,11 @@
     },
     "羔": {
       "english": "lamb",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "羕": {
@@ -40908,10 +42202,12 @@
       ]
     },
     "羽": {
-      "english": "feather, plume; wings",
+      "english": "feathers, plume; wings",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "羿": {
@@ -40923,9 +42219,11 @@
     },
     "翁": {
       "english": "old man; father, father-in-law",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "翅": {
@@ -41098,16 +42396,20 @@
     },
     "耂": {
       "english": "old, aged; experienced",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "考": {
-      "english": "to test, to investigate, to examine",
+      "english": "examine, to investigate, to examine",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "耄": {
@@ -41118,10 +42420,12 @@
       ]
     },
     "者": {
-      "english": "that which; they who; those who",
+      "english": "one who; they who; those who",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "耆": {
@@ -41139,10 +42443,12 @@
       ]
     },
     "而": {
-      "english": "and, and then, and yet; but",
+      "english": "beard, and then, and yet; but",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "耍": {
@@ -41160,10 +42466,12 @@
       ]
     },
     "耑": {
-      "english": "specialized; concentrated",
+      "english": "beginning; concentrated",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "耒": {
@@ -41287,10 +42595,16 @@
     },
     "耳": {
       "english": "ear; to hear, to hear of; handle",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
+    },
+    "耴": {
+      "english": "",
+      "difficulty": 11.6277
     },
     "耵": {
       "english": "earwax",
@@ -41342,10 +42656,12 @@
       ]
     },
     "聂": {
-      "english": "to whisper; surname",
+      "english": "whisper; surname",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "聃": {
@@ -41518,16 +42834,20 @@
     },
     "聿": {
       "english": "writing brush, pencil; thereupon",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "肀": {
-      "english": "pen",
+      "english": "writing brush",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "肃": {
@@ -41567,9 +42887,11 @@
     },
     "肉": {
       "english": "meat; flesh",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "肋": {
@@ -41595,9 +42917,11 @@
     },
     "肖": {
       "english": "to resemble, to look like; to be like",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "肘": {
@@ -41728,9 +43052,11 @@
     },
     "肰": {
       "english": "dog meat",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "肱": {
@@ -42827,9 +44153,11 @@
     },
     "臣": {
       "english": "minister, statesman, official, vassal",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "臤": {
@@ -42848,9 +44176,11 @@
     },
     "臧": {
       "english": "good, right; generous; to command",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "臨": {
@@ -42862,9 +44192,11 @@
     },
     "自": {
       "english": "self; private, personal; from",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "臬": {
@@ -42881,6 +44213,10 @@
         "dictionary.Txt"
       ]
     },
+    "臱": {
+      "english": "",
+      "difficulty": 12.2126
+    },
     "臲": {
       "english": "tottering, unsteady; jumpy, jittery",
       "sources": [
@@ -42889,10 +44225,12 @@
       ]
     },
     "至": {
-      "english": "reach, arrive; very, extremely",
+      "english": "arrive, arrive; very, extremely",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "致": {
@@ -42918,9 +44256,11 @@
     },
     "臼": {
       "english": "mortar; bone joint socket",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "臽": {
@@ -42945,10 +44285,12 @@
       ]
     },
     "舀": {
-      "english": "to ladle out; to scoop",
+      "english": "scoop; to scoop",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "舁": {
@@ -43023,16 +44365,20 @@
     },
     "舌": {
       "english": "tongue; bell clapper",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "舍": {
-      "english": "house, dwelling; to reside, to dwell; to abandon, to give up",
+      "english": "dwelling, dwelling; to reside, to dwell; to abandon, to give up",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "舐": {
@@ -43064,10 +44410,12 @@
       ]
     },
     "舛": {
-      "english": "mistaken; to be contrary; to deviate",
+      "english": "opposing feet; to be contrary; to deviate",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "舜": {
@@ -43086,9 +44434,11 @@
     },
     "舟": {
       "english": "boat, ship",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "舡": {
@@ -43135,9 +44485,11 @@
     },
     "般": {
       "english": "sort, manner, kind, class",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "舭": {
@@ -43323,17 +44675,21 @@
       ]
     },
     "艮": {
-      "english": "blunt; tough, chewy",
+      "english": "stopping; tough, chewy",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "良": {
       "english": "good, virtuous, respectable",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "艰": {
@@ -43352,9 +44708,11 @@
     },
     "色": {
       "english": "color, tint, hue, shade; beauty, form; sex",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "艳": {
@@ -43387,9 +44745,11 @@
     },
     "艹": {
       "english": "grass, weed, plant, herb",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "艺": {
@@ -43800,9 +45160,11 @@
     },
     "苗": {
       "english": "sprouts; Miao nationality",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "苘": {
@@ -43835,9 +45197,11 @@
     },
     "苟": {
       "english": "careless, frivolous, illicit; but, if only",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "苠": {
@@ -44206,9 +45570,11 @@
     },
     "荅": {
       "english": "to answer; small bean; thick, heavy",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "荆": {
@@ -44576,10 +45942,12 @@
       ]
     },
     "莫": {
-      "english": "cannot; do not; is not; negative",
+      "english": "sunset; do not; is not; negative",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "莰": {
@@ -45101,10 +46469,12 @@
       ]
     },
     "董": {
-      "english": "to direct, to supervise; surname",
+      "english": "supervise, to supervise; surname",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "葦": {
@@ -45270,9 +46640,11 @@
     },
     "蒙": {
       "english": "to cover; to deceive; Mongolia",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "蒜": {
@@ -46355,9 +47727,11 @@
     },
     "虍": {
       "english": "tiger",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "虎": {
@@ -46474,9 +47848,11 @@
     },
     "虫": {
       "english": "insect, worm; small creature",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "虬": {
@@ -47867,9 +49243,11 @@
     },
     "血": {
       "english": "blood",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "衄": {
@@ -47992,17 +49370,21 @@
       ]
     },
     "衣": {
-      "english": "cloth; clothes, apparel; dress, coat",
+      "english": "clothing; clothes, apparel; dress, coat",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "衤": {
-      "english": "cloth",
+      "english": "clothing",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "补": {
@@ -48098,9 +49480,11 @@
     },
     "袁": {
       "english": "robe; surname",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "袂": {
@@ -48748,10 +50132,12 @@
       ]
     },
     "覀": {
-      "english": "west, western, westward",
+      "english": "cover, western, westward",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "要": {
@@ -48881,10 +50267,12 @@
       ]
     },
     "见": {
-      "english": "to see, to observe, to meet, to appear",
+      "english": "see, to observe, to meet, to appear",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "观": {
@@ -48923,10 +50311,12 @@
       ]
     },
     "览": {
-      "english": "to look over, to inspect, to view, to perceive",
+      "english": "survey, to inspect, to view, to perceive",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "觉": {
@@ -48986,10 +50376,12 @@
       ]
     },
     "角": {
-      "english": "angle, corner; horn, horn-shaped",
+      "english": "horn, corner; horn, horn-shaped",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "觖": {
@@ -49008,9 +50400,11 @@
     },
     "觜": {
       "english": "beak",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "觞": {
@@ -49084,10 +50478,12 @@
       ]
     },
     "言": {
-      "english": "words, speech; to speak, to say",
+      "english": "speech, speech; to speak, to say",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "訁": {
@@ -50176,10 +51572,12 @@
       ]
     },
     "讠": {
-      "english": "words, speech; to speak, to say",
+      "english": "speech, speech; to speak, to say",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "计": {
@@ -51185,9 +52583,11 @@
     },
     "谷": {
       "english": "valley, gorge, ravine",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "谿": {
@@ -51205,10 +52605,12 @@
       ]
     },
     "豆": {
-      "english": "beans, peas; bean-shaped",
+      "english": "bean, peas; bean-shaped",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "豇": {
@@ -51269,9 +52671,11 @@
     },
     "豕": {
       "english": "pig, boar",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "豖": {
@@ -51280,6 +52684,10 @@
         "dictionary.txt",
         "dictionary.Txt"
       ]
+    },
+    "豙": {
+      "english": "",
+      "difficulty": 12.2126
     },
     "豚": {
       "english": "suckling pig; to suckle",
@@ -51290,9 +52698,11 @@
     },
     "象": {
       "english": "elephant; ivory; figure, image",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "豢": {
@@ -51884,10 +53294,12 @@
       ]
     },
     "贝": {
-      "english": "sea shell; money, currency",
+      "english": "shell; money, currency",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "贞": {
@@ -51898,10 +53310,12 @@
       ]
     },
     "负": {
-      "english": "load, burden; to carry, to bear",
+      "english": "carry, burden; to carry, to bear",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "贡": {
@@ -51919,10 +53333,12 @@
       ]
     },
     "责": {
-      "english": "one's responsibility, duty",
+      "english": "responsibility, duty",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "贤": {
@@ -52395,10 +53811,12 @@
       ]
     },
     "走": {
-      "english": "to walk, to run, to flee",
+      "english": "walk, to run, to flee",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "赳": {
@@ -52550,9 +53968,11 @@
     },
     "足": {
       "english": "foot; to attain, to satisfy; enough",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "趴": {
@@ -53376,9 +54796,11 @@
     },
     "身": {
       "english": "body, torso; person; pregnancy",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "躬": {
@@ -53768,9 +55190,11 @@
     },
     "车": {
       "english": "vehicle; to move in a cart",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "轧": {
@@ -54124,10 +55548,12 @@
       ]
     },
     "辛": {
-      "english": "bitter; toilsome, laborious; 8th heavenly stem",
+      "english": "pungent; toilsome, laborious; 8th heavenly stem",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "辜": {
@@ -54243,10 +55669,12 @@
       ]
     },
     "辶": {
-      "english": "to walk; walking",
+      "english": "movement; walking",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "边": {
@@ -54300,9 +55728,11 @@
     },
     "过": {
       "english": "pass; to go across, to pass through",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "迈": {
@@ -55238,16 +56668,20 @@
     },
     "那": {
       "english": "that, that one, those",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "邦": {
       "english": "country, nation, state",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "邨": {
@@ -55713,10 +57147,12 @@
       ]
     },
     "酉": {
-      "english": "wine; wine vessel; chemical",
+      "english": "wine vessel; wine vessel; chemical",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "酊": {
@@ -55727,10 +57163,12 @@
       ]
     },
     "酋": {
-      "english": "chieftain, chief of tribe",
+      "english": "wine vessel, chief of tribe",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "酌": {
@@ -56183,16 +57621,20 @@
     },
     "釆": {
       "english": "to distinguish; to pick, to gather, to collect",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "采": {
-      "english": "to collect, to gather; to pick, to pluck",
+      "english": "gather, to gather; to pick, to pluck",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "釉": {
@@ -56218,9 +57660,11 @@
     },
     "里": {
       "english": "inside; unit of distance equal to 0.5km; village; lane",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "重": {
@@ -57323,10 +58767,12 @@
       ]
     },
     "钅": {
-      "english": "gold, metal; money",
+      "english": "metal, metal; money",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "钆": {
@@ -58878,16 +60324,20 @@
     },
     "镸": {
       "english": "long; lasting; to excel in",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "长": {
       "english": "long, lasting; to excel in",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "門": {
@@ -59051,6 +60501,10 @@
         "dictionary.Txt"
       ]
     },
+    "閵": {
+      "english": "",
+      "difficulty": 12.2126
+    },
     "閶": {
       "english": "the gates of heaven; the main gate of a palace",
       "sources": [
@@ -59179,9 +60633,11 @@
     },
     "门": {
       "english": "gate, door, entrance, opening",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "闩": {
@@ -59256,9 +60712,11 @@
     },
     "间": {
       "english": "between, among; midpoint; space, place, locality",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "闵": {
@@ -59514,10 +60972,12 @@
       ]
     },
     "阝": {
-      "english": "place, town, city",
+      "english": "hill, town, city",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "阞": {
@@ -59619,10 +61079,12 @@
       ]
     },
     "阿": {
-      "english": "an initial particle, a prefix used for names; used in transliterations",
+      "english": "prefix, a prefix used for names; used in transliterations",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "陀": {
@@ -60024,6 +61486,10 @@
         "dictionary.Txt"
       ]
     },
+    "隡": {
+      "english": "",
+      "difficulty": 12.2126
+    },
     "隧": {
       "english": "tunnel, underground passage; a path to a tomb",
       "sources": [
@@ -60089,9 +61555,11 @@
     },
     "隹": {
       "english": "short-tailed bird; sparrow",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "隺": {
@@ -60320,9 +61788,11 @@
     },
     "雨": {
       "english": "rain",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "雩": {
@@ -60620,10 +62090,12 @@
       ]
     },
     "青": {
-      "english": "nature's color; blue, green, black; young",
+      "english": "blue-green; blue, green, black; young",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "靓": {
@@ -60670,9 +62142,11 @@
     },
     "非": {
       "english": "not, negative, non-; to oppose",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "靠": {
@@ -60690,10 +62164,12 @@
       ]
     },
     "面": {
-      "english": "side; face; surface",
+      "english": "face; face; surface",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "靥": {
@@ -60712,9 +62188,11 @@
     },
     "革": {
       "english": "leather, animal hide; reform, change",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "靳": {
@@ -60921,10 +62399,12 @@
       ]
     },
     "韦": {
-      "english": "tanned leather; surname",
+      "english": "leather; surname",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "韧": {
@@ -60969,6 +62449,10 @@
         "dictionary.Txt"
       ]
     },
+    "韰": {
+      "english": "",
+      "difficulty": 12.2126
+    },
     "韱": {
       "english": "wild onions or leeks",
       "sources": [
@@ -60978,9 +62462,11 @@
     },
     "音": {
       "english": "sound, tone, pitch, pronunciation",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "韵": {
@@ -61328,9 +62814,11 @@
     },
     "页": {
       "english": "page, sheet, leaf",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "顶": {
@@ -61713,9 +63201,11 @@
     },
     "风": {
       "english": "wind; air; customs, manners; news",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "飐": {
@@ -61797,9 +63287,11 @@
     },
     "食": {
       "english": "food; to eat",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "飠": {
@@ -62189,9 +63681,11 @@
     },
     "饣": {
       "english": "food; to eat",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "饥": {
@@ -62482,10 +63976,12 @@
       ]
     },
     "首": {
-      "english": "chief, head, leader",
+      "english": "head, head, leader",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "馗": {
@@ -62854,9 +64350,11 @@
     },
     "马": {
       "english": "horse; surname",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "驭": {
@@ -63372,9 +64870,11 @@
     },
     "高": {
       "english": "tall, lofty; high, elevated",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "髟": {
@@ -63587,6 +65087,10 @@
         "dictionary.Txt"
       ]
     },
+    "鬳": {
+      "english": "",
+      "difficulty": 12.2126
+    },
     "鬻": {
       "english": "to vend, sell",
       "sources": [
@@ -63719,6 +65223,10 @@
         "dictionary.txt",
         "dictionary.Txt"
       ]
+    },
+    "魝": {
+      "english": "",
+      "difficulty": 12.2126
     },
     "魠": {
       "english": "Japanese mackerel",
@@ -64142,9 +65650,11 @@
     },
     "鱼": {
       "english": "fish",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "鱿": {
@@ -65227,9 +66737,11 @@
     },
     "鸟": {
       "english": "bird",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "鸠": {
@@ -65899,9 +67411,11 @@
     },
     "麻": {
       "english": "hemp, flax, sesame; numb",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "麼": {
@@ -65954,10 +67468,12 @@
       ]
     },
     "黍": {
-      "english": "broomcorn millet; glutinous millet",
+      "english": "millet; glutinous millet",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "黎": {
@@ -65976,9 +67492,11 @@
     },
     "黑": {
       "english": "black; dark; evil, sinister",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "黔": {
@@ -66611,18 +68129,279 @@
         "dictionary.Txt"
       ]
     },
+    "龰": {
+      "english": "foot",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "龴": {
+      "english": "kneel",
+      "preferred": true,
+      "pinyin": "jié",
+      "sources": [
+        "editor"
+      ]
+    },
+    "龵": {
+      "english": "hand",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "龶": {
+      "english": "growing plant",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "龷": {
+      "english": "upper component",
+      "preferred": true,
+      "pinyin": "gòng",
+      "sources": [
+        "editor"
+      ]
+    },
+    "龸": {
+      "english": "small roof",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
     "龹": {
-      "english": "Form of 卷 used as a phonetic component",
+      "english": "curled hands",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
       ]
     },
     "龺": {
-      "english": "sunlight; the rays of the sun",
+      "english": "rising sun; the rays of the sun",
+      "preferred": true,
       "sources": [
         "dictionary.txt",
-        "dictionary.Txt"
+        "dictionary.Txt",
+        "editor"
+      ]
+    },
+    "𠀉": {
+      "english": "hand",
+      "preferred": true,
+      "pinyin": "no pinyin",
+      "sources": [
+        "editor"
+      ]
+    },
+    "𠂇": {
+      "english": "left hand",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "𠂉": {
+      "english": "short stroke",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "𠂋": {
+      "english": "cliff",
+      "preferred": true,
+      "pinyin": "no pinyin",
+      "sources": [
+        "editor"
+      ]
+    },
+    "𠂢": {
+      "english": "branch",
+      "preferred": true,
+      "pinyin": "pài",
+      "sources": [
+        "editor"
+      ]
+    },
+    "𠃊": {
+      "english": "bent stroke",
+      "preferred": true,
+      "pinyin": "none",
+      "sources": [
+        "editor"
+      ]
+    },
+    "𠃋": {
+      "english": "bent stroke",
+      "preferred": true,
+      "pinyin": "no pinyin",
+      "sources": [
+        "editor"
+      ]
+    },
+    "𠃌": {
+      "english": "bent hook",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "𠃍": {
+      "english": "",
+      "difficulty": 12.2126
+    },
+    "𠃓": {
+      "english": "curved form",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "𠃜": {
+      "english": "hanging chime",
+      "preferred": true,
+      "pinyin": "no pinyin",
+      "sources": [
+        "editor"
+      ]
+    },
+    "𠄌": {
+      "english": "bent stroke",
+      "preferred": true,
+      "pinyin": "no pinyin",
+      "sources": [
+        "editor"
+      ]
+    },
+    "𠆢": {
+      "english": "roof",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "𠘧": {
+      "english": "small table",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "𠚣": {
+      "english": "grain",
+      "preferred": true,
+      "pinyin": "no pinyin",
+      "sources": [
+        "editor"
+      ]
+    },
+    "𠤎": {
+      "english": "transform",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "𠤕": {
+      "english": "doubt",
+      "preferred": true,
+      "pinyin": "yí",
+      "sources": [
+        "editor"
+      ]
+    },
+    "𠬝": {
+      "english": "hand holding",
+      "preferred": true,
+      "pinyin": "no pinyin",
+      "sources": [
+        "editor"
+      ]
+    },
+    "𠬤": {
+      "english": "phonetic",
+      "preferred": true,
+      "pinyin": "yì",
+      "sources": [
+        "editor"
+      ]
+    },
+    "𠮛": {
+      "english": "opening",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "𡈼": {
+      "english": "upright",
+      "preferred": true,
+      "pinyin": "tǐng",
+      "sources": [
+        "editor"
+      ]
+    },
+    "𡗗": {
+      "english": "hands raised",
+      "preferred": true,
+      "pinyin": "none",
+      "sources": [
+        "editor"
+      ]
+    },
+    "𡨄": {
+      "english": "shelter",
+      "preferred": true,
+      "pinyin": "none",
+      "sources": [
+        "editor"
+      ]
+    },
+    "𢀖": {
+      "english": "loom frame",
+      "preferred": true,
+      "pinyin": "no pinyin",
+      "sources": [
+        "editor"
+      ]
+    },
+    "𢼸": {
+      "english": "",
+      "difficulty": 12.2126
+    },
+    "𣥂": {
+      "english": "footprint",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "𤣩": {
+      "english": "jade",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "𤴓": {
+      "english": "upright",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "𥃭": {
+      "english": "eye mark",
+      "preferred": true,
+      "pinyin": "none",
+      "sources": [
+        "editor"
       ]
     },
     "𦉫": {
@@ -66630,6 +68409,51 @@
       "sources": [
         "dictionary.txt",
         "dictionary.Txt"
+      ]
+    },
+    "𦍌": {
+      "english": "sheep",
+      "preferred": true,
+      "pinyin": "yáng",
+      "sources": [
+        "editor"
+      ]
+    },
+    "𧾷": {
+      "english": "foot",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "𫠣": {
+      "english": "bundled sticks",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "𰀁": {
+      "english": "growing hair",
+      "preferred": true,
+      "sources": [
+        "editor"
+      ]
+    },
+    "𰀡": {
+      "english": "firm",
+      "preferred": true,
+      "pinyin": "qiān",
+      "sources": [
+        "editor"
+      ]
+    },
+    "𰀢": {
+      "english": "shorthand",
+      "preferred": true,
+      "pinyin": "none",
+      "sources": [
+        "editor"
       ]
     }
   },

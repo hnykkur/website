@@ -1,0 +1,54 @@
+{
+  "了": [
+    {"pinyin": "le", "gloss": "completed action", "clip": "default"},
+    {"pinyin": "liǎo", "gloss": "to understand; can", "etymology": "了 liǎo “to understand; can” — the same wrapped-up child as the particle le; said as a full syllable it still means to bring something to an end, so 了解 is to understand it and 不了 is to be unable to finish it."}
+  ],
+  "乐": [
+    {"pinyin": "lè", "gloss": "happy", "clip": "default"},
+    {"pinyin": "yuè", "gloss": "music"}
+  ],
+  "长": [
+    {"pinyin": "zhǎng", "gloss": "to grow", "clip": "default"},
+    {"pinyin": "cháng", "gloss": "long"}
+  ],
+  "地": [
+    {"pinyin": "dì", "gloss": "earth", "clip": "default"},
+    {"pinyin": "de", "gloss": "adverb marker", "etymology": "地 de “adverb marker” — 土 tǔ “earth” plus phonetic 也 yě is dì “ground”; with no stress after an adjective, the same character only marks an adverb (慢慢地 màn màn de “slowly”)."}
+  ],
+  "觉": [
+    {"pinyin": "jué", "gloss": "to feel", "clip": "default"},
+    {"pinyin": "jiào", "gloss": "to sleep", "etymology": "觉 jiào “to sleep” — 见 jiàn “see” plus the phonetic of 学 xué gives jué “to feel, to wake”; jiào is the sleep in 睡觉, the state that waking comes out of. Simplified 覺 → 觉."}
+  ],
+  "着": [
+    {"pinyin": "zhe", "gloss": "ongoing", "clip": "default"},
+    {"pinyin": "zháo", "gloss": "to touch; to catch", "etymology": "着 zháo “to touch; to catch” — from 著 “to put on, to come into contact”; that contact gives 着火 “catch fire” and 着急 “anxiety catches you,” while unstressed zhe only marks an action still going on."}
+  ],
+  "便": [
+    {"pinyin": "biàn", "gloss": "convenient", "clip": "default"},
+    {"pinyin": "pián", "gloss": "cheap", "etymology": "便 pián “cheap” — 亻 rén “person” and 更 gēng “change” give biàn “convenient”; the same word, said pián yi, narrowed from “a convenient bargain” to “cheap.”"}
+  ],
+  "干": [
+    {"pinyin": "gān", "gloss": "dry", "clip": "default"},
+    {"pinyin": "gàn", "gloss": "to do"}
+  ],
+  "教": [
+    {"pinyin": "jiào", "gloss": "education", "clip": "default"},
+    {"pinyin": "jiāo", "gloss": "to teach"}
+  ],
+  "脏": [
+    {"pinyin": "zāng", "gloss": "dirty", "clip": "default"},
+    {"pinyin": "zàng", "gloss": "internal organ"}
+  ],
+  "和": [
+    {"pinyin": "hé", "gloss": "and", "clip": "default"},
+    {"pinyin": "huo", "gloss": "mild", "etymology": "和 huo “mild” — unstressed 和 after 暖 nuǎn or 软 ruǎn softens the adjective, as in 暖和 “nice and warm” and 软和 “soft.” Stressed hé is “and; harmony.”"}
+  ],
+  "曲": [
+    {"pinyin": "qū", "gloss": "bent", "clip": "default"},
+    {"pinyin": "qǔ", "gloss": "tune", "etymology": "曲 qǔ “tune” — the warped-board picture gives qū “bent”; a melody was taken as a line that bends, so qǔ is a tune or song (乐曲, 歌曲)."}
+  ],
+  "背": [
+    {"pinyin": "bèi", "gloss": "back", "clip": "default"},
+    {"pinyin": "bēi", "gloss": "to carry", "etymology": "背 bēi “to carry” — 北 běi pictured two people standing back to back, and ⺼ ròu “flesh” marks the body; bèi is that back, and bēi is to carry a load on it."}
+  ]
+}

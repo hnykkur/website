@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000.0 1000.0">
+  <style>
+    .ph-editable { fill: #72F2D0; fill-opacity: 1; opacity: 1; font-family: "Noto Sans SC", "Microsoft YaHei", sans-serif; }
+    g, path, text, rect, circle, ellipse, line, polyline, polygon {
+      opacity: 1; fill-opacity: 1; stroke-opacity: 1;
+    }
+  </style>
+  <g id="puzzlehanzi-editable" opacity="1">
+
+    <g
+       aria-label="北"
+       transform="scale(1.2567738,0.79568814)"
+       id="text26"
+       style="font-size:413.962px;font-family:'Noto Sans SC', 'Microsoft YaHei', sans-serif;text-anchor:middle;fill:#72f2d0;stroke-width:0.574946"
+       class="ph-editable">
+      <path
+         d="m 525.8498,426.54531 h 32.74504 v 136.84193 c 36.78764,-18.86545 71.14972,-39.55008 103.08624,-62.05387 l 20.21299,29.1067 c -29.10671,18.32644 -70.20645,40.76286 -123.29923,67.30925 v 148.56547 c 0,18.32644 10.10649,27.48966 30.31948,27.48966 h 28.29819 c 19.40446,0 30.31948,-9.16322 32.74504,-27.48966 2.42556,-16.97891 4.58161,-39.07845 6.46815,-66.2986 11.85828,4.85111 23.31231,9.16322 34.36208,12.93631 -2.69506,25.60312 -5.65963,47.43315 -8.89371,65.49008 -5.12063,30.72374 -24.12084,46.08561 -57.00063,46.08561 h -43.66005 c -36.9224,0 -55.38359,-18.19169 -55.38359,-54.57506 z M 109.11692,745.91053 c 35.1706,-12.12779 76.80936,-28.02868 124.91627,-47.70265 V 570.86605 H 117.60638 V 540.95082 H 234.03319 V 427.35383 h 32.74504 v 388.49364 h -32.74504 v -83.8839 c -25.87263,10.51075 -63.19928,25.80525 -111.97995,45.88348 z"
+         id="path370"
+         sodipodi:nodetypes="ccccccsssccccssscccccccccccccc" />
+    </g>
+    <text
+       class="ph-editable"
+       text-anchor="middle"
+       transform="scale(1.2567738,0.79568814)"
+       font-size="413.962px"
+       id="text321"
+       x="483.73517"
+       y="765.92139"
+       style="display:none;stroke-width:0.574946">北</text>
+  
+  </g>
+</svg>

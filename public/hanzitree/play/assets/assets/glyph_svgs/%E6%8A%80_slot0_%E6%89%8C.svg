@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- puzzlehanzi-fit=puzzle -->
+<svg xmlns="http://www.w3.org/2000/svg" data-puzzlehanzi-fit="puzzle" viewBox="0 0 1000.0 1000.0">
+  <metadata>puzzlehanzi-fit=puzzle</metadata>
+  <style>
+    .ph-editable { fill: #72F2D0; fill-opacity: 1; opacity: 1; font-family: "Noto Sans SC", "Microsoft YaHei", sans-serif; }
+    g, path, text, rect, circle, ellipse, line, polyline, polygon {
+      opacity: 1; fill-opacity: 1; stroke-opacity: 1;
+    }
+  </style>
+  <g id="puzzlehanzi-editable" opacity="1">
+    <path d="M 276.5048 220.3335 L 327.867 220.3335 L 327.867 795.7296 Q 327.867 817.9403 322.3144 829.7397 Q 316.7617 841.5391 302.88 847.7859 Q 288.9983 854.0327 266.4406 855.7679 Q 243.8828 857.5031 207.7904 856.809 Q 206.4023 847.0918 201.5437 833.5572 Q 196.6851 820.0225 191.8265 808.9172 Q 216.1194 809.6112 236.2479 809.6112 Q 256.3763 809.6112 263.3172 809.6112 Q 276.5048 809.6112 276.5048 795.7296 Z M 178.6389 587.5042 Q 207.7904 580.5634 244.5769 570.4991 Q 281.3634 560.4349 322.6614 548.9825 Q 363.9594 537.5301 404.9104 525.7307 L 411.8513 573.6225 Q 354.9363 590.9746 297.6744 607.6327 Q 240.4124 624.2907 193.9087 638.1724 Z M 186.9679 360.5386 L 404.9104 360.5386 L 404.9104 409.8186 L 186.9679 409.8186 Z"/>
+  </g>
+</svg>

@@ -9,4 +9,4 @@ You handle a wider band of **everyday contrasts** — gain/lose, far/near, old/n
 ## Next steps
 
 - Revisit low scores for **mastery**.
-- Try **Opposites III** when it opens on the skill tree.
+- Try **Opposites III** when it unlocks.

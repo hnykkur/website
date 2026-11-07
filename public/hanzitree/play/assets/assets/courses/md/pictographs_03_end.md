@@ -9,4 +9,4 @@ Recognition of **human and animal** forms that reappear as radicals and IDS leav
 ## Keep going
 
 - Return for **mastery** (stronger scores per glyph).
-- Pair with **Radicals III** and **Foundations III** on the skill tree.
+- Pair with **Radicals III** and **Foundations III**.

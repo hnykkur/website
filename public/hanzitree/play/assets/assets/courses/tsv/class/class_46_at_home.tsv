@@ -1,0 +1,57 @@
+# Class Tree At home: one scene per room. Kitchen (class_28) stays the table.
+hanzi	pinyin	english	example_word	etymology	uncle_hanzi	uncle_decomp	dictionary_entries	scene_id	slot_id	scene_title
+客厅	kètīng	living room	客厅					living_room		1
+沙发	shāfā	sofa	沙发					living_room	s1	
+茶几	chájī	coffee table	茶几					living_room	s2	
+电视	diànshì	television	电视					living_room	s3	
+地毯	dìtǎn	carpet	地毯					living_room	s4	
+窗帘	chuānglián	curtain	窗帘					living_room	s5	
+窗户	chuānghu	window	窗户					living_room	s6	
+空调	kōngtiáo	air conditioner	空调					living_room	s7	
+阳台	yángtái	balcony	阳台					living_room	s8	
+落地灯	luòdìdēng	floor lamp	落地灯					living_room	s9	
+画	huà	painting	画					living_room	s10	
+卧室	wòshì	bedroom	卧室					bedroom		1
+床	chuáng	bed	床					bedroom	s1	
+枕头	zhěntou	pillow	枕头					bedroom	s2	
+被子	bèizi	quilt	被子					bedroom	s3	
+毯子	tǎnzi	blanket	毯子					bedroom	s4	
+床单	chuángdān	bed sheet	床单					bedroom	s5	
+衣柜	yīguì	wardrobe	衣柜					bedroom	s6	
+床头柜	chuángtóuguì	nightstand	床头柜					bedroom	s7	
+闹钟	nàozhōng	alarm clock	闹钟					bedroom	s8	
+拖鞋	tuōxié	slippers	拖鞋					bedroom	s9	
+抽屉	chōuti	drawer	抽屉					bedroom	s10	
+厨房	chúfáng	kitchen	厨房					kitchen		1
+炉灶	lúzào	stove	炉灶					kitchen	s1	
+水槽	shuǐcáo	kitchen sink	水槽					kitchen	s2	
+冰箱	bīngxiāng	refrigerator	冰箱					kitchen	s3	
+橱柜	chúguì	cupboard	橱柜					kitchen	s4	
+台面	táimiàn	countertop	台面					kitchen	s5	
+水龙头	shuǐlóngtóu	faucet	水龙头					kitchen	s6	
+微波炉	wēibōlú	microwave	微波炉					kitchen	s7	
+烤箱	kǎoxiāng	oven	烤箱					kitchen	s8	
+油烟机	yóuyānjī	range hood	油烟机					kitchen	s9	
+锅	guō	pot	锅					kitchen	s10	
+书房	shūfáng	study	书房					study		1
+书桌	shūzhuō	desk	书桌					study	s1	
+椅子	yǐzi	chair	椅子					study	s2	
+台灯	táidēng	desk lamp	台灯					study	s3	
+书架	shūjià	bookshelf	书架					study	s4	
+电脑	diànnǎo	computer	电脑					study	s5	
+书	shū	book	书					study	s6	
+笔记本	bǐjìběn	notebook	笔记本					study	s7	
+笔	bǐ	pen	笔					study	s8	
+日历	rìlì	calendar	日历					study	s9	
+地球仪	dìqiúyí	globe	地球仪					study	s10	
+浴室	yùshì	bathroom	浴室					bathroom		1
+洗手池	xǐshǒuchí	bathroom sink	洗手池					bathroom	s1	
+马桶	mǎtǒng	toilet	马桶					bathroom	s2	
+淋浴	línyù	shower	淋浴					bathroom	s3	
+镜子	jìngzi	mirror	镜子					bathroom	s4	
+毛巾	máojīn	towel	毛巾					bathroom	s5	
+浴缸	yùgāng	bathtub	浴缸					bathroom	s6	
+牙刷	yáshuā	toothbrush	牙刷					bathroom	s7	
+牙膏	yágāo	toothpaste	牙膏					bathroom	s8	
+洗发水	xǐfàshuǐ	shampoo	洗发水					bathroom	s9	
+香皂	xiāngzào	bar of soap	香皂					bathroom	s10	

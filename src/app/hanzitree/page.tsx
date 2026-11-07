@@ -3,8 +3,8 @@ import Link from "next/link";
 import { Container } from "@/components/ui/Container";
 import { site } from "@/lib/site";
 
-/** Same release on the web, iPhone, Android, macOS, and Windows. */
-const appVersion = "1.0.0 (5)";
+/** Browser copy. Store builds can be a different build number. */
+const appVersion = "1.3.0 (10)";
 
 const installs = [
   {
@@ -95,8 +95,7 @@ export default function HanziTreePage() {
           cannot use any of the other platforms.
         </p>
         <p className="mt-4 max-w-xl text-base text-foreground">
-          Install version {appVersion}. It is the same release on the web,
-          iPhone, Android, macOS, and Windows.
+          The browser copy is version {appVersion}.
         </p>
         <ul className="mt-6 grid max-w-3xl grid-cols-2 gap-4 sm:grid-cols-4">
           {installs.map((install) => (

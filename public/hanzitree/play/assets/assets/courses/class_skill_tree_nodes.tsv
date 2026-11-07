@@ -7,8 +7,8 @@
 #     word lists). Memorize characters. TSV is a word bucket, not sentences.
 #   cloze = grammar drills and topic-companion sentence drills. Fill a blank.
 # Topic vocab (Family … Feelings) ships with a companion cloze spur except
-# Greetings, Basics, Nationalities, and Work places (Talk about work covers
-# Job titles and Work places). Grammar glue (很, 觉得, 在, 去) stays on cloze
+# Greetings, Basics, Nationalities, Work places (Talk about work covers
+# Job titles and Work places), and At home. Grammar glue (很, 觉得, 在, 去) stays on cloze
 # unless the vocab set is specifically those words (Basics).
 # Companion cloze size: 20 sentences covering the paired vocab as blanks,
 # not a four-word sample; 30 when 很 / 太 are mixed into the blank list, or
@@ -18,55 +18,72 @@
 # cloze = Question words, Negation, Modals, A-not-A, Adverbs, Connectors,
 # Predicates, This and that, Prepositions, Directionals, Time, Towards, Tense,
 # and topic companions (Talk about …, plus Table talk).
+# idiom = Idioms 1 and Idioms 2. English situation, pick the idiom.
 # unlocked: 1 = eligible once graph unlock rules pass
 # content_tsv: class starter set (copied into new files; existing courses are untouched)
-# List order = row order. Filenames are class_NN_topic.tsv.
+# List order = row order. Filename number is that list number (class_04 is the 4th lesson). Nationalities is 36 and has no TSV, so the next file is class_37.
 # icon: key from TopicCategoryIcon.byKey (food, palette, greetings, …). Blank = match title.
 # Companion cloze list rows show the paired vocab icon plus the talk/chat icon.
+# Scene study sets (Body parts scene, Clothes scene, At home) and photo sets
+# (Weather, Family, Job titles) are still vocab. They play only those rows.
+# The list title matches the category lesson. Scene cards and photo cards
+# both show the photo icon beside the category icon. No companion cloze,
+# and no listening or sentence twin.
+# Vocab and cloze cards split into listening and sentence lessons in the app.
+# Stars show progress and do not change the puzzle.
 # examples: list-view preview on the same line as the title (map bubbles stay [title]).
 # Comma = vocab list; slash = contrasting cloze fillers. More than 3 items → first 3 plus ..
 #
 sm_label	id	title	icon	unlocked	progress_source	game_mode	exercise_id	content_tsv	examples
 Greetings	class_greetings	Say hello	greetings	1	none	compounds	class_greetings	assets/courses/tsv/class/class_01_greetings.tsv	你好,谢谢,再见,请问
 Basics	class_basics	Basics	book	1	none	foundations	class_basics	assets/courses/tsv/class/class_02_basics.tsv	我,你,是,他
-Negation	class_bu_mei_bie	Negation	grammar	1	none	cloze	class_bu_mei_bie	assets/courses/tsv/class/class_20_bu_mei_bie.tsv	不/没/别
-Modals	class_modals	Modals	grammar	1	none	cloze	class_modals	assets/courses/tsv/class/class_21_modals.tsv	会/想/要/可以
-Question words	class_question_words	Question words	grammar	1	none	cloze	class_question_words	assets/courses/tsv/class/class_03_question_words.tsv	谁/什么/哪/几
-A-not-A	class_x_bu_x	A-not-A	grammar	1	none	cloze	class_x_bu_x	assets/courses/tsv/class/class_16_x_bu_x.tsv	对不对,好不好,是不是,饿不饿
-Adverbs	class_adverbs	Adverbs	grammar	1	none	cloze	class_adverbs	assets/courses/tsv/class/class_17_adverbs.tsv	也,常常,非常,比较
-Connectors	class_connectors	Connectors	grammar	1	none	cloze	class_connectors	assets/courses/tsv/class/class_18_connectors.tsv	和/还是/比/没有
-Predicates	class_shi_hen	Predicates	grammar	1	none	cloze	class_shi_hen	assets/courses/tsv/class/class_19_shi_hen.tsv	是/很/最
-This and that	class_this_and_that	This and that	opposites	1	none	cloze	class_this_and_that	assets/courses/tsv/class/class_22_demonstratives.tsv	这个/那个/这些/那些
-Prepositions	class_prepositions	Prepositions	grammar	1	none	cloze	class_prepositions	assets/courses/tsv/class/class_23_prepositions.tsv	在/跟/给/从
-Directionals	class_directionals	Directionals	grammar	1	none	cloze	class_directionals	assets/courses/tsv/class/class_24_directionals.tsv	前面/后面/旁边/外面
-Time	class_time	Time	time	1	none	cloze	class_time	assets/courses/tsv/class/class_25_time_words.tsv	明天/后天/星期天/星期一
-Towards	class_towards	Towards	grammar	1	none	cloze	class_towards	assets/courses/tsv/class/class_26_towards.tsv	左/右/前/后
-Family	class_family	Family	family	1	none	foundations	class_family	assets/courses/tsv/class/class_05_family.tsv	爸爸,妈妈,家,哥哥
-Talk about family	class_family_cloze	Talk about family	grammar	1	none	cloze	class_family_cloze	assets/courses/tsv/class/class_29_family_cloze.tsv	爸爸/妈妈/哥哥/姐姐
-Job titles	class_work	Job titles	work	1	none	foundations	class_work	assets/courses/tsv/class/class_06_work.tsv	老师,学生,工作,医生
-Work places	class_work_places	Work places	city	1	none	foundations	class_work_places	assets/courses/tsv/class/class_41_work_places.tsv	办公室,工厂,超市,银行
-Talk about work	class_work_cloze	Talk about work	grammar	1	none	cloze	class_work_cloze	assets/courses/tsv/class/class_30_work_cloze.tsv	老师/办公室/工厂/超市
-Appearance	class_appearance	Appearance	appearance	1	none	foundations	class_appearance	assets/courses/tsv/class/class_07_appearance.tsv	漂亮,丑,胖,瘦
-Talk about appearances	class_appearance_cloze	Talk about appearances	grammar	1	none	cloze	class_appearance_cloze	assets/courses/tsv/class/class_31_appearance_cloze.tsv	很/太/漂亮/帅
-Body parts	class_body_parts	Body parts	body	1	none	foundations	class_body_parts	assets/courses/tsv/class/class_42_body_parts.tsv	头,手,脚,肚子
-Talk about body parts	class_body_parts_cloze	Talk about body parts	grammar	1	none	cloze	class_body_parts_cloze	assets/courses/tsv/class/class_43_body_parts_cloze.tsv	头/脚/肚子/手
-Personality	class_personality	Personality	personality	1	none	foundations	class_personality	assets/courses/tsv/class/class_28_personality.tsv	聪明,幽默,努力,懒
-Talk about personality	class_personality_cloze	Talk about personality	grammar	1	none	cloze	class_personality_cloze	assets/courses/tsv/class/class_32_personality_cloze.tsv	聪明/幽默/努力/懒
-Colors	class_colors	Colors	palette	1	none	foundations	class_colors	assets/courses/tsv/class/class_08_colors.tsv	红色,黄色,蓝色,绿色
-Talk about colors	class_colors_cloze	Talk about colors	grammar	1	none	cloze	class_colors_cloze	assets/courses/tsv/class/class_33_colors_cloze.tsv	红色/黄色/蓝色/绿色
-Food	class_food	Food	food	1	none	foundations	class_food	assets/courses/tsv/class/class_09_food.tsv	吃,喝,茶,水
-Talk about food	class_food_cloze	Talk about food	grammar	1	none	cloze	class_food_cloze	assets/courses/tsv/class/class_34_food_cloze.tsv	甜/辣/好吃/茶
-Kitchen	class_kitchen	Kitchen	kitchen	1	none	foundations	class_kitchen	assets/courses/tsv/class/class_27_kitchen.tsv	菜单,筷子,碗,汤
-Table talk	class_kitchen_cloze	Table talk	grammar	1	none	cloze	class_kitchen_cloze	assets/courses/tsv/class/class_35_kitchen_cloze.tsv	筷子/汤/好吃/菜单
-Hobbies	class_hobbies	Hobbies	hobbies	1	none	foundations	class_hobbies	assets/courses/tsv/class/class_10_hobbies.tsv	喜欢,电影,游泳,音乐
-Talk about hobbies	class_hobbies_cloze	Talk about hobbies	grammar	1	none	cloze	class_hobbies_cloze	assets/courses/tsv/class/class_36_hobbies_cloze.tsv	也/一起/篮球/喜欢
-Places	class_places	Places	travel	1	none	foundations	class_places	assets/courses/tsv/class/class_11_places.tsv	学校,商店,医院,公司
+Negation	class_bu_mei_bie	Negation	puzzle	1	none	cloze	class_bu_mei_bie	assets/courses/tsv/class/class_03_bu_mei_bie.tsv	不/没/别
+Predicates	class_shi_hen	Predicates	puzzle	1	none	cloze	class_shi_hen	assets/courses/tsv/class/class_04_shi_hen.tsv	是/很/最
+Body parts	class_body_parts	Body parts	body	1	none	foundations	class_body_parts	assets/courses/tsv/class/class_05_body_parts.tsv	头,手,脚,肚子
+Body parts scene	class_body_parts_scenes	Body parts	body	1	none	foundations	class_body_parts_scenes	assets/courses/tsv/class/class_05_body_parts.tsv	脸,头,身体,手
+Talk about body parts	class_body_parts_cloze	Talk about body parts	grammar	1	none	cloze	class_body_parts_cloze	assets/courses/tsv/class/class_06_body_parts_cloze.tsv	头/脚/肚子/手
+Connectors	class_connectors	Connectors	puzzle	1	none	cloze	class_connectors	assets/courses/tsv/class/class_07_connectors.tsv	和/还是/比/没有
+Family	class_family	Family	family	1	none	foundations	class_family	assets/courses/tsv/class/class_08_family.tsv	爸爸,妈妈,朋友,邻居
+Family photos	class_family_photos	Family	family	1	none	foundations	class_family_photos	assets/courses/tsv/class/class_08_family.tsv	哥哥,爸爸,妈妈,姐姐
+Talk about family	class_family_cloze	Talk about family	grammar	1	none	cloze	class_family_cloze	assets/courses/tsv/class/class_09_family_cloze.tsv	爸爸/妈妈/朋友/同学
+People I know	class_people_i_know	People I know	family	1	none	cloze	class_people_i_know		
+Adverbs	class_adverbs	Adverbs	puzzle	1	none	cloze	class_adverbs	assets/courses/tsv/class/class_10_adverbs.tsv	也,常常,非常,比较
+Feelings	class_feelings	Feelings	feeling	1	none	foundations	class_feelings	assets/courses/tsv/class/class_11_feelings.tsv	高兴,紧张,累,饿
+Talk about feelings	class_feelings_cloze	Talk about feelings	grammar	1	none	cloze	class_feelings_cloze	assets/courses/tsv/class/class_12_feelings_cloze.tsv	高兴/累/特别/几乎
+A-not-A	class_x_bu_x	A-not-A	puzzle	1	none	cloze	class_x_bu_x	assets/courses/tsv/class/class_13_x_bu_x.tsv	对不对,好不好,是不是,饿不饿
+Hobbies	class_hobbies	Hobbies	hobbies	1	none	foundations	class_hobbies	assets/courses/tsv/class/class_14_hobbies.tsv	喜欢,电影,游泳,音乐
+Talk about hobbies	class_hobbies_cloze	Talk about hobbies	grammar	1	none	cloze	class_hobbies_cloze	assets/courses/tsv/class/class_15_hobbies_cloze.tsv	也/一起/篮球/喜欢
+Question words	class_question_words	Question words	puzzle	1	none	cloze	class_question_words	assets/courses/tsv/class/class_16_question_words.tsv	谁/什么/哪/几
+Personality	class_personality	Personality	personality	1	none	foundations	class_personality	assets/courses/tsv/class/class_17_personality.tsv	聪明,幽默,努力,懒
+Talk about personality	class_personality_cloze	Talk about personality	grammar	1	none	cloze	class_personality_cloze	assets/courses/tsv/class/class_18_personality_cloze.tsv	聪明/幽默/努力/懒
+This and that	class_this_and_that	This and that	puzzle	1	none	cloze	class_this_and_that	assets/courses/tsv/class/class_19_demonstratives.tsv	这个/那个/这些/那些
+Appearance	class_appearance	Appearance	appearance	1	none	foundations	class_appearance	assets/courses/tsv/class/class_20_appearance.tsv	漂亮,丑,胖,瘦
+Talk about appearances	class_appearance_cloze	Talk about appearances	grammar	1	none	cloze	class_appearance_cloze	assets/courses/tsv/class/class_21_appearance_cloze.tsv	很/太/漂亮/帅
+Time	class_time	Time	puzzle	1	none	cloze	class_time	assets/courses/tsv/class/class_22_time_words.tsv	明天/后天/星期天/星期一
+Weather	class_weather	Weather	weather	1	none	foundations	class_weather	assets/courses/tsv/class/class_23_weather.tsv	天气,热,下雨,晴天
+Weather photos	class_weather_photos	Weather	weather	1	none	foundations	class_weather_photos	assets/courses/tsv/class/class_47_weather_photos.tsv	晴天,阴天,多云,下雨
+Talk about weather	class_weather_cloze	Talk about weather	grammar	1	none	cloze	class_weather_cloze	assets/courses/tsv/class/class_24_weather_cloze.tsv	暴风雨/晴天/热/突然
+Food	class_food	Food	food	1	none	foundations	class_food	assets/courses/tsv/class/class_25_food.tsv	吃,喝,茶,水
+Talk about food	class_food_cloze	Talk about food	grammar	1	none	cloze	class_food_cloze	assets/courses/tsv/class/class_26_food_cloze.tsv	甜/辣/好吃/茶
+Modals	class_modals	Modals	puzzle	1	none	cloze	class_modals	assets/courses/tsv/class/class_27_modals.tsv	会/想/要/可以
+Kitchen	class_kitchen	Kitchen	kitchen	1	none	foundations	class_kitchen	assets/courses/tsv/class/class_28_kitchen.tsv	菜单,筷子,碗,汤
+Table talk	class_kitchen_cloze	Table talk	grammar	1	none	cloze	class_kitchen_cloze	assets/courses/tsv/class/class_29_kitchen_cloze.tsv	筷子/汤/好吃/菜单
+At home	class_at_home	At home	home	1	none	foundations	class_at_home	assets/courses/tsv/class/class_46_at_home.tsv	沙发,床,冰箱,书桌
+Prepositions	class_prepositions	Prepositions	puzzle	1	none	cloze	class_prepositions	assets/courses/tsv/class/class_30_prepositions.tsv	在/跟/给/从
+Job titles	class_work	Job titles	work	1	none	foundations	class_work	assets/courses/tsv/class/class_31_work.tsv	老师,学生,工作,医生
+Job title photos	class_work_photos	Job titles	work	1	none	foundations	class_work_photos	assets/courses/tsv/class/class_31_work.tsv	工程师,老板,老师,医生
+Work places	class_work_places	Work places	city	1	none	foundations	class_work_places	assets/courses/tsv/class/class_32_work_places.tsv	办公室,工厂,超市,银行
+Talk about work	class_work_cloze	Talk about work	grammar	1	none	cloze	class_work_cloze	assets/courses/tsv/class/class_33_work_cloze.tsv	老师/办公室/工厂/超市
+Directionals	class_directionals	Directionals	directionals	1	none	cloze	class_directionals	assets/courses/tsv/class/class_34_directionals.tsv	前面/后面/旁边/外面
+Places	class_places	Places	travel	1	none	foundations	class_places	assets/courses/tsv/class/class_35_places.tsv	学校,商店,医院,公司
 Nationalities	class_nationalities	Nationalities	map	1	none	foundations	class_nationalities		中国,美国,英国,法国
 Talk about places	class_places_cloze	Talk about places	grammar	1	none	cloze	class_places_cloze	assets/courses/tsv/class/class_37_places_cloze.tsv	学校/商店/医院/公司
-Clothes	class_clothes	Clothes	shop	1	none	foundations	class_clothes	assets/courses/tsv/class/class_12_clothes.tsv	衣服,旗袍,唐装,汉服
-Talk about clothes	class_clothes_cloze	Talk about clothes	grammar	1	none	cloze	class_clothes_cloze	assets/courses/tsv/class/class_38_clothes_cloze.tsv	帽子/裤子/恤/试
-Weather	class_weather	Weather	weather	1	none	foundations	class_weather	assets/courses/tsv/class/class_13_weather.tsv	天气,热,下雨,晴天
-Talk about weather	class_weather_cloze	Talk about weather	grammar	1	none	cloze	class_weather_cloze	assets/courses/tsv/class/class_39_weather_cloze.tsv	暴风雨/晴天/热/突然
-Feelings	class_feelings	Feelings	feeling	1	none	foundations	class_feelings	assets/courses/tsv/class/class_14_feelings.tsv	高兴,紧张,累,饿
-Talk about feelings	class_feelings_cloze	Talk about feelings	grammar	1	none	cloze	class_feelings_cloze	assets/courses/tsv/class/class_40_feelings_cloze.tsv	高兴/累/特别/几乎
-Tense	class_tense	Tense	time	1	none	cloze	class_tense	assets/courses/tsv/class/class_15_tense.tsv	了/过/要/会
+Towards	class_towards	Towards	towards	1	none	cloze	class_towards	assets/courses/tsv/class/class_38_towards.tsv	左/右/前/后
+Colors	class_colors	Colors	palette	1	none	foundations	class_colors	assets/courses/tsv/class/class_39_colors.tsv	红色,黄色,蓝色,绿色
+Talk about colors	class_colors_cloze	Talk about colors	grammar	1	none	cloze	class_colors_cloze	assets/courses/tsv/class/class_40_colors_cloze.tsv	红色/黄色/蓝色/绿色
+Tense	class_tense	Tense	puzzle	1	none	cloze	class_tense	assets/courses/tsv/class/class_41_tense.tsv	了/过/要/会
+Clothes	class_clothes	Clothes	shop	1	none	foundations	class_clothes	assets/courses/tsv/class/class_42_clothes.tsv	衣服,旗袍,唐装,汉服
+Clothes scene	class_clothes_scenes	Clothes	shop	1	none	foundations	class_clothes_scenes	assets/courses/tsv/class/class_42_clothes.tsv	衣服,旗袍,帽子,鞋子
+Talk about clothes	class_clothes_cloze	Talk about clothes	grammar	1	none	cloze	class_clothes_cloze	assets/courses/tsv/class/class_43_clothes_cloze.tsv	帽子/裤子/恤/试
+Idioms 1	class_idioms_1	Idioms 1	legend	1	none	idiom	class_idioms_1	assets/courses/tsv/class/class_44_idioms_1.tsv	千千万万,四面八方,小心翼翼,莫名其妙
+Idioms 2	class_idioms_2	Idioms 2	legend	1	none	idiom	class_idioms_2	assets/courses/tsv/class/class_45_idioms_2.tsv	一丝不苟,来之不易,供不应求,络绎不绝

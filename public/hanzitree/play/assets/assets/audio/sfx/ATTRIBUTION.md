@@ -6,6 +6,12 @@
 - License: Creative Commons 0 (CC0) on Freesound; author profile also notes CC BY attribution preferences — credited here in good faith
 - Notes: HQ preview converted to mono 44.1 kHz WAV for editing
 
+## `no_pinyin.wav`
+
+- Source: synthesized for this app (soft downward sine bleep, mono 44.1 kHz)
+- License: original
+- Notes: plays when a component has no reading, in place of speech
+
 ## `answer_incorrect.wav`
 
 - Source: [Basic Click Wooden](https://freesound.org/people/GameAudio/sounds/220200/) by [GameAudio](https://freesound.org/people/GameAudio/)

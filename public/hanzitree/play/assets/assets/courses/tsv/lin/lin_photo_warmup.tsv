@@ -1,0 +1,507 @@
+# Lin photo-lesson rows. Descriptions: LinLessons/photo_sets.md
+# reuse_photo_id: same file as that photo_id (do not shoot twice).
+# acquired: 1 once the unique file is in hand (reuse rows inherit).
+level	lesson	set_id	hanzi	pinyin	english	photo_id	description	reuse_photo_id	acquired
+1	02	lin_book_1_lesson_02	爸爸	bà bà	dad	father	Dad		1
+1	02	lin_book_1_lesson_02	妈妈	mā mā	mom	mother	Mom		1
+1	02	lin_book_1_lesson_02	他	tā	he	man	He		1
+1	02	lin_book_1_lesson_02	男	nán	male	male	Male		1
+1	02	lin_book_1_lesson_02	朋友	péng yǒu	friend	friends	Friend		1
+1	02	lin_book_1_lesson_02	哥哥	gē gē	elder brother	older_brother	Elder brother		1
+1	02	lin_book_1_lesson_02	咖啡	kā fēi	coffee	coffee	Coffee		1
+1	02	lin_book_1_lesson_02	弟弟	dì dì	younger brother	younger_brother	Younger brother		1
+1	02	lin_book_1_lesson_02	喝	hē	to drink	drinking	To drink		1
+1	03	lin_book_1_lesson_03	她	tā	she	woman	She		1
+1	03	lin_book_1_lesson_03	人	rén	person	person	Person		1
+1	03	lin_book_1_lesson_03	老师	lǎo shī	teacher	teacher	Teacher		1
+1	03	lin_book_1_lesson_03	中国	zhōng guó	China	china	China		1
+1	03	lin_book_1_lesson_03	他	tā	he	man	He	man	1
+1	03	lin_book_1_lesson_03	医生	yī shēng	doctor	doctor	Doctor		1
+1	03	lin_book_1_lesson_03	奶奶	nǎi nǎi	paternal grandmother	grandmother	Paternal grandmother		1
+1	03	lin_book_1_lesson_03	外婆	wài pó	maternal grandmother	maternal_grandmother	Maternal grandmother		1
+1	04	lin_book_1_lesson_04	朋友	péng yǒu	friend	friends	Friend	friends	1
+1	04	lin_book_1_lesson_04	记者	jì zhě	reporter	reporter	Reporter		1
+1	04	lin_book_1_lesson_04	学院	xué yuàn	college	university	College		1
+1	04	lin_book_1_lesson_04	学生	xué shēng	student	student	Student		1
+1	04	lin_book_1_lesson_04	学习	xué xí	to study	studying	To study		1
+1	04	lin_book_1_lesson_04	英国	yīng guó	Britain	britain	Britain		1
+1	04	lin_book_1_lesson_04	加拿大	jiā ná dà	Canada	canada	Canada		1
+1	04	lin_book_1_lesson_04	美国	měi guó	the United States	usa	The United States		1
+1	04	lin_book_1_lesson_04	法国	fǎ guó	France	france	France		1
+1	04	lin_book_1_lesson_04	德国	dé guó	Germany	germany	Germany		1
+1	04	lin_book_1_lesson_04	俄罗斯	é luō sī	Russia	russia	Russia		1
+1	04	lin_book_1_lesson_04	日本	rì běn	Japan	japan	Japan		1
+1	05	lin_book_1_lesson_05	餐厅	cān tīng	dining hall	dining_hall	Dining hall		1
+1	05	lin_book_1_lesson_05	宿舍	sù shě	dormitory	dorm	Dormitory		1
+1	05	lin_book_1_lesson_05	女	nǚ	female	woman	Female	woman	1
+1	05	lin_book_1_lesson_05	学生	xué shēng	student	student	Student	student	1
+1	05	lin_book_1_lesson_05	坐	zuò	to sit	sitting	To sit		1
+1	05	lin_book_1_lesson_05	小姐	xiǎo jiě	young lady	young_woman	Young lady		1
+1	06	lin_book_1_lesson_06	游泳	yóu yǒng	to swim	swimming	To swim		1
+1	06	lin_book_1_lesson_06	京剧	jīng jù	Beijing opera	peking_opera	Beijing opera		1
+1	06	lin_book_1_lesson_06	说	shuō	to speak	speaking	To speak		1
+1	06	lin_book_1_lesson_06	打球	dǎ qiú	to play ball	playing_ball	To play ball		1
+1	06	lin_book_1_lesson_06	球	qiú	ball	ball	Ball		1
+1	06	lin_book_1_lesson_06	时间	shí jiān	time	clocks	Time		1
+1	07	lin_book_1_lesson_07	名片	míng piàn	business card	business_card	Business card		1
+1	07	lin_book_1_lesson_07	教授	jiào shòu	professor	professor	Professor		1
+1	07	lin_book_1_lesson_07	爸爸	bà bà	dad	father	Dad	father	1
+1	07	lin_book_1_lesson_07	学习	xué xí	to study	studying	To study	studying	1
+1	07	lin_book_1_lesson_07	学院	xué yuàn	college	university	College	university	1
+1	07	lin_book_1_lesson_07	音乐	yīn yuè	music	music	Music		1
+1	08	lin_book_1_lesson_08	家	jiā	family	family	Family		1
+1	08	lin_book_1_lesson_08	照片	zhào piàn	photo	photograph	Photo		1
+1	08	lin_book_1_lesson_08	姐姐	jiě jiě	elder sister	older_sister	Elder sister		1
+1	08	lin_book_1_lesson_08	弟弟	dì dì	younger brother	younger_brother	Younger brother	younger_brother	1
+1	08	lin_book_1_lesson_08	妹妹	mèi mèi	younger sister	younger_sister	Younger sister		1
+1	08	lin_book_1_lesson_08	狗	gǒu	dog	dog	Dog		1
+1	08	lin_book_1_lesson_08	男	nán	male	man	Male	man	1
+1	08	lin_book_1_lesson_08	工作	gōng zuò	work	job_office_worker	Work		1
+1	08	lin_book_1_lesson_08	车	chē	vehicle	car	Vehicle		1
+1	08	lin_book_1_lesson_08	电脑	diàn nǎo	computer	computer	Computer		1
+1	08	lin_book_1_lesson_08	词典	cí diǎn	dictionary	dictionary	Dictionary		1
+1	08	lin_book_1_lesson_08	孩子	hái zi	child	child	Child		1
+1	08	lin_book_1_lesson_08	律师	lǜ shī	lawyer	job_lawyer	Lawyer		1
+1	08	lin_book_1_lesson_08	工程师	gōng chéng shī	engineer	job_engineer	Engineer		1
+1	08	lin_book_1_lesson_08	爷爷	yé yé	paternal grandfather	grandfather	Paternal grandfather		1
+1	08	lin_book_1_lesson_08	外公	wài gōng	maternal grandfather	maternal_grandfather	Maternal grandfather		1
+1	09	lin_book_1_lesson_09	生日	shēng rì	birthday	birthday	Birthday		1
+1	09	lin_book_1_lesson_09	吃	chī	to eat	eating	To eat		1
+1	09	lin_book_1_lesson_09	蛋糕	dàn gāo	cake	cake	Cake		1
+1	09	lin_book_1_lesson_09	蛋	dàn	egg	egg	Egg		1
+1	09	lin_book_1_lesson_09	买	mǎi	to buy	buying	To buy		1
+1	09	lin_book_1_lesson_09	红	hóng	red	red	Red		1
+1	09	lin_book_1_lesson_09	葡萄	pú táo	grape	grapes	Grape		1
+1	09	lin_book_1_lesson_09	红葡萄酒	hóng pú táo jiǔ	red wine	red_wine	Red wine		1
+1	09	lin_book_1_lesson_09	北京	běi jīng	Beijing	beijing	Beijing		1
+1	09	lin_book_1_lesson_09	烤鸭	kǎo yā	roast duck	roast_duck	Roast duck		1
+1	09	lin_book_1_lesson_09	喝	hē	to drink	drinking	To drink	drinking	1
+1	09	lin_book_1_lesson_09	面	miàn	noodles	noodles	Noodles		1
+1	09	lin_book_1_lesson_09	晚上	wǎn shàng	evening	evening	Evening		1
+1	09	lin_book_1_lesson_09	女儿	nǚ ér	daughter	daughter	Daughter		1
+1	09	lin_book_1_lesson_09	儿子	ér zi	son	son	Son		1
+1	09	lin_book_1_lesson_09	茶	chá	tea	tea	Tea		1
+1	09	lin_book_1_lesson_09	米饭	mǐ fàn	cooked rice	rice	Cooked rice		1
+1	09	lin_book_1_lesson_09	可乐	kě lè	coke	cola	Coke		1
+1	09	lin_book_1_lesson_09	啤酒	pí jiǔ	beer	beer	Beer		1
+1	09	lin_book_1_lesson_09	牛奶	niú nǎi	milk	milk	Milk		1
+1	09	lin_book_1_lesson_09	汉堡	hàn bǎo	hamburger	hamburger	Hamburger		1
+1	09	lin_book_1_lesson_09	热狗	rè gǒu	hotdog	hotdog	Hotdog		1
+1	09	lin_book_1_lesson_09	面包	miàn bāo	bread	bread	Bread		1
+1	09	lin_book_1_lesson_09	店	diàn	shop	shop	Shop		1
+1	10	lin_book_1_lesson_10	光盘	guāng pán	CD	cd	CD		1
+1	10	lin_book_1_lesson_10	音乐	yīn yuè	music	music	Music	music	1
+1	10	lin_book_1_lesson_10	商场	shāngchǎng	shopping mall	mall	Shopping mall		1
+1	10	lin_book_1_lesson_10	书	shū	book	book	Book		1
+1	10	lin_book_1_lesson_10	报纸	bào zhǐ	newspaper	newspaper	Newspaper		1
+1	10	lin_book_1_lesson_10	本子	běn zi	notebook	notebook	Notebook		1
+1	10	lin_book_1_lesson_10	香蕉	xiāng jiāo	banana	banana	Banana		1
+1	10	lin_book_1_lesson_10	苹果	píng guǒ	apple	apple	Apple		1
+1	10	lin_book_1_lesson_10	葡萄	pú táo	grape	grapes	Grape	grapes	1
+1	10	lin_book_1_lesson_10	钱	qián	money	money	Money		1
+1	10	lin_book_1_lesson_10	售货员	shòu huò yuán	shop assistant	job_salesperson	Shop assistant		1
+1	10	lin_book_1_lesson_10	书店	shū diàn	bookstore	bookstore	Bookstore		1
+1	10	lin_book_1_lesson_10	体育馆	tǐ yù guǎn	gym	gym	Gym		1
+1	10	lin_book_1_lesson_10	公园	gōng yuán	park	park	Park		1
+1	10	lin_book_1_lesson_10	笔	bǐ	pen	pen	Pen		1
+1	10	lin_book_1_lesson_10	功夫	gōng fū	kung fu	kung_fu	Kung fu		1
+1	11	lin_book_1_lesson_11	司机	sī jī	driver	driver	Driver		1
+1	11	lin_book_1_lesson_11	女儿	nǚ ér	daughter	daughter	Daughter	daughter	1
+1	11	lin_book_1_lesson_11	孙女儿	sūn nǚ	granddaughter	granddaughter	Granddaughter		1
+1	11	lin_book_1_lesson_11	写	xiě	to write	writing_hanzi	To write		1
+1	11	lin_book_1_lesson_11	汉字	hàn zì	Chinese character	hanzi_page	Chinese character		1
+1	11	lin_book_1_lesson_11	睡觉	shuì jiào	to sleep	sleeping	To sleep		1
+1	11	lin_book_1_lesson_11	床	chuáng	bed	bed	Bed		1
+1	11	lin_book_1_lesson_11	起床	qǐ chuáng	to get up	getting_up	To get up		1
+1	11	lin_book_1_lesson_11	吃饭	chī fàn	to eat a meal	eating	To eat a meal	eating	1
+1	11	lin_book_1_lesson_11	开车	kāi chē	to drive	driving	To drive		1
+1	11	lin_book_1_lesson_11	车	chē	vehicle	car	Vehicle	car	1
+1	11	lin_book_1_lesson_11	跳舞	tiào wǔ	to dance	dancing	To dance		1
+1	11	lin_book_1_lesson_11	唱歌	chàng gē	to sing	singing	To sing		1
+1	11	lin_book_1_lesson_11	礼物	lǐ wù	gift	gift	Gift		1
+1	11	lin_book_1_lesson_11	表	biǎo	watch	watch	Watch		1
+1	11	lin_book_1_lesson_11	等	děng	to wait	waiting	To wait		1
+1	11	lin_book_1_lesson_11	拍照	pāi zhào	to take a picture	taking_photo	To take a picture		1
+1	11	lin_book_1_lesson_11	打的	dǎ de	to hail a taxi	hailing_taxi	To hail a taxi		1
+1	11	lin_book_1_lesson_11	吸烟	xī yān	to smoke	smoking	To smoke		1
+1	12	lin_book_1_lesson_12	锻炼	duàn liàn	to exercise	workout	To exercise		1
+1	12	lin_book_1_lesson_12	医院	yī yuàn	hospital	hospital	Hospital		1
+1	12	lin_book_1_lesson_12	看病	kàn bìng	to see a doctor	doctor	To see a doctor	doctor	1
+1	12	lin_book_1_lesson_12	身体	shēn tǐ	body	body	Full body, hands visible		1
+1	12	lin_book_1_lesson_12	冷	lěng	cold	weather_cold	Cold		1
+1	12	lin_book_1_lesson_12	衣服	yī fú	clothes	clothes	Clothes		1
+1	12	lin_book_1_lesson_12	休息	xiū xī	to rest	resting	To rest		1
+1	12	lin_book_1_lesson_12	水	shuǐ	water	water	Water		1
+1	12	lin_book_1_lesson_12	药	yào	medicine	medicine	Medicine		1
+1	12	lin_book_1_lesson_12	住院	zhù yuàn	to be in hospital	sickroom	To be in hospital		1
+1	12	lin_book_1_lesson_12	太极拳	tài jí quán	tai chi	tai_chi	Tai chi		1
+1	12	lin_book_1_lesson_12	中午	zhōng wǔ	noon	clock_noon	Noon		1
+1	12	lin_book_1_lesson_12	打针	dǎ zhēn	injection	injection	Injection		1
+1	12	lin_book_1_lesson_12	牙	yá	tooth	tooth	Tooth		1
+1	12	lin_book_1_lesson_12	肚子	dù zi	stomach	stomach	Stomach		1
+1	13	lin_book_1_lesson_13	姑娘	gū niáng	girl	girl	Girl		1
+1	13	lin_book_1_lesson_13	听	tīng	to listen	listening	To listen		1
+1	13	lin_book_1_lesson_13	散步	sàn bù	to take a walk	walking	To take a walk		1
+1	13	lin_book_1_lesson_13	电影	diàn yǐng	movie	movie	Movie		1
+1	13	lin_book_1_lesson_13	咖啡	kā fēi	coffee	coffee	Coffee	coffee	1
+1	13	lin_book_1_lesson_13	宿舍	sù shě	dormitory	dorm	Dormitory	dorm	1
+1	13	lin_book_1_lesson_13	房子	fáng zi	house	home	House		1
+1	13	lin_book_1_lesson_13	厨房	chú fáng	kitchen	kitchen	Kitchen		1
+1	13	lin_book_1_lesson_13	厕所	cè suǒ	toilet	toilet	Toilet		1
+1	13	lin_book_1_lesson_13	公司	gōng sī	company	company	Company		1
+1	13	lin_book_1_lesson_13	打电话	dǎ diàn huà	to make a phone call	phone_call	To make a phone call		1
+1	13	lin_book_1_lesson_13	电话	diàn huà	telephone	telephone	Telephone		1
+1	13	lin_book_1_lesson_13	卧室	wò shì	bedroom	bedroom	Bedroom		1
+1	13	lin_book_1_lesson_13	客厅	kè tīng	living room	living_room	Living room		1
+1	13	lin_book_1_lesson_13	经理	jīng lǐ	manager	job_manager	Manager		1
+1	13	lin_book_1_lesson_13	吃饭	chī fàn	to eat a meal	eating	To eat a meal	eating	1
+1	14	lin_book_1_lesson_14	中午	zhōng wǔ	noon	clock_noon	Noon	clock_noon	1
+1	14	lin_book_1_lesson_14	邮局	yóu jú	post office	post_office	Post office		1
+1	14	lin_book_1_lesson_14	寄	jì	to mail	mailing	To mail		1
+1	14	lin_book_1_lesson_14	打扫	dǎ sǎo	to clean	cleaning	To clean		1
+1	14	lin_book_1_lesson_14	洗	xǐ	to wash	washing	To wash		1
+1	14	lin_book_1_lesson_14	旅行	lǚ xíng	to travel	travel	To travel		1
+1	14	lin_book_1_lesson_14	打工	dǎ gōng	part-time job	part_time_job	Part-time job		1
+1	14	lin_book_1_lesson_14	礼物	lǐ wù	gift	gift	Gift	gift	1
+1	14	lin_book_1_lesson_14	圣诞	shèng dàn	Christmas	christmas	Christmas		1
+1	14	lin_book_1_lesson_14	电视	diàn shì	TV	television	TV		1
+1	14	lin_book_1_lesson_14	元旦	yuán dàn	New Year's Day	new_years_day	New Year's Day		1
+1	14	lin_book_1_lesson_14	春节	chūn jié	Spring Festival	spring_festival	Spring Festival		1
+1	14	lin_book_1_lesson_14	复活节	fù huó jié	Easter	easter	Easter		1
+1	14	lin_book_1_lesson_14	日记	rì jì	diary	diary	Diary		1
+1	14	lin_book_1_lesson_14	晴	qíng	sunny	weather_sunny	Sunny		1
+1	14	lin_book_1_lesson_14	包裹	bāo guǒ	parcel	parcel	Parcel		1
+1	14	lin_book_1_lesson_14	上海	shàng hǎi	Shanghai	shanghai	Shanghai		1
+2	15	lin_book_2_lesson_15	银行	yín háng	bank	bank	Bank		1
+2	15	lin_book_2_lesson_15	排队	pái duì	to queue	queue	To queue		1
+2	15	lin_book_2_lesson_15	人民币	rén mín bì	renminbi	rmb	Renminbi		1
+2	15	lin_book_2_lesson_15	信用卡	xìn yòng kǎ	credit card	credit_card	Credit card		1
+2	15	lin_book_2_lesson_15	参观	cān guān	to visit	sightseeing	To visit		1
+2	15	lin_book_2_lesson_15	兵马俑	bīng mǎ yǒng	terracotta warriors	terracotta	Terracotta warriors		1
+2	15	lin_book_2_lesson_15	明信片	míng xìn piàn	postcard	postcard	Postcard		1
+2	15	lin_book_2_lesson_15	儿子	ér zi	son	son	Son	son	1
+2	15	lin_book_2_lesson_15	菜	cài	dish	dishes	Dish		1
+2	15	lin_book_2_lesson_15	起床	qǐ chuáng	to get up	getting_up	To get up	getting_up	1
+2	15	lin_book_2_lesson_15	吃	chī	to eat	eating	To eat	eating	1
+2	15	lin_book_2_lesson_15	买	mǎi	to buy	buying	To buy	buying	1
+2	15	lin_book_2_lesson_15	商场	shāngchǎng	shopping mall	mall	Shopping mall	mall	1
+2	16	lin_book_2_lesson_16	图书馆	tú shū guǎn	library	library	Library		1
+2	16	lin_book_2_lesson_16	办公室	bàn gōng shì	office	office	Office		1
+2	16	lin_book_2_lesson_16	借书证	jiè shū zhèng	library card	library_card	Library card		1
+2	16	lin_book_2_lesson_16	拿	ná	to hold	holding	To hold		1
+2	16	lin_book_2_lesson_16	考试	kǎo shì	exam	exam	Exam		1
+2	16	lin_book_2_lesson_16	电脑	diàn nǎo	computer	computer	Computer	computer	1
+2	16	lin_book_2_lesson_16	阅览室	yuè lǎn shì	reading room	reading_room	Reading room		1
+2	16	lin_book_2_lesson_16	杂志	zá zhì	magazine	magazine	Magazine		1
+2	16	lin_book_2_lesson_16	房间	fáng jiān	room	room	Room		1
+2	16	lin_book_2_lesson_16	护照	hù zhào	passport	passport	Passport		1
+2	16	lin_book_2_lesson_16	钥匙	yào shī	key	key	Key		1
+2	16	lin_book_2_lesson_16	茶楼	chá lóu	teahouse	teahouse	Teahouse		1
+2	16	lin_book_2_lesson_16	孩子	hái zi	child	child	Child	child	1
+2	16	lin_book_2_lesson_16	老人	lǎo rén	elderly person	elderly	Elderly person		1
+2	17	lin_book_2_lesson_17	旗袍	qí páo	cheongsam	qipao	Cheongsam		1
+2	17	lin_book_2_lesson_17	商店	shāng diàn	shop	shop	Shop	shop	1
+2	17	lin_book_2_lesson_17	太极拳	tài jí quán	tai chi	tai_chi	Tai chi	tai_chi	1
+2	17	lin_book_2_lesson_17	公园	gōng yuán	park	park	Park	park	1
+2	17	lin_book_2_lesson_17	衬衫	chèn shān	shirt	shirt	Shirt		1
+2	17	lin_book_2_lesson_17	黑	hēi	black	black	Black		1
+2	17	lin_book_2_lesson_17	红	hóng	red	red	Red	red	1
+2	17	lin_book_2_lesson_17	白	bái	white	white	White		1
+2	17	lin_book_2_lesson_17	绿	lǜ	green	green	Green		1
+2	17	lin_book_2_lesson_17	售货员	shòu huò yuán	shop assistant	job_salesperson	Shop assistant	job_salesperson	1
+2	17	lin_book_2_lesson_17	丝绸	sī chóu	silk	silk	Silk		1
+2	17	lin_book_2_lesson_17	西服	xī fú	suit	suit	Suit		1
+2	17	lin_book_2_lesson_17	鞋	xié	shoes	shoes	Shoes		1
+2	17	lin_book_2_lesson_17	头发	tóu fā	hair	hair	Hair		1
+2	17	lin_book_2_lesson_17	裤子	kù zi	trousers	trousers	Trousers		1
+2	17	lin_book_2_lesson_17	表	biǎo	watch	watch	Watch	watch	1
+2	17	lin_book_2_lesson_17	相声	xiāng shēng	crosstalk	crosstalk	Crosstalk		1
+2	18	lin_book_2_lesson_18	包裹	bāo guǒ	parcel	parcel	Parcel	parcel	1
+2	18	lin_book_2_lesson_18	词典	cí diǎn	dictionary	dictionary	Dictionary	dictionary	1
+2	18	lin_book_2_lesson_18	海关	hǎi guān	customs	customs	Customs		1
+2	18	lin_book_2_lesson_18	前门	qián mén	Qianmen	qianmen	Qianmen		1
+2	18	lin_book_2_lesson_18	路	lù	road	road	Road		1
+2	18	lin_book_2_lesson_18	公共汽车	gōng gòng qì chē	bus	bus	Bus		1
+2	18	lin_book_2_lesson_18	汽车	qì chē	car	car	Car	car	1
+2	18	lin_book_2_lesson_18	票	piào	ticket	ticket	Ticket		1
+2	18	lin_book_2_lesson_18	地铁	dì tiě	subway	subway	Subway		1
+2	18	lin_book_2_lesson_18	站	zhàn	stop	station	Stop		1
+2	18	lin_book_2_lesson_18	护照	hù zhào	passport	passport	Passport	passport	1
+2	18	lin_book_2_lesson_18	乘客	chéng kè	passenger	passenger	Passenger		1
+2	18	lin_book_2_lesson_18	邮票	yóu piào	stamp	stamp	Stamp		1
+2	18	lin_book_2_lesson_18	信封	xìn fēng	envelope	envelope	Envelope		1
+2	18	lin_book_2_lesson_18	孙子	sūn zi	grandson	grandson	Grandson		1
+2	19	lin_book_2_lesson_19	中国画	zhōng guó huà	Chinese painting	chinese_painting	Chinese painting		1
+2	19	lin_book_2_lesson_19	油画	yóu huà	oil painting	oil_painting	Oil painting		1
+2	19	lin_book_2_lesson_19	美术馆	měi shù guǎn	art gallery	art_gallery	Art gallery		1
+2	19	lin_book_2_lesson_19	画家	huà jiā	painter	painter	Painter		1
+2	19	lin_book_2_lesson_19	京剧	jīng jù	Beijing opera	peking_opera	Beijing opera	peking_opera	1
+2	19	lin_book_2_lesson_19	电梯	diàn tī	elevator	elevator	Elevator		1
+2	19	lin_book_2_lesson_19	墨	mò	ink	ink	Ink		1
+2	19	lin_book_2_lesson_19	虾	xiā	shrimp	shrimp	Shrimp		1
+2	19	lin_book_2_lesson_19	宣纸	xuānzhǐ	rice paper	rice_paper	Rice paper		1
+2	19	lin_book_2_lesson_19	文房四宝	wén fáng sì bǎo	the four treasures of the study	four_treasures	The four treasures of the study		1
+2	19	lin_book_2_lesson_19	唱	chàng	to sing	singing	To sing	singing	1
+2	19	lin_book_2_lesson_19	自行车	zì xíng chē	bicycle	bicycle	Bicycle		1
+2	19	lin_book_2_lesson_19	跑步	pǎo bù	to jog	jogging	To jog		1
+2	19	lin_book_2_lesson_19	书店	shū diàn	bookstore	bookstore	Bookstore	bookstore	1
+2	19	lin_book_2_lesson_19	钢琴	gāng qín	piano	piano	Piano		1
+2	19	lin_book_2_lesson_19	书法	shū fǎ	calligraphy	calligraphy	Calligraphy		1
+2	20	lin_book_2_lesson_20	新年	xīn nián	New Year	new_year	New Year		1
+2	20	lin_book_2_lesson_20	火锅	huǒ guō	hotpot	hotpot	Hotpot		1
+2	20	lin_book_2_lesson_20	涮羊肉	shuàn yáng ròu	mutton hotpot	mutton_hotpot	Mutton hotpot		1
+2	20	lin_book_2_lesson_20	饭馆	fàn guǎn	restaurant	restaurant	Restaurant		1
+2	20	lin_book_2_lesson_20	开车	kāi chē	to drive	driving	To drive	driving	1
+2	20	lin_book_2_lesson_20	音乐会	yīn yuè huì	concert	concert	Concert		1
+2	20	lin_book_2_lesson_20	化妆	huà zhuāng	makeup	makeup	Makeup		1
+2	20	lin_book_2_lesson_20	出租车	chū zū chē	taxi	taxi	Taxi		1
+2	20	lin_book_2_lesson_20	花	huā	flower	flower	Flower		1
+2	20	lin_book_2_lesson_20	照相机	zhào xiāng jī	camera	camera	Camera		1
+2	20	lin_book_2_lesson_20	火车	huǒ chē	train	train	Train		1
+2	20	lin_book_2_lesson_20	月	yuè	moon	moon	Moon		1
+2	20	lin_book_2_lesson_20	小学	xiǎo xué	primary school	school	Primary school		1
+2	20	lin_book_2_lesson_20	音乐厅	yīn yuè tīng	concert hall	concert_hall	Concert hall		1
+2	20	lin_book_2_lesson_20	脚	jiǎo	foot	foot	Foot		1
+2	21	lin_book_2_lesson_21	足球	zú qiú	soccer	football	Soccer		1
+2	21	lin_book_2_lesson_21	同学	tóng xué	classmate	classmates	Classmate		1
+2	21	lin_book_2_lesson_21	学校	xué xiào	school	school	School	school	1
+2	21	lin_book_2_lesson_21	教练	jiào liàn	coach	coach	Coach		1
+2	21	lin_book_2_lesson_21	左边	zuǒ biān	left side	left_side	Left side		1
+2	21	lin_book_2_lesson_21	右边	yòu biān	right side	right_side	Right side		1
+2	21	lin_book_2_lesson_21	前边	qián biān	front	in_front	Front		1
+2	21	lin_book_2_lesson_21	后边	hòu biān	behind	behind	Behind		1
+2	21	lin_book_2_lesson_21	上边	shàng biān	above	on_top	Above		1
+2	21	lin_book_2_lesson_21	下边	xià biān	below	under	Below		1
+2	21	lin_book_2_lesson_21	车站	chē zhàn	bus stop	station	Bus stop	station	1
+2	21	lin_book_2_lesson_21	书店	shū diàn	bookstore	bookstore	Bookstore	bookstore	1
+2	21	lin_book_2_lesson_21	客厅	kè tīng	living room	living_room	Living room	living_room	1
+2	21	lin_book_2_lesson_21	卧室	wò shì	bedroom	bedroom	Bedroom	bedroom	1
+2	21	lin_book_2_lesson_21	卫生间	wèi shēng jiān	washroom	bathroom	Washroom		1
+2	21	lin_book_2_lesson_21	阳台	yáng tái	balcony	balcony	Balcony		1
+2	21	lin_book_2_lesson_21	花园	huā yuán	garden	garden	Garden		1
+2	21	lin_book_2_lesson_21	电影院	diàn yǐng yuàn	cinema	cinema	Cinema		1
+2	21	lin_book_2_lesson_21	咖啡馆	kā fēi guǎn	café	cafe	Café		1
+2	21	lin_book_2_lesson_21	足球场	zú qiú chǎng	soccer field	soccer_field	Soccer field		1
+2	21	lin_book_2_lesson_21	苏州	sū zhōu	Suzhou	suzhou	Suzhou		1
+2	21	lin_book_2_lesson_21	杭州	háng zhōu	Hangzhou	hangzhou	Hangzhou		1
+2	21	lin_book_2_lesson_21	山	shān	mountain	mountain	Mountain		1
+2	22	lin_book_2_lesson_22	越剧	yuèjù	Shaoxing opera	yue_opera	Shaoxing opera		1
+2	22	lin_book_2_lesson_22	戏院	xì yuàn	theater	theater	Theater		1
+2	22	lin_book_2_lesson_22	小说	xiǎo shuō	novel	book	Novel	book	1
+2	22	lin_book_2_lesson_22	座位	zuò wèi	seat	seat	Seat		1
+2	22	lin_book_2_lesson_22	打的	dǎ de	to take a taxi	hailing_taxi	To take a taxi	hailing_taxi	1
+2	22	lin_book_2_lesson_22	演员	yǎn yuán	actor	job_actor	Actor		1
+2	22	lin_book_2_lesson_22	太太	tài tài	wife	wife	Wife		1
+2	22	lin_book_2_lesson_22	结婚	jié hūn	to get married	wedding	To get married		1
+2	22	lin_book_2_lesson_22	哭	kū	to cry	crying	To cry		1
+2	22	lin_book_2_lesson_22	便饭	biàn fàn	a simple meal	dishes	A simple meal	dishes	1
+2	23	lin_book_2_lesson_23	爬	pá	to climb	climbing	To climb		1
+2	23	lin_book_2_lesson_23	飞机	fēi jī	airplane	airplane	Airplane		1
+2	23	lin_book_2_lesson_23	机票	jī piào	plane ticket	plane_ticket	Plane ticket		1
+2	23	lin_book_2_lesson_23	山	shān	mountain	mountain	Mountain	mountain	1
+2	23	lin_book_2_lesson_23	长城	cháng chéng	the Great Wall	great_wall	The Great Wall		1
+2	23	lin_book_2_lesson_23	游泳	yóu yǒng	to swim	swimming	To swim	swimming	1
+2	23	lin_book_2_lesson_23	导游	dǎo yóu	tour guide	tour_guide	Tour guide		1
+2	23	lin_book_2_lesson_23	下雪	xià xuě	to snow	weather_snow	To snow		1
+2	23	lin_book_2_lesson_23	雪	xuě	snow	snow	Snow		1
+2	23	lin_book_2_lesson_23	阴天	yīn tiān	overcast	weather_overcast	Overcast		1
+2	23	lin_book_2_lesson_23	站	zhàn	to stand	standing	To stand		1
+2	23	lin_book_2_lesson_23	龙	lóng	dragon	dragon	Dragon		1
+2	23	lin_book_2_lesson_23	拍	pāi	to take a picture	taking_photo	To take a picture	taking_photo	1
+2	23	lin_book_2_lesson_23	帮忙	bāng máng	to help	helping	To help		1
+2	23	lin_book_2_lesson_23	晴天	qíng tiān	sunny day	weather_sunny	Sunny day	weather_sunny	1
+2	23	lin_book_2_lesson_23	树	shù	tree	tree	Tree		1
+2	23	lin_book_2_lesson_23	熊	xióng	bear	bear	Bear		1
+2	23	lin_book_2_lesson_23	菜单	cài dān	menu	menu	Menu		1
+2	23	lin_book_2_lesson_23	街	jiē	street	road	Street	road	1
+2	23	lin_book_2_lesson_23	停车场	tíng chē chǎng	parking lot	parking	Parking lot		1
+2	24	lin_book_2_lesson_24	舅妈	jiù mā	aunt	aunt	Aunt		1
+2	24	lin_book_2_lesson_24	舅舅	jiù jiù	uncle	uncle	Uncle		1
+2	24	lin_book_2_lesson_24	农民	nóng mín	farmer	farmer	Farmer		1
+2	24	lin_book_2_lesson_24	蔬菜	shū cài	vegetables	vegetables	Vegetables		1
+2	24	lin_book_2_lesson_24	小孩儿	xiǎo hái	child	child	Child	child	1
+2	24	lin_book_2_lesson_24	地图	dì tú	map	map	Map		1
+2	24	lin_book_2_lesson_24	大学	dà xué	university	university	University	university	1
+2	24	lin_book_2_lesson_24	下雨	xià yǔ	to rain	weather_rain	To rain		1
+2	24	lin_book_2_lesson_24	温室	wēn shì	greenhouse	greenhouse	Greenhouse		1
+2	24	lin_book_2_lesson_24	城市	chéng shì	city	city	City		1
+2	24	lin_book_2_lesson_24	村	cūn	village	village	Village		1
+2	24	lin_book_2_lesson_24	机场	jī chǎng	airport	airport	Airport		1
+2	24	lin_book_2_lesson_24	行李	xíng lǐ	luggage	luggage	Luggage		1
+2	24	lin_book_2_lesson_24	箱子	xiāng zi	suitcase	suitcase	Suitcase		1
+2	24	lin_book_2_lesson_24	爱人	ài rén	spouse	spouse	Spouse		1
+2	24	lin_book_2_lesson_24	士兵	shì bīng	soldier	soldier	Soldier		1
+2	24	lin_book_2_lesson_24	发抖	fā dǒu	to shiver	shivering	To shiver		1
+2	24	lin_book_2_lesson_24	生火	shēng huǒ	to make a fire	campfire	To make a fire		1
+2	25	lin_book_2_lesson_25	骑	qí	to ride	riding_bicycle	To ride		1
+2	25	lin_book_2_lesson_25	自行车	zì xíng chē	bicycle	bicycle	Bicycle	bicycle	1
+2	25	lin_book_2_lesson_25	笑	xiào	to laugh	smiling	To laugh		1
+2	25	lin_book_2_lesson_25	躺	tǎng	to lie down	lying	To lie down		1
+2	25	lin_book_2_lesson_25	电视	diàn shì	TV	television	TV	television	1
+2	25	lin_book_2_lesson_25	桌子	zhuō zi	table	table	Table		1
+2	25	lin_book_2_lesson_25	胳膊	gē bó	arm	arm	Arm		1
+2	25	lin_book_2_lesson_25	腿	tuǐ	leg	leg	Leg		1
+2	25	lin_book_2_lesson_25	小偷	xiǎo tōu	thief	thief	Thief		1
+2	25	lin_book_2_lesson_25	派出所	pài chū suǒ	police station	police_station	Police station		1
+2	25	lin_book_2_lesson_25	警察	jǐng chá	police officer	job_police	Police officer		1
+2	25	lin_book_2_lesson_25	手机	shǒu jī	mobile phone	phone	Mobile phone		1
+2	25	lin_book_2_lesson_25	刀	dāo	knife	knife	Knife		1
+2	25	lin_book_2_lesson_25	手	shǒu	hand	hand	Hand		1
+2	25	lin_book_2_lesson_25	项链	xiàng liàn	necklace	necklace	Necklace		1
+2	25	lin_book_2_lesson_25	警车	jǐng chē	police car	police_car	Police car		1
+2	26	lin_book_2_lesson_26	博物馆	bó wù guǎn	museum	museum	Museum		1
+2	26	lin_book_2_lesson_26	图片	tú piàn	picture	photograph	Picture	photograph	1
+2	26	lin_book_2_lesson_26	中餐	zhōng cān	Chinese food	dishes	Chinese food	dishes	1
+2	26	lin_book_2_lesson_26	妻子	qī zi	wife	wife	Wife	wife	1
+2	26	lin_book_2_lesson_26	丈夫	zhàng fū	husband	fam_husband	Husband		1
+2	26	lin_book_2_lesson_26	小伙子	xiǎo huǒ zi	young man	young_man	Young man		1
+2	26	lin_book_2_lesson_26	请客	qǐng kè	to treat someone to a meal	treating	To treat someone to a meal		1
+2	26	lin_book_2_lesson_26	客人	kè rén	guest	guest	Guest		1
+2	26	lin_book_2_lesson_26	聊	liáo	to chat	talking	To chat		1
+2	26	lin_book_2_lesson_26	毕业	bì yè	to graduate	graduation	To graduate		1
+3	27	lin_book_3_lesson_27	乡	xiāng	village	village	Village	village	1
+3	27	lin_book_3_lesson_27	服务员	fú wù yuán	waiter	job_waiter	Waiter		1
+3	27	lin_book_3_lesson_27	壶	hú	pot	teapot	Pot		1
+3	27	lin_book_3_lesson_27	点心	diǎn xīn	pastry	pastry	Pastry		1
+3	27	lin_book_3_lesson_27	茶馆	chá guǎn	teahouse	teahouse	Teahouse	teahouse	1
+3	27	lin_book_3_lesson_27	咖啡馆	kā fēi guǎn	café	cafe	Café	cafe	1
+3	27	lin_book_3_lesson_27	说话	shuō huà	to talk	talking	To talk	talking	1
+3	27	lin_book_3_lesson_27	舞台	wǔ tái	stage	stage	Stage		1
+3	27	lin_book_3_lesson_27	筷子	kuài zi	chopsticks	chopsticks	Chopsticks		1
+3	27	lin_book_3_lesson_27	刀叉	dāo chā	knife and fork	cutlery	Knife and fork		1
+3	27	lin_book_3_lesson_27	盘子	pán zi	plate	plate	Plate		1
+3	27	lin_book_3_lesson_27	嘴	zuǐ	mouth	mouth	Mouth		1
+3	27	lin_book_3_lesson_27	手指	shǒu zhǐ	finger	finger	Finger		1
+3	27	lin_book_3_lesson_27	饮料	yǐn liào	drink	beverage	Drink		1
+3	27	lin_book_3_lesson_27	寺庙	sì miào	temple	temple	Temple		1
+3	27	lin_book_3_lesson_27	和尚	hé shàng	monk	monk	Monk		1
+3	27	lin_book_3_lesson_27	书法家	shū fǎ jiā	calligrapher	calligrapher	Calligrapher		1
+3	28	lin_book_3_lesson_28	月饼	yuè bǐng	mooncake	mooncake	Mooncake		1
+3	28	lin_book_3_lesson_28	水果	shuǐ guǒ	fruit	fruit	Fruit		1
+3	28	lin_book_3_lesson_28	啤酒	pí jiǔ	beer	beer	Beer	beer	1
+3	28	lin_book_3_lesson_28	毛笔	máo bǐ	writing brush	brush	Writing brush		1
+3	28	lin_book_3_lesson_28	文房四宝	wén fáng sì bǎo	the four treasures of the study	four_treasures	The four treasures of the study	four_treasures	1
+3	28	lin_book_3_lesson_28	书法	shū fǎ	calligraphy	calligraphy	Calligraphy	calligraphy	1
+3	28	lin_book_3_lesson_28	围巾	wéi jīn	scarf	scarf	Scarf		1
+3	28	lin_book_3_lesson_28	戴	dài	to wear	putting_on	To wear		1
+3	28	lin_book_3_lesson_28	杯子	bēi zi	cup	cup	Cup		1
+3	28	lin_book_3_lesson_28	月亮	yuè liàng	moon	moon	Moon	moon	1
+3	28	lin_book_3_lesson_28	春节	chūn jié	Spring Festival	spring_festival	Spring Festival	spring_festival	1
+3	28	lin_book_3_lesson_28	糖	táng	candy	candy	Candy		1
+3	28	lin_book_3_lesson_28	华山	huá shān	Mount Hua	mountain	Mount Hua	mountain	1
+3	28	lin_book_3_lesson_28	皇宫	huáng gōng	palace	palace	Palace		1
+3	28	lin_book_3_lesson_28	闻	wén	to smell	smelling	To smell		1
+3	28	lin_book_3_lesson_28	醒	xǐng	to wake up	getting_up	To wake up	getting_up	1
+3	29	lin_book_3_lesson_29	书房	shū fáng	study	study_room	Study		1
+3	29	lin_book_3_lesson_29	墙	qiáng	wall	wall	Wall		1
+3	29	lin_book_3_lesson_29	字画	zì huà	calligraphy and painting	scroll	Calligraphy and painting		1
+3	29	lin_book_3_lesson_29	书架	shū jià	bookshelf	bookshelf	Bookshelf		1
+3	29	lin_book_3_lesson_29	古书	gǔ shū	old book	book	Old book	book	1
+3	29	lin_book_3_lesson_29	盆景	pén jǐng	bonsai	bonsai	Bonsai		1
+3	29	lin_book_3_lesson_29	开花	kāihuā	to bloom	blossom	To bloom		1
+3	29	lin_book_3_lesson_29	叶子	yè zi	leaf	leaf	Leaf		1
+3	29	lin_book_3_lesson_29	浇	jiāo	to water	watering	To water		1
+3	29	lin_book_3_lesson_29	电视机	diàn shì jī	television	television	Television	television	1
+3	29	lin_book_3_lesson_29	柜子	guì zi	cupboard	cupboard	Cupboard		1
+3	29	lin_book_3_lesson_29	沙发	shā fā	sofa	sofa	Sofa		1
+3	29	lin_book_3_lesson_29	时装	shí zhuāng	fashion	fashion	Fashion		1
+3	29	lin_book_3_lesson_29	皮包	pí bāo	handbag	handbag	Handbag		1
+3	29	lin_book_3_lesson_29	眼睛	yǎn jīng	eye	eyes	Eye		1
+3	29	lin_book_3_lesson_29	鼻子	bí zi	nose	nose	Nose		1
+3	29	lin_book_3_lesson_29	院子	yuàn zi	courtyard	courtyard	Courtyard		1
+3	30	lin_book_3_lesson_30	太极剑	tài jí jiàn	taiji sword	taiji_sword	Taiji sword		1
+3	30	lin_book_3_lesson_30	街	jiē	street	road	Street	road	1
+3	30	lin_book_3_lesson_30	跳舞	tiào wǔ	to dance	dancing	To dance	dancing	1
+3	30	lin_book_3_lesson_30	锣	luó	gong	gong	Gong		1
+3	30	lin_book_3_lesson_30	鼓	gǔ	drum	drum	Drum		1
+3	30	lin_book_3_lesson_30	秧歌	yāngge	yangge dance	yangge	Yangge dance		1
+3	30	lin_book_3_lesson_30	老人	lǎo rén	elderly person	elderly	Elderly person	elderly	1
+3	30	lin_book_3_lesson_30	生病	shēng bìng	to fall ill	sick	Person in bed with a thermometer		1
+3	30	lin_book_3_lesson_30	上班	shàng bān	to go to work	going_to_work	To go to work		1
+3	30	lin_book_3_lesson_30	下棋	xià qí	to play chess	chess	To play chess		1
+3	30	lin_book_3_lesson_30	桥	qiáo	bridge	bridge	Bridge		1
+3	30	lin_book_3_lesson_30	跑步	pǎo bù	to jog	jogging	To jog	jogging	1
+3	30	lin_book_3_lesson_30	门口	mén kǒu	doorway	door	Doorway		1
+3	30	lin_book_3_lesson_30	舞厅	wǔ tīng	ballroom	ballroom	Ballroom		1
+3	30	lin_book_3_lesson_30	网吧	wǎng bā	internet café	internet_cafe	Internet café		1
+3	30	lin_book_3_lesson_30	运动	yùn dòng	sport	workout	Sport	workout	1
+3	30	lin_book_3_lesson_30	武术	wǔ shù	martial arts	martial_arts	Martial arts		1
+3	31	lin_book_3_lesson_31	母亲	mǔ qīn	mother	mother	Mother	mother	1
+3	31	lin_book_3_lesson_31	河	hé	river	river	River		1
+3	31	lin_book_3_lesson_31	松树	sōng shù	pine	pine	Pine		1
+3	31	lin_book_3_lesson_31	云	yún	cloud	clouds	Cloud		1
+3	31	lin_book_3_lesson_31	海	hǎi	sea	sea	Sea		1
+3	31	lin_book_3_lesson_31	黄河	huáng hé	the Yellow River	yellow_river	The Yellow River		1
+3	31	lin_book_3_lesson_31	长江	cháng jiāng	the Yangtze	yangtze	The Yangtze		1
+3	31	lin_book_3_lesson_31	黄山	huáng shān	Mount Huang	mountain	Mount Huang	mountain	1
+3	31	lin_book_3_lesson_31	旅游	lǚ yóu	to travel	travel	To travel	travel	1
+3	31	lin_book_3_lesson_31	摇篮	yáo lán	cradle	cradle	Cradle		1
+3	31	lin_book_3_lesson_31	桂林	Guìlín	Guilin	guilin	Guilin		1
+3	31	lin_book_3_lesson_31	柳树	liǔ shù	willow	willow	Willow		1
+3	31	lin_book_3_lesson_31	运河	yùn hé	canal	canal	Canal		1
+3	32	lin_book_3_lesson_32	读书	dú shū	to read	reading	To read		1
+3	32	lin_book_3_lesson_32	父母	fù mǔ	parents	parents	Parents		1
+3	32	lin_book_3_lesson_32	结婚	jié hūn	to get married	wedding	To get married	wedding	1
+3	32	lin_book_3_lesson_32	照相	zhào xiāng	to take a photo	taking_photo	To take a photo	taking_photo	1
+3	32	lin_book_3_lesson_32	背包	bèi bāo	backpack	backpack	Backpack		1
+3	32	lin_book_3_lesson_32	住房	zhù fáng	housing	home	Housing	home	1
+3	32	lin_book_3_lesson_32	工程师	gōng chéng shī	engineer	job_engineer	Engineer	job_engineer	1
+3	33	lin_book_3_lesson_33	植物园	zhí wù yuán	botanical garden	botanical_garden	Botanical garden		1
+3	33	lin_book_3_lesson_33	木屋	mù wū	log cabin	cabin	Log cabin		1
+3	33	lin_book_3_lesson_33	沙漠	shā mò	desert	desert	Desert		1
+3	33	lin_book_3_lesson_33	熊猫	xióng māo	panda	panda	Panda		1
+3	33	lin_book_3_lesson_33	熊	xióng	bear	bear	Bear	bear	1
+3	33	lin_book_3_lesson_33	猫	māo	cat	cat	Cat		1
+3	33	lin_book_3_lesson_33	动物园	dòng wù yuán	zoo	zoo	Zoo		1
+3	33	lin_book_3_lesson_33	植树	zhí shù	to plant trees	planting	To plant trees		1
+3	33	lin_book_3_lesson_33	科学家	kē xué jiā	scientist	scientist	Scientist		1
+3	33	lin_book_3_lesson_33	网	wǎng	net	net	Net		1
+3	33	lin_book_3_lesson_33	腿	tuǐ	leg	leg	Leg	leg	1
+3	33	lin_book_3_lesson_33	耳朵	ěr duǒ	ear	ear	Ear		1
+3	33	lin_book_3_lesson_33	墨镜	mò jìng	sunglasses	sunglasses	Sunglasses		1
+3	34	lin_book_3_lesson_34	船	chuán	boat	boat	Boat		1
+3	34	lin_book_3_lesson_34	辣	là	spicy	spicy	Spicy		1
+3	34	lin_book_3_lesson_34	可乐	kě lè	coke	cola	Coke	cola	1
+3	34	lin_book_3_lesson_34	医务室	yī wù shì	clinic	clinic	Clinic		1
+3	34	lin_book_3_lesson_34	神女峰	shén nǚ fēng	Goddess Peak	mountain	Goddess Peak	mountain	1
+3	34	lin_book_3_lesson_34	坝	bà	dam	dam	Dam		1
+3	34	lin_book_3_lesson_34	山水画	shān shuǐ huà	landscape painting	landscape_painting	Landscape painting		1
+3	34	lin_book_3_lesson_34	夜	yè	night	evening	Night	evening	1
+3	36	lin_book_3_lesson_36	暖气	nuǎn qì	heating	radiator	Heating		1
+3	36	lin_book_3_lesson_36	羽绒服	yǔ róng fú	down jacket	down_jacket	Down jacket		1
+3	36	lin_book_3_lesson_36	裙子	qún zi	skirt	skirt	Skirt		1
+3	36	lin_book_3_lesson_36	草原	cǎo yuán	grassland	grassland	Grassland		1
+3	36	lin_book_3_lesson_36	鸟	niǎo	bird	bird	Bird		1
+3	36	lin_book_3_lesson_36	敲	qiāo	to knock	knocking	To knock		1
+3	37	lin_book_3_lesson_37	晚饭	wǎn fàn	dinner	dishes	Dinner	dishes	1
+3	37	lin_book_3_lesson_37	账单	zhàng dān	bill	bill	Bill		1
+3	37	lin_book_3_lesson_37	球场	qiú chǎng	sports ground	court	Sports ground		1
+3	37	lin_book_3_lesson_37	橄榄球	gǎn lǎn qiú	rugby	rugby	Rugby		1
+3	37	lin_book_3_lesson_37	羊肉	yáng ròu	mutton	mutton	Mutton		1
+3	37	lin_book_3_lesson_37	烤全羊	kǎo quán yáng	roast whole lamb	roast_lamb	Roast whole lamb		1
+3	37	lin_book_3_lesson_37	酒杯	jiǔ bēi	wine cup	wine_glass	Wine cup		1
+3	37	lin_book_3_lesson_37	饭店	fàn diàn	hotel	hotel	Hotel		1
+3	37	lin_book_3_lesson_37	民歌	mín gē	folk song	singing	Folk song	singing	1
+3	37	lin_book_3_lesson_37	竹子	zhú zi	bamboo	bamboo	Bamboo		1
+3	37	lin_book_3_lesson_37	竹笋	zhú sǔn	bamboo shoot	bamboo_shoot	Bamboo shoot		1
+3	37	lin_book_3_lesson_37	炒	chǎo	to stir-fry	cooking	To stir-fry		1
+3	37	lin_book_3_lesson_37	保姆	bǎo mǔ	maid	maid	Maid		1
+3	37	lin_book_3_lesson_37	主人	zhǔ rén	host	host	Host		1
+3	37	lin_book_3_lesson_37	词典	cí diǎn	dictionary	dictionary	Dictionary	dictionary	1
+3	38	lin_book_3_lesson_38	新娘	xīn niáng	bride	bride	Bride		1
+3	38	lin_book_3_lesson_38	喜糖	xǐ táng	wedding candy	wedding_candy	Wedding candy		1
+3	38	lin_book_3_lesson_38	红双喜	hóngshuāngxǐ	double happiness	double_happiness	Double happiness		1
+3	38	lin_book_3_lesson_38	花轿	huā jiào	bridal sedan	bridal_sedan	Bridal sedan		1
+3	38	lin_book_3_lesson_38	宴席	yàn xí	banquet	banquet	Banquet		1
+3	38	lin_book_3_lesson_38	教堂	jiào táng	church	church	Church		1
+3	38	lin_book_3_lesson_38	岳父	yuè fù	father-in-law	father_in_law	Father-in-law		1
+3	38	lin_book_3_lesson_38	岳母	yuè mǔ	mother-in-law	mother_in_law	Mother-in-law		1
+3	38	lin_book_3_lesson_38	邻居	lín jū	neighbor	fam_neighbor	Neighbor		1
+3	38	lin_book_3_lesson_38	厨师	chú shī	cook	chef	Cook		1
+3	38	lin_book_3_lesson_38	胡同	hú tóng	lane	hutong	Lane		1
+3	38	lin_book_3_lesson_38	灯	dēng	lantern	lantern	Lantern		1
+3	38	lin_book_3_lesson_38	走马灯	zǒu mǎ dēng	revolving lantern	revolving_lantern	Revolving lantern		1
+3	38	lin_book_3_lesson_38	对联	duì lián	couplet	couplet	Couplet		1
+3	38	lin_book_3_lesson_38	旗子	qí zi	flag	flag	Flag		1
+3	38	lin_book_3_lesson_38	老虎	lǎo hǔ	tiger	tiger	Tiger		1
+3	38	lin_book_3_lesson_38	导演	dǎo yǎn	director	director	Director		1

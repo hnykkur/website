@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- puzzlehanzi-fit=puzzle -->
+
+<svg
+   data-puzzlehanzi-fit="puzzle"
+   viewBox="0 0 1000.0 1000.0"
+   version="1.1"
+   id="svg21"
+   sodipodi:docname="æ©„_slot1_æ•¢.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style>
+    .ph-editable { fill: #72F2D0; fill-opacity: 1; opacity: 1; font-family: "Noto Sans SC", "Microsoft YaHei", sans-serif; }
+    g, path, text, rect, circle, ellipse, line, polyline, polygon {
+      opacity: 1; fill-opacity: 1; stroke-opacity: 1;
+    }
+  </style>
+
+  <defs
+     id="defs25" />
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.833"
+     inkscape:cx="356.54262"
+     inkscape:cy="500"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg21" />
+  <metadata
+     id="metadata2">puzzlehanzi-fit=puzzle</metadata>
+  <style
+     id="style4">
+    .ph-whole { fill: #f44336; opacity: 0.32; font-family: &quot;Noto Sans SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif; }
+  </style>
+  
+  
+  <g
+     id="puzzlehanzi-editable"
+     inkscape:groupmode="layer"
+     inkscape:label="editable" />
+  <path
+     d="m 330.87501,724.72484 60.60312,-9.86562 V 361.10611 h -27.48281 v -43.69063 h 117.68281 l 38.05312,-84.56249 H 383.02188 v -43.69063 h 188.15156 v 43.69063 l -39.4625,84.56249 h 77.51562 v 43.69063 H 572.58281 V 682.4436 c 17.85208,-3.28855 35.70417,-6.81198 53.55625,-10.57032 -0.93959,10.80521 -0.70469,26.54323 0.70469,47.21407 -17.85209,3.28854 -35.93907,6.57708 -54.26094,9.86562 V 850.8639 H 526.07344 V 737.40922 c -57.78438,10.80521 -118.1526,22.55 -181.10468,35.23437 z M 437.9875,573.21704 h 88.08594 V 487.24517 H 437.9875 Z m 0,-126.84375 h 88.08594 V 361.10611 H 437.9875 Z m 88.08594,245.23124 V 614.08891 H 437.9875 v 93.01875 c 29.59688,-5.16771 58.95885,-10.33542 88.08594,-15.50313 z"
+     id="path363" />
+</svg>

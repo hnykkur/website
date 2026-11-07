@@ -1,0 +1,28 @@
+# Class Tree 往 + direction cloze. English is the prompt; □ hides the direction after 往.
+# Pattern: 往 + direction + verb. Counts: 2 each of 左/右/前/后/里/外/上/下/东/南/西/北. File order is shuffled.
+# Do not blank 往. Not Directionals 前面/里面 (location after a noun).
+hanzi	pinyin	english	blank	dictionary_entries
+从学校往上走。	cóng xuéxiào wǎng shàng zǒu	Walk up from the school.	上	
+往医院南边看。	wǎng yīyuàn nánbian kàn	Look toward the south side of the hospital.	南	
+往商店后面走。	wǎng shāngdiàn hòumiàn zǒu	Go around to the back of the store.	后	
+在公司旁边往右走。	zài gōngsī pángbiān wǎng yòu zǒu	Go right by the company.	右	
+往电影院前面看。	wǎng diànyǐngyuàn qiánmiàn kàn	Look in front of the cinema.	前	
+从图书馆往南走。	cóng túshūguǎn wǎng nán zǒu	Walk south from the library.	南	
+往银行外面走。	wǎng yínháng wàimiàn zǒu	Walk outside the bank.	外	
+往超市东边走。	wǎng chāoshì dōngbian zǒu	Go along the east side of the supermarket.	东	
+从餐厅往前走。	cóng cāntīng wǎng qián zǒu	Walk forward from the restaurant.	前	
+在酒店旁边往左走。	zài jiǔdiàn pángbiān wǎng zuǒ zǒu	Go left by the hotel.	左	
+往书店里走！	wǎng shūdiàn lǐ zǒu	Go inside the bookstore!	里	
+从机场往后看。	cóng jīchǎng wǎng hòu kàn	Look back from the airport.	后	
+往商场外面看。	wǎng shāngchǎng wàimiàn kàn	Look outside the mall.	外	
+在工厂旁边往左转。	zài gōngchǎng pángbiān wǎng zuǒ zhuǎn	Turn left by the factory.	左	
+从邮局往下看。	cóng yóujú wǎng xià kàn	Look down from the post office.	下	
+往北看。	wǎng běi kàn	Look north.	北	
+往里看。	wǎng lǐ kàn	Look inside.	里	
+往北走。	wǎng běi zǒu	Go north.	北	
+往上看。	wǎng shàng kàn	Look up.	上	
+往西看。	wǎng xī kàn	Look west.	西	
+往右转。	wǎng yòu zhuǎn	Turn right.	右	
+往下走。	wǎng xià zǒu	Go down.	下	
+往西走。	wǎng xī zǒu	Go west.	西	
+往东看。	wǎng dōng kàn	Look east.	东	
