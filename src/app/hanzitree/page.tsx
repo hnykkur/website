@@ -14,22 +14,10 @@ const installs = [
     qr: "/images/hanzitree/hanzi-tree-play.png",
   },
   {
-    label: "TestFlight",
-    href: "https://testflight.apple.com/v1/app/6803083301",
+    label: "App Store",
+    href: "https://apps.apple.com/app/hanzi-tree/id6803083301",
     pair: "/images/hanzitree/pair-iphone.png",
-    qr: "/images/hanzitree/hanzi-tree-testflight.png",
-  },
-  {
-    label: "Android APK",
-    href: "https://drive.google.com/file/d/1N8Akq5vEKe2Rjey20Hx7VL7cp-vcyTan/view?usp=drive_link",
-    pair: "/images/hanzitree/pair-apk.png",
-    qr: "/images/hanzitree/hanzi-tree-apk.png",
-  },
-  {
-    label: "Windows",
-    href: "https://drive.google.com/file/d/1Ksh8HnGkbSXOv6TaxrDfo8b_7VbB-GCI/view?usp=sharing",
-    pair: "/images/hanzitree/pair-windows.png",
-    qr: "/images/hanzitree/hanzi-tree-windows.png",
+    qr: "/images/hanzitree/hanzi-tree-appstore.png",
   },
 ] as const;
 
@@ -97,7 +85,7 @@ export default function HanziTreePage() {
         <p className="mt-4 max-w-xl text-base text-foreground">
           The browser copy is version {appVersion}.
         </p>
-        <ul className="mt-6 grid max-w-3xl grid-cols-2 gap-4 sm:grid-cols-4">
+        <ul className="mt-6 grid max-w-xl grid-cols-2 gap-4">
           {installs.map((install) => (
             <li key={install.label}>
               <a
